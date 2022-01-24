@@ -1,0 +1,30 @@
+Paste a text into input.txt to analyze vocabulary, save and close the file. 
+
+If the text contains more than 50 000 words - the process may take some minutes to finish, 
+
+in that case split the text manually to smaller parts. Save the file in UTF-8.
+
+The text vocabulary will be placed into output-new.txt, so the file's content will be replaced. 
+
+The base.txt will be updated - new vocabulary will be added to the existent vocabulary list. 
+
+Make sure you save base.txt elsewhere or clean the file if you don't want to mix the vocabulary lists.
+
+Click the ANALYZE button to start.
+
+
+In case you want to merge two bases - save one base.txt file as ouput-new.txt in the program directory,
+
+place the other base.txt into the program directory. Try not to edit base.txt or problems may come.
+
+
+Output data comes in the next format: number,word and you can copy it to Excel for further usage.
+
+Excel makes able to copy only words, place them into Google translate that returns the translated list.
+
+An app with space repetiotion system, such as AnkDroid makes easier to learn the vocabulary you 
+
+get from Vocabulary Builder.
+
+
+
