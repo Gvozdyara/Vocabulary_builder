@@ -1,6 +1,7 @@
 import textwrap
 import time
 from tkinter import *
+import re
 
 import tkinter as tk
 
@@ -19,9 +20,6 @@ def get_info():
 
 
 def extract_single_word(text):
-
-
-
     f = open('input.txt', 'r', encoding='utf8')  # читаем файл с текстом
     input_text = f.read()
     f.close()
@@ -57,73 +55,31 @@ def extract_single_word(text):
             else:
                 word = ''
                 i += 1
-    if len(list) > 150000:
-        lbl_status.config(text = 'The analysis may take more than 20 min')
-        lbl_status.update()
-
-
-    elif len(list) > 80000:
-        lbl_status.config(text = 'The analysis will be completed in more than 10 min')
-        lbl_status.update()
-
-    elif len(list) > 50000:
-        lbl_status.config(text = 'The analysis will be completed in 5-10 min')
-        lbl_status.update()
-    else:
-        lbl_status.config(text='It will be done in a minute')
-        lbl_status.update()
-
     return list
 
 
-##одинаковые слова расположены рядом друг с другом: 1113333225555
+# making touple count,word
 def group_same_words(list):
-    # bar = IncrementalBar('Processing', max=len(list))
-    output_list = []
-    i = 0
-    while i < len(list):
-
-        for r in range(len(list)):
-
-            if list[i] not in output_list:
-                j = 0
-                while j < list.count(list[i]):
-                    output_list.append(list[i])
-                    j += 1
-                i += 1
-            else:
-                i += 1
-            str="{}/{}".format(i,len(list))
-
+    dict = {}
+    k = 1
+    for i in list:
+        try:
+            count = dict.get(i)
+            count += 1
+            dict[i] = count
+        except:
+            dict[i] = 1
+        k += 1
+        if k%100 is None:
+            str="{}/{}".format(k,len(list))
             lbl_status.config(text=str)
             lbl_status.update()
+    listword = []
+    for key in dict:
+        listword.append((key, dict.get(key)))
+    listword.sort(key=lambda i:i[1], reverse=True)
     lbl_status.config(text="It's almost done")
-
-    #         bar.next()
-    # bar.finish()bt
-
-
-    return output_list
-
-def clear_list_make_counts_list(list):
-    i = 0
-
-    counts_list = []
-    while i < len(list):
-        counts_list.append(list.count(list[i]))
-        j = i
-        while j < len(list):
-            if j == len(list) - 1:
-                break
-            else:
-                if list[j + 1] == list[j]:
-                    list.pop(j + 1)
-                else:
-                    break
-        i += 1
-
-    tuple1 = sorted(zip(counts_list, list), reverse=True)
-    return [i for i in tuple1]  # , [i for i in list], [i for i in counts_list]
+    return listword
 
 
 def merge_first_step():
@@ -163,7 +119,6 @@ def merge_first_step():
     btn_analyze['state'] = NORMAL
     btn_merge['state'] = NORMAL
     btn_help['state'] = NORMAL
-
 
 
 ##функция возвращающая два списка из существующей базы с новой
@@ -235,10 +190,6 @@ def run_analyze():
     btn_merge['state'] = DISABLED
     btn_help['state'] = DISABLED
 
-
-
-
-
     f = open('input.txt', 'r', encoding='utf8')  # читаем файл с текстом
     input_text = f.read()
     f.close()
@@ -256,15 +207,9 @@ def run_analyze():
     lbl_proceed.update()
     time.sleep(2)
 
-    list = clear_list_make_counts_list(list)  # сортировка кортежа частот-слово
-    window_output = '3 of 4'
-    lbl_proceed.config(text=window_output)
-    lbl_proceed.update()
-    time.sleep(2)
-
     f = open('output-new.txt', 'w', encoding='utf8')  # открытие файла на запись нового списка
-    for t in list:
-        f.write(','.join(str(s) for s in t) + '\n')
+    for key in list:
+        f.write('{},{}\n'.format(key[0],key[1]))
     f.close()
 
     f = open('base.txt', 'r', encoding='utf8')  # открытие базы и преобразование в два списка
@@ -303,10 +248,6 @@ window.config(height=600, width=800,  bg='White')
 
 window.iconbitmap('logo.ico')
 
-
-
-
-
 text1 = 'Build your own vocabulary list \nto make language learning easier'
 lbl_warning = Label(window, width=40, height=2, bg="#ACFDF8", fg='#228987', text=text1, font=12,  )
 lbl_warning.grid(column=1, row=0)
@@ -335,9 +276,6 @@ btn_analyze.grid(column=0, row=1)
 btn_merge =Button(frame_btn, width=18, height=2, bg="#66CDAA", fg='#ffffff', font=14, activebackground='#ACFDF8',
                   text="MERGE", relief=FLAT, borderwidth=1, command=lambda: merge_first_step())
 btn_merge.grid(column=0, row=2)
-
-
-
 window.resizable(False, False)
 
 window.mainloop()
