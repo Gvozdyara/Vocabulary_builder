@@ -1,4 +1,4 @@
-import textwrap
+
 import time
 from tkinter import *
 import re
@@ -76,8 +76,8 @@ def group_same_words(list):
             lbl_status.update()
     listword = []
     for key in dict:
-        listword.append((key, dict.get(key)))
-    listword.sort(key=lambda i:i[1], reverse=True)
+        listword.append((dict.get(key), key))
+    listword.sort(key=lambda i:i[0], reverse=True)
     lbl_status.config(text="It's almost done")
     return listword
 
@@ -212,15 +212,36 @@ def run_analyze():
         f.write('{},{}\n'.format(key[0],key[1]))
     f.close()
 
-    f = open('base.txt', 'r', encoding='utf8')  # открытие базы и преобразование в два списка
-    input_old = f.read()
-    counts_old, word_old = split_file_to_double_list(input_old)
-    f.close()
+    with open("base.txt", 'r', encoding="utf8") as file:
+        base_list = [item for item in file.read().split("\n")]
+        count_old = []
+        word_old = []
+        for item in base_list:
+            try:
+                count_old.append(item.split(",")[0])
+                word_old.append(item.split(",")[1])
+            except:
+                print("wrong line")
+                continue
 
-    f = open('output-new.txt', 'r', encoding='utf8')  # открытие нового списка и преобразование в два списка
-    input_new = f.read()
-    count_new, word_new = split_file_to_double_list(input_new)
-    f.close()
+    with open("output-new.txt.txt", 'r', encoding="utf8") as file:
+        output_new_list = [item for item in file.read().split("\n")]
+        count_new = []
+        word_new = []
+        for item in output_new_list:
+            try:
+                count_new.append(item.split(",")[0])
+                word_new.append(item.split(",")[1])
+            except:
+                print("wrong line")
+                continue
+
+
+    base_old_dict = {count}
+
+    with open("base.txt", "w", encoding="utf8") as file:
+        file.write(to_write)
+
 
     window_output = 'Writing into the file'
     lbl_proceed.config(text=window_output)
