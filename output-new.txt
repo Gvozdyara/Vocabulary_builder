@@ -1,16 +1,40 @@
+21252,de
+14407,la
+13493,que
+13406,y
+10638,en
+10589,a
+10527,el
+6657,se
+6291,un
+5678,los
+5342,no
 4775,una
 3743,por
+3638,con
+3503,lo
 3435,dijo
+3386,le
+3345,las
+3302,su
+2989,del
+2753,al
 2243,había
+2231,o
 2062,era
 2043,como
 1930,pero
 1812,más
+1538,si
+1441,es
 1291,para
 1184,sus
 1150,cuando
+1112,me
+1099,sin
 1002,vez
 998,estaba
+922,él
 909,luego
 906,tenía
 897,qué
@@ -18,8 +42,10 @@
 817,después
 815,sólo
 797,donde
+750,ya
 745,fue
 714,hasta
+684,ni
 675,todo
 660,uno
 646,aunque
@@ -27,6 +53,7 @@
 632,también
 601,casa
 591,nada
+570,yo
 555,muy
 550,preguntó
 547,tal
@@ -39,6 +66,7 @@
 515,ella
 513,mientras
 512,durante
+490,mi
 488,desde
 481,pues
 480,tres
@@ -59,6 +87,7 @@
 423,les
 422,tiempo
 415,antes
+412,sí
 411,día
 404,pensó
 401,tipo
@@ -90,6 +119,7 @@
 327,cada
 325,parte
 325,según
+325,te
 325,ojos
 317,porque
 306,ver
@@ -133,9 +163,9 @@
 242,haas
 241,hombre
 240,quien
+240,son
 240,mujeres
 239,rato
-239,son
 237,estado
 237,cabeza
 235,colonia
@@ -151,6 +181,7 @@
 220,tanto
 220,usted
 218,puerta
+214,e
 213,tan
 212,éste
 212,gente
@@ -188,6 +219,7 @@
 178,realidad
 178,llevaba
 176,alguien
+175,ha
 172,negro
 171,tarde
 169,hotel
@@ -225,12 +257,14 @@
 157,manos
 157,miedo
 156,dije
+155,sé
 155,cadáver
 154,niño
 153,pensaba
 153,unas
 153,llamaba
 153,méxico
+152,he
 152,martínez
 151,probablemente
 150,amigo
@@ -260,6 +294,7 @@
 139,muerto
 139,cura
 139,muchacha
+138,tú
 136,mayor
 136,viejo
 136,periodista
@@ -281,11 +316,13 @@
 131,salió
 129,grandes
 129,agua
+129,mis
 127,horas
 127,ésta
 127,historia
 127,cosa
 127,suelo
+127,mí
 127,dónde
 126,mundo
 126,dijeron
@@ -297,6 +334,7 @@
 124,hans
 122,cruz
 121,meses
+121,ir
 121,pronto
 121,tener
 120,pensar
@@ -373,6 +411,7 @@
 100,hija
 99,hermano
 99,puesto
+99,tu
 99,periodistas
 98,cierto
 98,ejemplo
@@ -455,6 +494,7 @@
 84,pie
 83,aquellos
 83,adolescente
+83,va
 83,sentado
 83,soldados
 83,kessler
@@ -498,6 +538,7 @@
 76,apenas
 76,varias
 76,carta
+76,df
 76,soldado
 75,oficina
 75,decidió
@@ -648,6 +689,7 @@
 59,intentó
 59,asesinatos
 59,niña
+58,vi
 58,música
 58,tren
 58,única
@@ -775,6 +817,7 @@
 49,labios
 49,programa
 49,deseo
+49,ah
 49,mexicana
 49,recepcionista
 49,pantalones
@@ -843,6 +886,7 @@
 45,hacerlo
 45,entrada
 45,periódicos
+45,da
 45,comisaría
 45,garcía
 44,dando
@@ -872,6 +916,7 @@
 43,vecina
 43,árboles
 43,fui
+43,ex
 43,esperaban
 43,sentada
 43,éstos
@@ -931,6 +976,7 @@
 40,lengua
 40,dolor
 40,olvidado
+40,di
 40,amistad
 40,actitud
 40,vueltas
@@ -1057,6 +1103,7 @@
 35,buscando
 35,antiguo
 35,plantas
+35,ti
 35,vestida
 35,naturaleza
 35,imaginó
@@ -1337,6 +1384,7 @@
 27,clases
 27,caminos
 27,ciertamente
+27,té
 27,mismos
 27,esperó
 27,semanas
@@ -1415,6 +1463,7 @@
 26,mediante
 26,echó
 26,vacía
+26,ve
 26,revolución
 26,desayunar
 26,playa
@@ -1472,6 +1521,7 @@
 25,mataron
 25,anne
 25,lucy
+25,ss
 25,batallón
 25,diputada
 24,estudios
@@ -1587,6 +1637,7 @@
 23,importaba
 23,daño
 23,agujero
+23,ay
 23,vanessa
 23,encogió
 23,menores
@@ -1683,13 +1734,13 @@
 22,demetrio
 22,linda
 22,sammer
-21,2666
 21,aceptó
 21,poesía
 21,habido
 21,prefirió
 21,libre
 21,humor
+21,u
 21,meterse
 21,respecto
 21,diferentes
@@ -1758,6 +1809,7 @@
 21,señorita
 21,camión
 21,verga
+21,n
 21,elvira
 21,propiedad
 21,chimal
@@ -2241,6 +2293,7 @@
 16,casita
 16,salón
 16,dormían
+16,tus
 16,quiénes
 16,asesinada
 16,totalmente
@@ -2263,6 +2316,7 @@
 16,trabajó
 16,huntville
 16,dimensión
+16,jt
 16,kruse
 16,zeller
 16,correctora
@@ -2442,7 +2496,6 @@
 14,honor
 14,literaria
 14,raras
-14,1994
 14,diciembre
 14,invitado
 14,corto
@@ -2521,6 +2574,7 @@
 14,frijoles
 14,asesinadas
 14,llamé
+14,oí
 14,acompañaba
 14,vecinas
 14,sebastián
@@ -2565,6 +2619,7 @@
 14,wolfram
 13,máscara
 13,convirtió
+13,xx
 13,ejemplares
 13,horrible
 13,lentamente
@@ -2742,7 +2797,6 @@
 12,adivinar
 12,bebido
 12,reunión
-12,1993
 12,aparecido
 12,borchmeyer
 12,viajado
@@ -2948,7 +3002,9 @@
 11,decidido
 11,distinta
 11,bajos
+11,do
 11,trajo
+11,primavera
 11,grave
 11,llevara
 11,social
@@ -2993,7 +3049,6 @@
 11,comentario
 11,tirado
 11,apreciar
-11,1996
 11,planta
 11,literalmente
 11,visitaron
@@ -3035,9 +3090,11 @@
 11,zapatillas
 11,zumo
 11,sudar
+11,os
 11,mejilla
 11,contemplaban
 11,efectos
+11,fe
 11,ricos
 11,crédito
 11,presente
@@ -3190,7 +3247,6 @@
 10,almacenes
 10,milán
 10,encontraría
-10,primavera
 10,tales
 10,tomaban
 10,costado
@@ -3768,6 +3824,7 @@
 9,moravia
 9,fürst
 9,pückler
+8,b
 8,material
 8,consejo
 8,literarios
@@ -4243,7 +4300,6 @@
 7,discreto
 7,ajena
 7,personales
-7,1995
 7,corre
 7,resultados
 7,levantaron
@@ -4345,7 +4401,6 @@
 7,cueva
 7,sal
 7,volando
-7,1997
 7,repetir
 7,susto
 7,preparado
@@ -4412,6 +4467,7 @@
 7,subido
 7,detenían
 7,peregrinos
+7,c
 7,saltó
 7,pesaba
 7,veterano
@@ -4544,7 +4600,6 @@
 7,ganó
 7,pares
 7,receta
-7,310
 7,matojos
 7,altar
 7,desplazó
@@ -4558,6 +4613,7 @@
 7,serenidad
 7,desempleo
 7,pollero
+7,smith
 7,enteros
 7,grueso
 7,instantes
@@ -4603,6 +4659,7 @@
 7,beatas
 7,catalina
 7,suena
+7,so
 7,seca
 7,establecido
 7,polleros
@@ -4734,7 +4791,6 @@
 6,preguntándole
 6,cerrando
 6,indefectiblemente
-6,1920
 6,ideal
 6,sucesión
 6,desaparecidas
@@ -4810,6 +4866,7 @@
 6,mayormente
 6,equívoco
 6,transformado
+6,co
 6,prudencia
 6,mataran
 6,comerse
@@ -4941,6 +4998,7 @@
 6,brown
 6,pretendiera
 6,meteoritos
+6,holmes
 6,policiacas
 6,reflejaba
 6,primos
@@ -5091,7 +5149,6 @@
 6,viajeros
 6,alquilar
 6,alcanzado
-6,1930
 6,viandas
 6,gripe
 6,sabor
@@ -5301,7 +5358,7 @@
 6,ametralladora
 6,muslo
 6,informaron
-6,677
+6,wesson
 6,industria
 6,alonso
 6,cercanías
@@ -5314,7 +5371,6 @@
 6,litoral
 6,báltico
 6,rocosas
-6,1933
 6,gallina
 6,servidumbre
 6,releía
@@ -5341,6 +5397,8 @@
 6,hilde
 6,goering
 6,reparador
+5,x
+5,in
 5,consideración
 5,claude
 5,navidad
@@ -5361,7 +5419,6 @@
 5,capricho
 5,temporal
 5,sacarle
-5,1990
 5,respetado
 5,sufría
 5,determinada
@@ -5394,6 +5451,7 @@
 5,fingido
 5,civilizado
 5,encontrarse
+5,li
 5,solapa
 5,manuscritos
 5,profusamente
@@ -5415,6 +5473,7 @@
 5,gastos
 5,hogar
 5,evento
+5,ma
 5,tapa
 5,arrugada
 5,sello
@@ -5558,6 +5617,7 @@
 5,estatuas
 5,boda
 5,canales
+5,ta
 5,apropiado
 5,continuación
 5,maleza
@@ -5680,7 +5740,6 @@
 5,traseras
 5,maletas
 5,nombró
-5,holmes
 5,comedia
 5,comunicó
 5,acompañantes
@@ -5726,7 +5785,6 @@
 5,vómito
 5,detenimiento
 5,mueca
-5,1974
 5,abolición
 5,averiguarlo
 5,acabaran
@@ -5869,6 +5927,7 @@
 5,desconfianza
 5,contempla
 5,primaria
+5,v
 5,viviera
 5,domínguez
 5,unidad
@@ -5894,7 +5953,6 @@
 5,guyau
 5,bloom
 5,seguidores
-5,1936
 5,desierta
 5,pesado
 5,quita
@@ -5943,6 +6001,7 @@
 5,independencia
 5,gobernador
 5,admapu
+5,yekmonchi
 5,tribu
 5,piezas
 5,molina
@@ -6062,6 +6121,7 @@
 5,secuestraron
 5,exclusivamente
 5,sueña
+5,pa
 5,tubos
 5,afirmativa
 5,lanzaron
@@ -6208,6 +6268,7 @@
 5,carnal
 5,degollado
 5,productor
+5,sa
 5,paulina
 5,frotis
 5,puñaladas
@@ -6302,7 +6363,8 @@
 5,shakespeare
 5,feuillet
 4,vivas
-4,2004
+4,s
+4,l
 4,oasis
 4,ignacio
 4,surge
@@ -6344,7 +6406,6 @@
 4,agonizando
 4,simposio
 4,creció
-4,1992
 4,parva
 4,aficiones
 4,citaba
@@ -6380,6 +6441,7 @@
 4,desnudó
 4,conversando
 4,buscado
+4,il
 4,ropajes
 4,obedecían
 4,asistencia
@@ -6412,6 +6474,7 @@
 4,caros
 4,peón
 4,caña
+4,ra
 4,pizca
 4,agarraba
 4,extraordinario
@@ -6476,7 +6539,6 @@
 4,ostentaba
 4,apagaba
 4,despertaron
-4,311
 4,musical
 4,reuniones
 4,candidato
@@ -6519,6 +6581,7 @@
 4,marqués
 4,conexiones
 4,ménage
+4,à
 4,trois
 4,literarias
 4,diosa
@@ -6600,6 +6663,7 @@
 4,acontecimiento
 4,fingir
 4,antebrazo
+4,oh
 4,absurdo
 4,viernes
 4,hulla
@@ -6784,7 +6848,6 @@
 4,registrado
 4,podríamos
 4,terminara
-4,1945
 4,daría
 4,sobrevivir
 4,excepciones
@@ -6831,7 +6894,6 @@
 4,caborca
 4,discretos
 4,cantó
-4,1915
 4,reses
 4,esfumó
 4,desanimados
@@ -6985,7 +7047,6 @@
 4,nietzsche
 4,trendelenburg
 4,stalin
-4,1938
 4,rachas
 4,publica
 4,relatos
@@ -7042,12 +7103,12 @@
 4,bernardo
 4,ambrosio
 4,firmado
+4,r
 4,sobra
 4,abuso
 4,políticamente
 4,paralelos
 4,mentón
-4,yekmonchi
 4,encargaba
 4,abrí
 4,testimonios
@@ -7142,7 +7203,6 @@
 4,semiobesa
 4,off
 4,ilegales
-4,smith
 4,municipio
 4,alcantarillas
 4,luchar
@@ -7299,7 +7359,10 @@
 4,cocinera
 4,posiciones
 4,fractura
+4,t
+4,ws
 4,inc
+4,po
 4,jugaba
 4,prioridades
 4,urgentes
@@ -7312,6 +7375,7 @@
 4,disfrazado
 4,truenos
 4,relámpagos
+4,na
 4,cambiaban
 4,depositar
 4,intervalo
@@ -7378,7 +7442,7 @@
 4,caerse
 4,emilio
 4,económicos
-4,horizonw&e
+4,horizonw
 4,vistos
 4,echa
 4,técnicos
@@ -7468,7 +7532,8 @@
 4,enterraron
 4,tuberculosis
 4,remedios
-4,dutch&rhodes
+4,dutch
+4,rhodes
 4,detenciones
 4,rené
 4,alvarado
@@ -7480,6 +7545,7 @@
 4,marina
 4,logrado
 4,archivó
+4,mm
 4,apartaban
 4,ingenuo
 4,cardona
@@ -7513,7 +7579,6 @@
 4,terciopelo
 4,contratar
 4,polonia
-4,1998
 4,jardinería
 4,criminal
 4,posee
@@ -7588,7 +7653,6 @@
 4,normas
 4,tuberculosos
 4,impotentes
-4,1929
 4,zamiatina
 4,conversan
 4,nubarrones
@@ -7620,6 +7684,7 @@
 4,tegucigalpa
 3,diseño
 3,ilustración
+3,©
 3,charles
 3,publicara
 3,dividida
@@ -7642,7 +7707,6 @@
 3,cursi
 3,forzó
 3,nápoles
-3,1975
 3,selección
 3,escaseaban
 3,palermo
@@ -7664,6 +7728,7 @@
 3,considerables
 3,traslucía
 3,contagiosa
+3,to
 3,hermosos
 3,leipzig
 3,organización
@@ -7848,6 +7913,7 @@
 3,alas
 3,regular
 3,generosos
+3,ro
 3,tácita
 3,funcionaban
 3,íntima
@@ -7888,6 +7954,7 @@
 3,voluminoso
 3,fabricar
 3,normales
+3,ja
 3,aumentaron
 3,encargados
 3,enfrenté
@@ -7992,6 +8059,7 @@
 3,farol
 3,enfermeros
 3,acostaban
+3,dé
 3,alarmado
 3,ten
 3,oyendo
@@ -8072,6 +8140,7 @@
 3,leerla
 3,siniestra
 3,emocionó
+3,tuyo
 3,emociones
 3,líquido
 3,dirigidos
@@ -8472,7 +8541,6 @@
 3,bandada
 3,optimista
 3,rezagados
-3,1978
 3,tendrá
 3,arribistas
 3,fines
@@ -8530,7 +8598,6 @@
 3,queridas
 3,hojeaba
 3,rindió
-3,981
 3,bardas
 3,accidentes
 3,aéreos
@@ -8591,7 +8658,6 @@
 3,letrinas
 3,plácidamente
 3,dirige
-3,1900
 3,creas
 3,tranquilizantes
 3,secó
@@ -8634,7 +8700,9 @@
 3,dibujaba
 3,lichtenberg
 3,colgante
+3,ho
 3,hacerte
+3,mo
 3,escucho
 3,satisfactoria
 3,ética
@@ -8757,7 +8825,6 @@
 3,vomitó
 3,quicio
 3,rezando
-3,303
 3,fantásticas
 3,ocupaban
 3,atar
@@ -9011,7 +9078,6 @@
 3,mañanitas
 3,rodeaba
 3,ceño
-3,401
 3,valen
 3,contrató
 3,representaba
@@ -9096,6 +9162,7 @@
 3,dedicadas
 3,pases
 3,desperdicios
+3,west
 3,file
 3,sis
 3,kilómetro
@@ -9182,6 +9249,7 @@
 3,disparando
 3,o’bannion
 3,buenavista
+3,ca
 3,troncos
 3,alimentado
 3,estacionar
@@ -9217,6 +9285,7 @@
 3,cambiarse
 3,reclamó
 3,volteados
+3,tuya
 3,ponga
 3,estudiaban
 3,toca
@@ -9368,7 +9437,6 @@
 3,zapatero
 3,localizados
 3,tez
-3,870
 3,travesuras
 3,sustancias
 3,proporciona
@@ -9494,10 +9562,10 @@
 3,narcotraficantes
 3,cambies
 3,estrangularla
+3,eh
 3,violadas
 3,combi
 3,resistir
-3,wesson
 3,spanglish
 3,respetable
 3,movies
@@ -9528,7 +9596,6 @@
 3,percibían
 3,celestino
 3,arraya
-3,1935
 3,vertiginosa
 3,tatarabuela
 3,pretendió
@@ -9606,7 +9673,6 @@
 3,eternidad
 3,arrojé
 3,encuentre
-3,smith&wesson
 3,recato
 3,hieráticos
 3,personalidades
@@ -9656,6 +9722,7 @@
 3,artificiales
 3,desmayado
 3,ministerio
+3,ji
 3,trío
 3,joachimsthaler
 3,anula
@@ -9664,7 +9731,6 @@
 3,buitre
 3,quemados
 3,refiere
-3,1939
 3,décimo
 3,ametralladorista
 3,gercke
@@ -9676,7 +9742,6 @@
 3,ordenanza
 3,científicas
 3,germánico
-3,1940
 3,maginot
 3,pulmonar
 3,esquizofrenia
@@ -9712,7 +9777,6 @@
 3,juramento
 3,botes
 3,entrañas
-3,1941
 3,rusas
 3,bug
 3,península
@@ -9737,7 +9801,6 @@
 3,dirigente
 3,yiddish
 3,bolchevique
-3,1924
 3,participación
 3,balzac
 3,crearon
@@ -9824,27 +9887,23 @@
 3,tiza
 3,atlanta
 3,telepredicadores
-3,1999
 3,sabores
 3,antepasado
 3,libritos
 3,ofrece
 3,belano
 2,anagrama
-2,339
 2,comunicada
 2,jorge
 2,herralde
 2,referente
 2,conjunta
-2,1980
 2,trilogía
 2,dejadez
 2,inaugural
 2,archimboldiano
 2,dificultades
 2,espanto
-2,1981
 2,tomo
 2,mitzi
 2,fortalecer
@@ -9862,8 +9921,6 @@
 2,holandés
 2,conservar
 2,catedrático
-2,1976
-2,1988
 2,italianas
 2,mediano
 2,saldaban
@@ -9872,7 +9929,6 @@
 2,berna
 2,sermones
 2,derribaron
-2,1991
 2,detectado
 2,aparatoso
 2,hölderlin
@@ -10004,7 +10060,6 @@
 2,descorrió
 2,fragmento
 2,supersónica
-2,700
 2,avisaron
 2,imperturbable
 2,diálogos
@@ -10047,7 +10102,6 @@
 2,salazón
 2,fritz
 2,temible
-2,1927
 2,barandilla
 2,acostumbraran
 2,mareo
@@ -10077,8 +10131,6 @@
 2,confesado
 2,atormentó
 2,recepciones
-2,106
-2,200
 2,salada
 2,milagrosamente
 2,otrora
@@ -10096,6 +10148,7 @@
 2,papelito
 2,ele
 2,seguida
+2,i
 2,contarles
 2,revisión
 2,ofreciera
@@ -10194,10 +10247,7 @@
 2,amarillento
 2,residencias
 2,desplegada
-2,305
-2,509
 2,sexta
-2,602
 2,coral
 2,tararear
 2,estática
@@ -10245,6 +10295,7 @@
 2,radicalmente
 2,manchadas
 2,cuidando
+2,au
 2,aprendiendo
 2,experimentar
 2,sentimientos
@@ -10759,6 +10810,7 @@
 2,agradecido
 2,charreada
 2,debí
+2,d
 2,zócalo
 2,yacimientos
 2,arcadas
@@ -10775,7 +10827,6 @@
 2,someterlo
 2,epistolar
 2,marcel
-2,1902
 2,criado
 2,plagado
 2,camarote
@@ -10855,8 +10906,10 @@
 2,radica
 2,perdonen
 2,esperándolos
+2,ar
 2,chimboldi
 2,estudiamos
+2,uf
 2,óptima
 2,exento
 2,favorable
@@ -10866,6 +10919,7 @@
 2,explicarlo
 2,mensualidad
 2,honestamente
+2,cal
 2,merece
 2,valéry
 2,silenciosamente
@@ -10937,6 +10991,7 @@
 2,accidentada
 2,hondonadas
 2,auras
+2,ne
 2,potreros
 2,yermos
 2,gallinazos
@@ -11132,6 +11187,7 @@
 2,despedir
 2,brevemente
 2,immaculada
+2,am
 2,zaragoza
 2,recriminaciones
 2,subterránea
@@ -11285,7 +11341,6 @@
 2,hallan
 2,directos
 2,paralelismo
-2,1958
 2,movilidad
 2,facto
 2,intrigas
@@ -11324,7 +11379,6 @@
 2,semanal
 2,conserva
 2,calvin
-2,1919
 2,malheureux
 2,resultara
 2,explicaría
@@ -11371,7 +11425,6 @@
 2,castellano
 2,tragedia
 2,publicadas
-2,1943
 2,molestado
 2,olvídate
 2,arbolito
@@ -11540,7 +11593,6 @@
 2,enemiga
 2,küga
 2,chiliches
-2,1947
 2,sospechó
 2,kurillanka
 2,repartidas
@@ -11597,7 +11649,6 @@
 2,descubierta
 2,concienzudamente
 2,impresores
-2,454
 2,costar
 2,sobrados
 2,rebajita
@@ -11711,8 +11762,8 @@
 2,temple
 2,hoffman
 2,amputado
+2,k
 2,foster
-2,312
 2,movieron
 2,aprobación
 2,conferenciante
@@ -11753,6 +11804,7 @@
 2,fuiste
 2,provocarme
 2,háblame
+2,h
 2,mao
 2,cargarse
 2,hablándole
@@ -11783,7 +11835,6 @@
 2,alambres
 2,impone
 2,bruselas
-2,800
 2,ralladura
 2,sartén
 2,mezclar
@@ -11832,7 +11883,6 @@
 2,roberts
 2,dietas
 2,dispone
-2,361
 2,elmina
 2,daneses
 2,cerraran
@@ -11928,7 +11978,6 @@
 2,exótico
 2,lleve
 2,pose
-2,357
 2,salsas
 2,prolegómenos
 2,murieran
@@ -11969,6 +12018,7 @@
 2,octavo
 2,combatió
 2,definido
+2,ku
 2,klux
 2,jugamos
 2,saliera
@@ -11977,6 +12027,7 @@
 2,anterioridad
 2,corrieron
 2,washington
+2,the
 2,record
 2,directores
 2,guardados
@@ -12262,7 +12313,6 @@
 2,sirena
 2,marcaba
 2,multizone
-2,west
 2,televisores
 2,toque
 2,encarga
@@ -12302,6 +12352,7 @@
 2,agresión
 2,soler
 2,etnia
+2,vo
 2,seminarista
 2,pápagos
 2,alertó
@@ -12629,6 +12680,7 @@
 2,artístico
 2,entienden
 2,abusar
+2,j
 2,enviaban
 2,finado
 2,sueco
@@ -12835,6 +12887,7 @@
 2,filiación
 2,valedor
 2,lunar
+2,gó
 2,camastro
 2,recluso
 2,cinturones
@@ -12858,7 +12911,8 @@
 2,entidad
 2,preguntara
 2,mosquito
-2,aguilar&lennox
+2,aguilar
+2,lennox
 2,calzaba
 2,prepa
 2,linternas
@@ -12958,6 +13012,7 @@
 2,irradiaban
 2,gorras
 2,pick
+2,up
 2,propició
 2,dudaba
 2,ejercían
@@ -13022,7 +13077,6 @@
 2,soberanía
 2,provocarle
 2,existan
-2,1789
 2,gobiernos
 2,rindieron
 2,bordeado
@@ -13091,7 +13145,6 @@
 2,irene
 2,reñir
 2,pidiéndole
-2,686
 2,ateísmo
 2,prd
 2,serafín
@@ -13115,7 +13168,6 @@
 2,genealógico
 2,criminología
 2,remontaba
-2,1865
 2,dimas
 2,gestas
 2,sabia
@@ -13128,7 +13180,6 @@
 2,bruja
 2,reuma
 2,varices
-2,1934
 2,torero
 2,compadres
 2,prestada
@@ -13243,6 +13294,7 @@
 2,microondas
 2,untaba
 2,ganaban
+2,as
 2,ejerciera
 2,relucientes
 2,guno
@@ -13406,6 +13458,7 @@
 2,robarle
 2,pecoso
 2,juega
+2,re
 2,planicies
 2,arrebujado
 2,apuntarles
@@ -13693,7 +13746,6 @@
 2,neurólogo
 2,interesaron
 2,chéjov
-2,1869
 2,quejarse
 2,moscovita
 2,duplicó
@@ -13732,7 +13784,6 @@
 2,responden
 2,nostalgia
 2,landauer
-2,1918
 2,encontrando
 2,recuperando
 2,lectora
@@ -13767,7 +13818,6 @@
 2,voluntariosa
 2,innecesario
 2,lírico
-2,1937
 2,nikita
 2,viable
 2,lumpen
@@ -13814,7 +13864,6 @@
 2,revolvía
 2,sumaba
 2,esqueletos
-2,1944
 2,pisándoles
 2,talones
 2,breñales
@@ -14043,7 +14092,6 @@
 2,dresde
 2,alejada
 2,contingente
-2,1066
 2,presencial
 2,camposanto
 2,eructe
@@ -14078,21 +14126,18 @@
 2,botánico
 2,tempestades
 2,póstumamente
-2,1121
 2,habérselas
+2,pp
 2,borradores
+1,﻿
 1,photonica
 1,pedró
 1,creu
-1,08034
 1,isbn
-1,6867
-1,41637
 1,printed
 1,spain
 1,liberduplex
 1,constitució
-1,08014
 1,alexandra
 1,lantaro
 1,beaudelaire
@@ -14115,8 +14160,6 @@
 1,furor
 1,olímpica
 1,voralmstrasse
-1,1983
-1,1984
 1,parisina
 1,priori
 1,superar
@@ -14139,17 +14182,10 @@
 1,autoconmiseración
 1,repensar
 1,dolientes
-1,1961
-1,1986
-1,1956
 1,remarcarlo
 1,colossimo
 1,einaudi
-1,1969
-1,1971
-1,1973
 1,romana
-1,1964
 1,envejecían
 1,anaqueles
 1,mohosos
@@ -14226,7 +14262,6 @@
 1,abrumada
 1,desdibujando
 1,paraguas
-1,1989
 1,ddr
 1,pésima
 1,balance
@@ -14444,7 +14479,6 @@
 1,acertado
 1,timón
 1,artísticos
-1,1928
 1,emporio
 1,frigoríficos
 1,digno
@@ -14499,7 +14533,6 @@
 1,resolvió
 1,navegaba
 1,semirrodeada
-1,000
 1,supersticioso
 1,adueñó
 1,incómodos
@@ -15005,6 +15038,7 @@
 1,arropara
 1,reconfortaban
 1,belgrado
+1,pu
 1,blicó
 1,animaba
 1,hallazgos
@@ -15042,7 +15076,6 @@
 1,enmendaría
 1,aérea
 1,cido
-1,1949
 1,setentaicinco
 1,voluminosa
 1,mula
@@ -15273,7 +15306,6 @@
 1,entusiastas
 1,abotargados
 1,quererte
-1,100
 1,resollantes
 1,trotar
 1,ininterrumpidamente
@@ -15291,7 +15323,6 @@
 1,austral
 1,maniobra
 1,innecesaria
-1,101
 1,enderezar
 1,desorientarlo
 1,coño
@@ -15312,7 +15343,6 @@
 1,adeudaban
 1,injuriosa
 1,rebalsó
-1,102
 1,ibéricas
 1,caerle
 1,propinó
@@ -15327,7 +15357,6 @@
 1,patearlo
 1,fantaseado
 1,transitara
-1,103
 1,tersa
 1,agacharse
 1,desencajados
@@ -15340,7 +15369,6 @@
 1,copioso
 1,sensacionalistas
 1,enojada
-1,104
 1,entretuvieron
 1,alucinando
 1,ingresaba
@@ -15357,7 +15385,6 @@
 1,golpeaban
 1,escarbaran
 1,dañando
-1,105
 1,explota
 1,anthony
 1,perkins
@@ -15375,7 +15402,6 @@
 1,cesar
 1,sobrevolar
 1,gaviota
-1,107
 1,cuarentañeros
 1,cincuentañeros
 1,concentrados
@@ -15388,7 +15414,6 @@
 1,repasarlos
 1,calurosos
 1,suspendían
-1,108
 1,agarrándose
 1,iniciaban
 1,sopesaba
@@ -15401,7 +15426,6 @@
 1,horrorosa
 1,compungidos
 1,affaire
-1,109
 1,xenófobo
 1,antideportivo
 1,añadiera
@@ -15414,7 +15438,6 @@
 1,rutinaria
 1,captados
 1,rubias
-1,110
 1,alumnas
 1,relax
 1,campeaban
@@ -15423,7 +15446,6 @@
 1,provincianos
 1,rollo
 1,apesadumbrado
-1,111
 1,consuetudinaria
 1,languidez
 1,apreturas
@@ -15435,7 +15457,6 @@
 1,admitido
 1,menospreciar
 1,denominarse
-1,112
 1,acerada
 1,libresca
 1,liceano
@@ -15448,14 +15469,12 @@
 1,jeanclaude
 1,gratuitamente
 1,aturdidamente
-1,113
 1,regañó
 1,cucharas
 1,contener
 1,agresividad
 1,anímica
 1,descon
-1,114
 1,fiada
 1,revisor
 1,traicionaban
@@ -15479,7 +15498,6 @@
 1,paga
 1,añadido
 1,ucraniana
-1,115
 1,ingle
 1,succionado
 1,sanguijuela
@@ -15499,7 +15517,6 @@
 1,deletreaba
 1,húngara
 1,gambiana
-1,116
 1,senegalesa
 1,mitiga
 1,conciencias
@@ -15519,7 +15536,6 @@
 1,reencuentro
 1,liliputiense
 1,heterodoxa
-1,117
 1,gate
 1,holanda
 1,fingieron
@@ -15538,7 +15554,6 @@
 1,docentes
 1,interregno
 1,displicencia
-1,118
 1,distraerla
 1,berneses
 1,asfaltada
@@ -15548,13 +15563,13 @@
 1,embalsamado
 1,contasteis
 1,reanudar
-1,119
 1,inoportunas
 1,vallado
 1,añosa
 1,cuidada
 1,buscarlos
 1,enfrentaron
+1,xv
 1,arquitectónico
 1,inercia
 1,helvética
@@ -15569,19 +15584,16 @@
 1,lenitivo
 1,perturbaciones
 1,pretiles
-1,120
 1,diván
 1,ralear
 1,coronilla
 1,súbita
 1,desentendiéndose
-1,121
 1,filólogo
 1,antología
 1,antologados
 1,bizquear
 1,wette
-1,122
 1,reborde
 1,aplomo
 1,cesped
@@ -15599,23 +15611,19 @@
 1,implosión
 1,intuyeron
 1,formulaba
-1,123
 1,adelantando
 1,rodaban
 1,escuchárselo
 1,ensayado
 1,finísimos
 1,pavimento
-1,124
 1,estrechado
 1,helvetia
 1,achispados
 1,cancelado
 1,ordenado
-1,125
 1,insultaron
 1,temporalmente
-1,126
 1,ofensivo
 1,desayunaba
 1,gustos
@@ -15626,7 +15634,6 @@
 1,resignar
 1,ilusoriamente
 1,pelle
-1,127
 1,tier
 1,cupiera
 1,instaba
@@ -15638,7 +15645,6 @@
 1,resguardar
 1,velo
 1,felicitaciones
-1,128
 1,aclararse
 1,hartarse
 1,preguntaste
@@ -15647,7 +15653,6 @@
 1,perdurara
 1,confesional
 1,errancia
-1,129
 1,mezquino
 1,oportuna
 1,capeaba
@@ -15670,13 +15675,11 @@
 1,preservada
 1,watson
 1,renacimiento
-1,130
 1,opinas
 1,espectrales
 1,aconsejaban
 1,adoptando
 1,descubriste
-1,131
 1,invierte
 1,preferiría
 1,guardaría
@@ -15689,7 +15692,6 @@
 1,pleitear
 1,costaban
 1,conformar
-1,132
 1,degustar
 1,chic
 1,remodelados
@@ -15705,7 +15707,6 @@
 1,clientas
 1,trasladaba
 1,percheros
-1,133
 1,escucharla
 1,censo
 1,estadística
@@ -15718,7 +15719,6 @@
 1,descalificaba
 1,deseosos
 1,desangelado
-1,134
 1,pasablemente
 1,reseñaban
 1,ecuatoriana
@@ -15732,10 +15732,8 @@
 1,obligatorias
 1,fanfarroneaba
 1,sucintamente
-1,135
 1,abandonaran
 1,marcharé
-1,136
 1,plantearse
 1,justificaba
 1,noctámbulos
@@ -15746,7 +15744,6 @@
 1,tequilas
 1,santidad
 1,cagan
-1,137
 1,embajador
 1,toscana
 1,piranesi
@@ -15759,7 +15756,6 @@
 1,vistosas
 1,parajes
 1,caracas
-1,138
 1,bequita
 1,munificiente
 1,inconmensurablemente
@@ -15767,7 +15763,6 @@
 1,insigne
 1,armándose
 1,obviamente
-1,139
 1,avestruz
 1,lilas
 1,baldía
@@ -15778,13 +15773,11 @@
 1,fumándose
 1,semáforos
 1,fluido
-1,140
 1,juzgaron
 1,traicionar
 1,quinielas
 1,sondearla
 1,premiado
-1,141
 1,consultarlo
 1,venderían
 1,stand
@@ -15807,7 +15800,6 @@
 1,descabellada
 1,demencia
 1,senil
-1,142
 1,desecharon
 1,atuvieron
 1,regresando
@@ -15816,14 +15808,12 @@
 1,tomarían
 1,visitarlos
 1,opción
-1,1901
 1,ville
 1,ciotat
 1,polynésienne
 1,manapouri
 1,ting
 1,mareos
-1,143
 1,penalidades
 1,terminantemente
 1,prometieron
@@ -15835,7 +15825,6 @@
 1,insoportablemente
 1,insultada
 1,emprendieran
-1,144
 1,sepulcro
 1,mansedumbre
 1,humildad
@@ -15846,13 +15835,12 @@
 1,dejarles
 1,repasó
 1,correspondían
-1,145
+1,ki
 1,lómetros
 1,evacuando
 1,excitado
 1,virilidad
 1,introdujeron
-1,146
 1,zumbar
 1,rodearan
 1,insultaba
@@ -15866,7 +15854,6 @@
 1,textura
 1,azabache
 1,acariciarla
-1,147
 1,copiaron
 1,respecivas
 1,despertarán
@@ -15876,7 +15863,6 @@
 1,renqueando
 1,intacto
 1,curvatura
-1,148
 1,beige
 1,equitación
 1,habia
@@ -15886,13 +15872,11 @@
 1,meditabundos
 1,indicándoles
 1,facultades
-1,149
 1,explayó
 1,ofrecerles
 1,sexos
 1,desearles
 1,archimbol
-1,150
 1,diligentemente
 1,emborrachando
 1,engalanada
@@ -15904,7 +15888,6 @@
 1,reconocerla
 1,pescuezo
 1,agarrarlos
-1,151
 1,repentinas
 1,arreglen
 1,sugirieron
@@ -15918,14 +15901,12 @@
 1,infantiloide
 1,mexicanonorteamericana
 1,fra
-1,152
 1,estático
 1,montadas
 1,perceptibles
 1,habitaran
 1,lanzados
 1,ligereza
-1,153
 1,enrarecido
 1,víricas
 1,latigazo
@@ -15937,7 +15918,6 @@
 1,preceden
 1,objetivamente
 1,omóplato
-1,154
 1,reflejase
 1,miraremos
 1,cenicienta
@@ -15950,7 +15930,6 @@
 1,ansioso
 1,inexpresivo
 1,cuota
-1,155
 1,enriquecida
 1,muchísimos
 1,donó
@@ -15959,7 +15938,6 @@
 1,pirata
 1,confirmarlo
 1,benevolentes
-1,156
 1,comprensiva
 1,contribuye
 1,rupturas
@@ -15969,7 +15947,6 @@
 1,planificar
 1,descartado
 1,preguntándolo
-1,157
 1,handke
 1,bernhard
 1,atacado
@@ -15982,11 +15959,9 @@
 1,tuerce
 1,encaminan
 1,teléfo
-1,158
 1,descorazonador
 1,encubiertos
 1,significó
-1,159
 1,presupone
 1,estadísticamente
 1,inclino
@@ -15997,7 +15972,6 @@
 1,héctor
 1,latinoamericanos
 1,expresaría
-1,160
 1,explícanos
 1,entregan
 1,extensible
@@ -16006,7 +15980,6 @@
 1,cohorte
 1,exorciza
 1,influir
-1,cal
 1,ofrezca
 1,remunerado
 1,merecen
@@ -16016,7 +15989,6 @@
 1,kindergarten
 1,parvulario
 1,podéis
-1,161
 1,contingentes
 1,insinúa
 1,puntual
@@ -16034,7 +16006,6 @@
 1,pobrísimo
 1,intuye
 1,hura
-1,162
 1,cán
 1,intuyen
 1,furia
@@ -16061,7 +16032,6 @@
 1,mortalidad
 1,elevado
 1,intelectua
-1,163
 1,retiran
 1,desvía
 1,penetra
@@ -16070,7 +16040,6 @@
 1,parranda
 1,chisporrotea
 1,calenturienta
-1,164
 1,hidratante
 1,plantados
 1,urbanista
@@ -16080,7 +16049,6 @@
 1,pulcritud
 1,entorpecían
 1,entornada
-1,165
 1,colmara
 1,reposabrazos
 1,inermes
@@ -16094,7 +16062,6 @@
 1,irrisorio
 1,figurilla
 1,despuntaban
-1,166
 1,menuda
 1,repasaron
 1,necrológicas
@@ -16107,7 +16074,6 @@
 1,contestado
 1,prefiriera
 1,infructuosos
-1,167
 1,referirle
 1,pulido
 1,narrar
@@ -16119,7 +16085,6 @@
 1,formulado
 1,privilegiada
 1,igualitos
-1,168
 1,nombrando
 1,platicó
 1,turbulento
@@ -16140,7 +16105,6 @@
 1,espasmódicos
 1,acatara
 1,univer
-1,169
 1,regañadientes
 1,admoniciones
 1,multitudinaria
@@ -16150,7 +16114,6 @@
 1,unigénito
 1,equivocaban
 1,dejándose
-1,170
 1,porticadas
 1,empedradas
 1,oficinistas
@@ -16167,7 +16130,6 @@
 1,agolpamiento
 1,bajándose
 1,bandadas
-1,171
 1,gras
 1,buitres
 1,carroñeros
@@ -16180,7 +16142,6 @@
 1,releían
 1,siestas
 1,condescendían
-1,172
 1,inusitadas
 1,tentadero
 1,bravas
@@ -16195,7 +16156,6 @@
 1,arreglaran
 1,instalando
 1,ilusio
-1,173
 1,publicitario
 1,folio
 1,disfraz
@@ -16206,7 +16166,6 @@
 1,málaga
 1,actuando
 1,domador
-1,174
 1,cuarteles
 1,guatemala
 1,respetadísimos
@@ -16219,7 +16178,6 @@
 1,descorrer
 1,olivácea
 1,parpadeando
-1,175
 1,mediato
 1,agradecerle
 1,percha
@@ -16231,14 +16189,11 @@
 1,tender
 1,acercar
 1,ocurrieron
-1,176
 1,mordiéndose
 1,inabarcable
-1,177
 1,bloody
 1,paraje
 1,despiste
-1,178
 1,marse
 1,reencontrar
 1,enlazaría
@@ -16255,7 +16210,6 @@
 1,carniceros
 1,triperos
 1,achuradores
-1,179
 1,sofrenó
 1,ágape
 1,coctelito
@@ -16267,14 +16221,12 @@
 1,descubrían
 1,apelotonados
 1,palenque
-1,180
 1,ciernes
 1,españolfrancés
 1,enterarme
 1,bañándose
 1,termales
 1,géiseres
-1,181
 1,hablarla
 1,copycat
 1,acicalándose
@@ -16283,7 +16235,6 @@
 1,intranquilo
 1,espasmódico
 1,cañerías
-1,182
 1,arizpe
 1,cruda
 1,fritanga
@@ -16297,21 +16248,17 @@
 1,atándolas
 1,choapinos
 1,oblonga
-1,183
 1,sacarse
 1,adherido
 1,ojerosos
 1,tarascada
 1,diferir
-1,184
 1,palmeado
 1,baranda
-1,185
 1,obligara
 1,avergonzado
 1,muchedumbre
 1,estremecer
-1,186
 1,bruscos
 1,personalizados
 1,brindaban
@@ -16320,7 +16267,6 @@
 1,refinado
 1,ocurriendo
 1,mezclarse
-1,187
 1,pupitre
 1,lapiz
 1,jim
@@ -16328,7 +16274,6 @@
 1,toldos
 1,solera
 1,alfarería
-1,188
 1,sosiego
 1,logré
 1,tropel
@@ -16339,7 +16284,6 @@
 1,denota
 1,reviste
 1,implícita
-1,189
 1,trasladaban
 1,plegable
 1,oteando
@@ -16347,14 +16291,12 @@
 1,conteniendo
 1,dásela
 1,pletórico
-1,190
 1,comeremos
 1,entusiasmaba
 1,fructífera
 1,saqué
 1,previsión
 1,somnífero
-1,191
 1,alargar
 1,característicos
 1,descansada
@@ -16368,27 +16310,23 @@
 1,animarme
 1,exhibirla
 1,autobiográfico
-1,192
 1,fabril
 1,jardineras
 1,tablones
 1,emitían
 1,encaramado
-1,193
 1,chapuzón
 1,hundiera
 1,afortunadamente
 1,vestí
 1,traspuse
 1,surrey
-1,194
 1,cátering
 1,viviente
 1,inacabado
 1,anduve
 1,empapada
 1,durara
-1,195
 1,cocacola
 1,dignísimo
 1,cercaban
@@ -16399,7 +16337,6 @@
 1,apagué
 1,sorprendentemente
 1,contestada
-1,196
 1,sabías
 1,reducir
 1,atléticos
@@ -16407,7 +16344,6 @@
 1,habilidad
 1,agarrarlo
 1,permanecimos
-1,197
 1,pausada
 1,serenando
 1,fábula
@@ -16419,7 +16355,6 @@
 1,cubalibres
 1,augurio
 1,oleadas
-1,198
 1,reafirmaba
 1,condenara
 1,abrigado
@@ -16431,7 +16366,6 @@
 1,previa
 1,compré
 1,volé
-1,199
 1,lavarme
 1,encomio
 1,higo
@@ -16455,7 +16389,6 @@
 1,vistieron
 1,recluirse
 1,recep
-1,201
 1,cionista
 1,ligeramene
 1,ladeado
@@ -16464,7 +16397,6 @@
 1,efectiviwonder
 1,relajante
 1,recapitulé
-1,202
 1,empuñé
 1,murmuré
 1,alcé
@@ -16476,7 +16408,6 @@
 1,mirabas
 1,codos
 1,ente
-1,203
 1,lila
 1,bodas
 1,platino
@@ -16485,7 +16416,6 @@
 1,lonchera
 1,hojeando
 1,transpa
-1,204
 1,rente
 1,acostumbrarse
 1,acostumbrar
@@ -16495,7 +16425,6 @@
 1,verdeazulada
 1,macizos
 1,evitado
-1,205
 1,raquetazos
 1,caminemos
 1,panzas
@@ -16504,12 +16433,10 @@
 1,cesara
 1,impregnaba
 1,tenistas
-1,206
 1,erizaron
 1,espinazo
 1,estaremos
 1,comprenderéis
-1,207
 1,prestar
 1,lacrados
 1,remitentes
@@ -16517,7 +16444,6 @@
 1,indicadas
 1,cactáceas
 1,dedicarlo
-1,211
 1,silenciosas
 1,berrinche
 1,ritmos
@@ -16526,7 +16452,6 @@
 1,amparado
 1,comerciado
 1,inoxidable
-1,212
 1,fuelle
 1,pelar
 1,peras
@@ -16538,7 +16463,6 @@
 1,emprendería
 1,rogarle
 1,conversa
-1,213
 1,ábreme
 1,fragilidad
 1,enojarse
@@ -16548,7 +16472,6 @@
 1,inma
 1,reprendido
 1,formica
-1,214
 1,bas
 1,dirigiendo
 1,bloqueados
@@ -16560,7 +16483,6 @@
 1,montada
 1,huertas
 1,tra
-1,215
 1,propuesto
 1,proferidas
 1,franquismo
@@ -16575,7 +16497,6 @@
 1,semisecreto
 1,organizaban
 1,homose
-1,216
 1,incondicionales
 1,canino
 1,apaleados
@@ -16594,7 +16515,6 @@
 1,semioscuridad
 1,distinguí
 1,estuvie
-1,217
 1,ran
 1,lamenté
 1,fértil
@@ -16607,7 +16527,6 @@
 1,acabábamos
 1,extraviado
 1,salvarlo
-1,218
 1,aguardando
 1,percatado
 1,incauto
@@ -16618,7 +16537,6 @@
 1,arrebaté
 1,jordi
 1,vanguardia
-1,219
 1,vasca
 1,etarra
 1,arguyendo
@@ -16632,7 +16550,6 @@
 1,elevaciones
 1,sinuosidades
 1,inter
-1,220
 1,valos
 1,orinaban
 1,ponderando
@@ -16640,7 +16557,6 @@
 1,concertaron
 1,avejentado
 1,encaminaba
-1,221
 1,expulsaba
 1,nimbos
 1,azulados
@@ -16668,7 +16584,6 @@
 1,trabajaré
 1,redoble
 1,enfocados
-1,222
 1,bruto
 1,manufacturación
 1,masivos
@@ -16695,12 +16610,10 @@
 1,oírlas
 1,sobrevoló
 1,remoloneando
-1,223
 1,vespertina
 1,conocíais
 1,conmutador
 1,teñían
-1,1979
 1,indiscreta
 1,reúna
 1,hojuelas
@@ -16712,7 +16625,6 @@
 1,oportunistas
 1,lameculos
 1,saldré
-1,224
 1,saldremos
 1,eclesiástico
 1,comprenderán
@@ -16737,7 +16649,6 @@
 1,arrojando
 1,recuperarlos
 1,reseñista
-1,225
 1,nudosas
 1,interiormente
 1,apagara
@@ -16750,7 +16661,6 @@
 1,manojos
 1,acacia
 1,vascos
-1,226
 1,caminara
 1,decírselo
 1,novieta
@@ -16760,7 +16670,6 @@
 1,prehistórico
 1,depredadores
 1,escurridizos
-1,227
 1,indecisión
 1,constituyeran
 1,encaminó
@@ -16771,7 +16680,6 @@
 1,cetrina
 1,esmerilado
 1,catalejos
-1,228
 1,providenciales
 1,fortuito
 1,vasco
@@ -16780,7 +16688,6 @@
 1,trémulo
 1,importaban
 1,calculador
-1,229
 1,hípico
 1,picadero
 1,compacta
@@ -16798,13 +16705,11 @@
 1,chavales
 1,sabéis
 1,encajar
-1,230
 1,rendición
 1,masturbando
 1,albornoz
 1,entomología
 1,iluso
-1,231
 1,desapego
 1,dilatado
 1,comprendería
@@ -16822,7 +16727,6 @@
 1,castellanos
 1,ancianas
 1,carmelitas
-1,232
 1,descalzas
 1,erupciones
 1,encauzar
@@ -16844,7 +16748,6 @@
 1,escoltada
 1,lisiados
 1,castellana
-1,233
 1,concitaba
 1,separadoras
 1,sentaran
@@ -16859,7 +16762,6 @@
 1,silente
 1,duerme
 1,enferme
-1,234
 1,dad
 1,aspiradora
 1,aparcada
@@ -16873,7 +16775,6 @@
 1,gélida
 1,atendían
 1,descorazonadora
-1,235
 1,mayoritariamente
 1,brujería
 1,electra
@@ -16893,12 +16794,10 @@
 1,recubierto
 1,trenzada
 1,acunada
-1,236
 1,alerce
 1,autónoma
 1,certificaban
 1,molestarlas
-1,237
 1,mentir
 1,acabársele
 1,fármacos
@@ -16909,7 +16808,6 @@
 1,glaciares
 1,transitado
 1,peaje
-1,238
 1,castro
 1,dividido
 1,introducción
@@ -16931,7 +16829,6 @@
 1,valentín
 1,andrade
 1,seoane
-1,239
 1,homenajeado
 1,funcionalmente
 1,correlacionados
@@ -16959,7 +16856,6 @@
 1,motitas
 1,reúnen
 1,honorables
-1,240
 1,namente
 1,reunieran
 1,autosuficientes
@@ -16969,7 +16865,6 @@
 1,follas
 1,novas
 1,montero
-1,241
 1,catatonia
 1,pagarlo
 1,deseadas
@@ -16985,7 +16880,6 @@
 1,zombi
 1,automovilístico
 1,atra
-1,242
 1,conservaría
 1,seleccionado
 1,sumisión
@@ -16995,7 +16889,6 @@
 1,aproximara
 1,forzara
 1,ensamblarse
-1,243
 1,desvaríos
 1,vence
 1,escabulle
@@ -17012,7 +16905,6 @@
 1,pistoletazo
 1,concatenarían
 1,vereda
-1,244
 1,estragado
 1,esquilmado
 1,portería
@@ -17027,7 +16919,6 @@
 1,aliviado
 1,apaciguar
 1,crotti
-1,245
 1,fijarlo
 1,arrancarlas
 1,jugó
@@ -17043,13 +16934,11 @@
 1,desacreditando
 1,exponerlo
 1,despreocupación
-1,246
 1,anselmo
 1,descartes
 1,leibniz
 1,wolff
 1,mendelssohn
-1,247
 1,cubículo
 1,prolongación
 1,demenciales
@@ -17066,20 +16955,15 @@
 1,hartmann
 1,lange
 1,sertillanges
-1,248
 1,feyerabend
 1,spencer
 1,francois
 1,mijaíl
 1,adolf
 1,imprevista
-1,1888
 1,bromistas
 1,guyotista
 1,gerona
-1,1886
-1,1887
-1,249
 1,centración
 1,nikitich
 1,estalinistas
@@ -17099,9 +16983,7 @@
 1,gotitas
 1,ocluían
 1,socorro
-1,250
 1,rianxo
-1,1899
 1,simultanearía
 1,antifascista
 1,humorada
@@ -17111,7 +16993,6 @@
 1,descuélgalo
 1,tapias
 1,existimos
-1,251
 1,bárbaros
 1,inconmovible
 1,brindarle
@@ -17122,7 +17003,6 @@
 1,maldita
 1,descolgarlo
 1,adhiriendo
-1,252
 1,godfrey
 1,stevens
 1,señorial
@@ -17144,13 +17024,11 @@
 1,joderle
 1,pisotón
 1,invectivas
-1,253
 1,quiten
 1,bélica
 1,individualmente
 1,resumía
 1,perlaba
-1,254
 1,callaron
 1,alterados
 1,paranoico
@@ -17163,7 +17041,6 @@
 1,repletas
 1,exvotos
 1,arriesgaban
-1,255
 1,preferir
 1,estupendo
 1,abonó
@@ -17176,7 +17053,6 @@
 1,futuras
 1,depara
 1,his
-1,256
 1,toria
 1,autobiografías
 1,contemporáneos
@@ -17199,13 +17075,11 @@
 1,horrendas
 1,guerrista
 1,aventureros
-1,257
 1,corchó
 1,distribuyó
 1,hola
 1,asustes
 1,quiltro
-1,258
 1,chilenas
 1,trizaduras
 1,psique
@@ -17220,14 +17094,12 @@
 1,coreografía
 1,coreógrafo
 1,elementales
-1,259
 1,turbado
 1,respingones
 1,arañara
 1,arrabal
 1,estrellar
 1,autóctono
-1,260
 1,ruborizarlo
 1,depuradora
 1,minerales
@@ -17241,7 +17113,6 @@
 1,atún
 1,rodaja
 1,mayonesa
-1,261
 1,practicara
 1,evaporó
 1,pespunteado
@@ -17257,7 +17128,6 @@
 1,fluctuaban
 1,diversión
 1,adelantarlos
-1,262
 1,reverberando
 1,superficies
 1,cromadas
@@ -17273,7 +17143,6 @@
 1,malvados
 1,infligir
 1,infligirse
-1,263
 1,involucrara
 1,descenso
 1,descompuesta
@@ -17285,7 +17154,6 @@
 1,prehistóricas
 1,constituida
 1,cilindraje
-1,264
 1,callejeros
 1,marmita
 1,hervores
@@ -17318,7 +17186,6 @@
 1,freud
 1,saltados
 1,truismo
-1,265
 1,dente
 1,formulada
 1,mose
@@ -17329,7 +17196,6 @@
 1,inconscientes
 1,abuelito
 1,nono
-1,266
 1,veas
 1,mantenerme
 1,procuremos
@@ -17345,7 +17211,6 @@
 1,tata
 1,amamos
 1,consuélate
-1,267
 1,gorgoteo
 1,gorjeo
 1,egoístas
@@ -17367,7 +17232,6 @@
 1,cometen
 1,mariconas
 1,cantaría
-1,268
 1,eugenesia
 1,riolitas
 1,petrificados
@@ -17379,7 +17243,6 @@
 1,vete
 1,lavas
 1,beligerancia
-1,269
 1,taquicardia
 1,irán
 1,pensarás
@@ -17395,7 +17258,6 @@
 1,esquivando
 1,llenaban
 1,ruise
-1,270
 1,procuró
 1,llamándose
 1,embotellada
@@ -17407,7 +17269,6 @@
 1,anca
 1,huaso
 1,soltarse
-1,271
 1,enloquecía
 1,colocolo
 1,chonchones
@@ -17424,7 +17285,6 @@
 1,uniformados
 1,alojadas
 1,asistieran
-1,272
 1,californiana
 1,garajes
 1,arquitectónica
@@ -17441,7 +17301,6 @@
 1,aventón
 1,atronaba
 1,brindado
-1,273
 1,incorporación
 1,francotirador
 1,tejanas
@@ -17451,7 +17310,7 @@
 1,olfatearan
 1,lamieran
 1,peque
-1,274
+1,ña
 1,tarima
 1,láminas
 1,chasqueó
@@ -17462,7 +17321,6 @@
 1,gobernar
 1,sacaría
 1,controles
-1,275
 1,cuchicheaban
 1,marchemos
 1,obsceno
@@ -17483,7 +17341,6 @@
 1,ibérica
 1,espontáneo
 1,probarlo
-1,276
 1,virrey
 1,perú
 1,tribus
@@ -17504,9 +17361,7 @@
 1,ojitos
 1,mamífero
 1,indefenso
-1,277
 1,terriblemente
-1,yekmonchi1
 1,latitud
 1,respectiva
 1,sobraban
@@ -17533,7 +17388,6 @@
 1,“peaje”
 1,zenpilkawe
 1,caronte
-1,278
 1,temuco
 1,agregara
 1,warakulen
@@ -17544,8 +17398,6 @@
 1,copérnico
 1,galileo
 1,indudable
-1,1740
-1,1829
 1,episodio
 1,klein
 1,abordarlo
@@ -17563,7 +17415,6 @@
 1,microfracción
 1,opera
 1,lle
-1,279
 1,gado
 1,inventa
 1,sucedan
@@ -17574,7 +17425,6 @@
 1,refrescaba
 1,exuberante
 1,apartados
-1,280
 1,praga
 1,aludió
 1,turbio
@@ -17584,7 +17434,6 @@
 1,alarmante
 1,malinterpretado
 1,descortesía
-1,281
 1,apenes
 1,chachita
 1,licorero
@@ -17594,9 +17443,7 @@
 1,redova
 1,blanqueada
 1,relevantes
-1,282
 1,eliminados
-1,1700
 1,desconcertados
 1,atribuyéndolo
 1,contrafuertes
@@ -17612,13 +17459,10 @@
 1,criaría
 1,capitanear
 1,hues
-1,283
 1,expulsar
 1,conquistadores
 1,maule
 1,prohíbe
-1,primavera60
-1,1777
 1,palpal
 1,ebrio
 1,percatarse
@@ -17635,7 +17479,7 @@
 1,homero
 1,terráqueo
 1,navegantes
-1,284
+1,lu
 1,gares
 1,estratégicos
 1,cimas
@@ -17653,7 +17497,6 @@
 1,germanos
 1,rejura
 1,caballeros
-1,285
 1,fada
 1,convence
 1,tinterillo
@@ -17673,7 +17516,6 @@
 1,existió
 1,prisma
 1,fructuosas
-1,286
 1,dia
 1,injurias
 1,internacionales
@@ -17698,7 +17540,6 @@
 1,waramanke
 1,filia
 1,graña
-1,287
 1,asfixiamos
 1,desfoga
 1,putizas
@@ -17721,7 +17562,6 @@
 1,vivaldi
 1,cimarrosa
 1,contaminada
-1,288
 1,sía
 1,fragmentada
 1,planas
@@ -17733,7 +17573,6 @@
 1,bouvard
 1,pécuchet
 1,pickwick
-1,289
 1,altisonantes
 1,corpachón
 1,eses
@@ -17751,7 +17590,6 @@
 1,conduele
 1,despropósitos
 1,bienestar
-1,290
 1,irrumpido
 1,limita
 1,desplomando
@@ -17764,23 +17602,19 @@
 1,ímpetu
 1,veteado
 1,veteada
-1,291
 1,sumergí
 1,azteca
 1,williams
-1,295
 1,reprendieron
 1,blasfemado
 1,blusón
 1,podólogo
 1,lewis
 1,cera
-1,296
 1,arremangar
 1,adepta
 1,destructiva
 1,incinerada
-1,297
 1,intentaran
 1,recomponer
 1,carraspear
@@ -17793,9 +17627,7 @@
 1,razonado
 1,razonada
 1,cádaver
-1,298
 1,palmada
-1,299
 1,necesitas
 1,enteraste
 1,cargaron
@@ -17803,7 +17635,6 @@
 1,nena
 1,remy
 1,burton
-1,300
 1,videos
 1,examinarlos
 1,desistió
@@ -17815,7 +17646,6 @@
 1,desconocimiento
 1,egipcio
 1,jordano
-1,301
 1,bilis
 1,dame
 1,aeródromo
@@ -17827,9 +17657,9 @@
 1,calentarse
 1,motivados
 1,largarte
-1,302
 1,crecieron
 1,devolvérsela
+1,ví
 1,deos
 1,toallero
 1,potes
@@ -17837,7 +17667,6 @@
 1,antiinflamatorias
 1,alisó
 1,animarse
-1,304
 1,xista
 1,hispano
 1,terminal
@@ -17863,7 +17692,6 @@
 1,estafados
 1,pescaba
 1,consultar
-1,306
 1,pete’s
 1,ford
 1,esmirriado
@@ -17871,7 +17699,6 @@
 1,convergían
 1,gelatina
 1,taburete
-1,307
 1,pistons
 1,esperaré
 1,acodó
@@ -17882,14 +17709,12 @@
 1,dormirnos
 1,discutíamos
 1,amañada
-1,308
 1,castigar
 1,darían
 1,cenábamos
 1,inadmisibles
 1,solapas
 1,suéltame
-1,309
 1,mamotreto
 1,encorvado
 1,pagadas
@@ -17934,7 +17759,6 @@
 1,acorta
 1,congregación
 1,automovilísticos
-1,313
 1,troit
 1,fabrican
 1,broncopulmonares
@@ -17953,10 +17777,8 @@
 1,azarosa
 1,argelia
 1,valga
-1,314
 1,queríos
 1,lloraron
-1,315
 1,frecuentemente
 1,desearía
 1,big
@@ -17972,7 +17794,6 @@
 1,alimentaria
 1,adicción
 1,nicotina
-1,316
 1,gastaban
 1,limousine
 1,huérfanos
@@ -17991,7 +17812,6 @@
 1,pantera
 1,viajé
 1,viví
-1,317
 1,ocupando
 1,alcaldes
 1,sadismo
@@ -18006,7 +17826,6 @@
 1,meterme
 1,refiriéndose
 1,cargaste
-1,318
 1,hábil
 1,allanamos
 1,kissinger
@@ -18017,7 +17836,6 @@
 1,conocéis
 1,agradecimiento
 1,permítanme
-1,319
 1,azaleas
 1,siemprevivas
 1,riquísimas
@@ -18036,11 +17854,9 @@
 1,pinchada
 1,láctea
 1,precisó
-1,320
 1,impactar
 1,expulsaban
 1,pecera
-1,321
 1,circularan
 1,acuario
 1,robarlo
@@ -18052,7 +17868,6 @@
 1,derechazo
 1,perdernos
 1,quedarnos
-1,322
 1,flotan
 1,copiosamente
 1,espaciales
@@ -18068,7 +17883,6 @@
 1,inspira
 1,entrabas
 1,asiáticos
-1,323
 1,confiamos
 1,depositemos
 1,enseñarnos
@@ -18087,7 +17901,6 @@
 1,finamente
 1,cocer
 1,tiernas
-1,324
 1,escurrir
 1,untada
 1,sofreír
@@ -18121,7 +17934,6 @@
 1,párrafos
 1,mercurial
 1,desconcertante
-1,325
 1,manjar
 1,importarme
 1,incontestable
@@ -18133,7 +17945,6 @@
 1,recado
 1,explicándole
 1,pornográfico
-1,326
 1,obesa
 1,rapero
 1,jaleado
@@ -18148,7 +17959,6 @@
 1,engaños
 1,parachoques
 1,plató
-1,327
 1,nessee
 1,emisión
 1,liso
@@ -18156,7 +17966,6 @@
 1,trenzado
 1,fíjamente
 1,perfilaban
-1,328
 1,rechazara
 1,linchados
 1,depauperadas
@@ -18166,7 +17975,6 @@
 1,grandullón
 1,cocodrilos
 1,removerle
-1,329
 1,generaba
 1,sucesivo
 1,regímenes
@@ -18178,15 +17986,12 @@
 1,macarthysmo
 1,setecientos
 1,irreductibles
-1,330
-1,1987
 1,pestañas
 1,pertenecí
 1,apilados
 1,editados
 1,rehusó
 1,trotes
-1,331
 1,británico
 1,predicador
 1,sociológico
@@ -18197,14 +18002,12 @@
 1,anís
 1,boldo
 1,enco
-1,332
 1,gió
 1,jeff
 1,sustituya
 1,sucinto
 1,sofrito
 1,despedirme
-1,333
 1,wayne
 1,county
 1,lanzar
@@ -18215,15 +18018,12 @@
 1,liverpool
 1,iniciaron
 1,gabón
-1,1780
 1,newton
 1,moral
 1,empleaban
 1,corisco
 1,bastantes
 1,capturado
-1,334
-1,1637
 1,fortín
 1,adelantaron
 1,tocando
@@ -18232,7 +18032,6 @@
 1,cochise
 1,chiricahua
 1,gesticular
-1,335
 1,atenderlo
 1,cilantro
 1,monocigóticos
@@ -18241,7 +18040,6 @@
 1,atronador
 1,diésel
 1,estornudar
-1,336
 1,gustosa
 1,desorganizados
 1,aparcar
@@ -18251,7 +18049,6 @@
 1,fantasías
 1,descuartizamientos
 1,capturados
-1,337
 1,inventados
 1,conmueven
 1,fútiles
@@ -18264,8 +18061,6 @@
 1,descabalgar
 1,virginiana
 1,perdurar
-1,1871
-1,338
 1,reseñada
 1,examiner
 1,escribible
@@ -18294,34 +18089,27 @@
 1,visos
 1,cobrizos
 1,lavándose
-1,340
 1,cubano
 1,colombianos
-1,341
 1,redondos
 1,oscurecerá
 1,desconectara
-1,342
 1,impulsadas
 1,fabulosos
 1,desértico
 1,engrandecía
 1,echase
-1,343
 1,guntó
 1,almacenamiento
 1,conglomerado
 1,alineadas
-1,344
 1,entumecidas
 1,versus
-1,345
 1,precisas
 1,acreditó
 1,tradujeran
 1,victorias
 1,derrotas
-1,346
 1,convención
 1,despreocupados
 1,ronca
@@ -18329,7 +18117,6 @@
 1,periférico
 1,telaraña
 1,surgir
-1,347
 1,mizos
 1,camuflado
 1,rodadas
@@ -18341,7 +18128,6 @@
 1,tatuador
 1,tintas
 1,inquietante
-1,348
 1,palabrotas
 1,lavaron
 1,torsos
@@ -18352,14 +18138,12 @@
 1,realzaba
 1,amenazador
 1,dignarse
-1,349
 1,oteó
 1,oscureciendo
 1,hacéis
 1,entrenamientos
 1,alimentadas
 1,conectar
-1,350
 1,zumbado
 1,veloces
 1,escabullía
@@ -18367,7 +18151,6 @@
 1,candorros
 1,asaltos
 1,braille
-1,351
 1,andamos
 1,apuesta
 1,estacionarse
@@ -18378,21 +18161,17 @@
 1,mancuernas
 1,atildado
 1,asada
-1,352
 1,desolado
 1,autoritarios
 1,hispana
-1,353
 1,aventurado
 1,confiara
-1,354
 1,teñida
 1,reflexionara
 1,filósofa
 1,cancún
 1,trovo
 1,sentarnos
-1,355
 1,cansando
 1,rodar
 1,pulquería
@@ -18412,7 +18191,6 @@
 1,mamerson
 1,encuadre
 1,contraplanos
-1,356
 1,retazos
 1,sabias
 1,justina
@@ -18428,7 +18206,6 @@
 1,botón
 1,guacamole
 1,alegro
-1,358
 1,dog
 1,cajera
 1,considerarme
@@ -18438,13 +18215,11 @@
 1,escucharte
 1,procuraremos
 1,editarte
-1,359
 1,palas
 1,arrollarlos
 1,vigilarlo
 1,visera
 1,exhibiendo
-1,360
 1,jesse
 1,brentwood
 1,cobrado
@@ -18460,14 +18235,12 @@
 1,equivalencia
 1,urbanístico
 1,convierta
-1,362
 1,abstraído
 1,acometía
 1,séptimo
 1,solucionados
 1,inatrapable
 1,esbozar
-1,363
 1,electrónico
 1,gallos
 1,welter
@@ -18478,7 +18251,7 @@
 1,impresiona
 1,cuadrado
 1,obtiene
-1,364
+1,tí
 1,tulo
 1,adquieren
 1,blanquean
@@ -18502,7 +18275,6 @@
 1,amañaba
 1,envaneció
 1,presumir
-1,365
 1,gordinflón
 1,pactaron
 1,boxeaba
@@ -18516,7 +18288,6 @@
 1,publicista
 1,negrata
 1,calmó
-1,366
 1,chuck
 1,sport
 1,magazine
@@ -18525,7 +18296,6 @@
 1,disparates
 1,canallas
 1,entrenando
-1,367
 1,caerá
 1,limitase
 1,palestina
@@ -18539,7 +18309,6 @@
 1,trade
 1,center
 1,pasearse
-1,368
 1,iconográfica
 1,provocación
 1,retadora
@@ -18556,7 +18325,6 @@
 1,baychester
 1,rapada
 1,explícame
-1,369
 1,manifestáis
 1,oprimen
 1,tel
@@ -18571,7 +18339,6 @@
 1,trocearon
 1,molieron
 1,bistecs
-1,370
 1,pilotaba
 1,frenopáticos
 1,hipnotizados
@@ -18590,24 +18357,23 @@
 1,olvidarán
 1,negratas
 1,infiltrados
-1,371
 1,destrozamos
 1,pensarlas
 1,véndelo
 1,filme
 1,sucinta
-1,372
+1,mu
 1,jeres
 1,marcharía
 1,merci
 1,revoir
 1,faire
 1,l’amour
+1,ce
 1,soir
 1,voulezvous
 1,jodes
 1,revuelta
-1,373
 1,rival
 1,vigile
 1,cumple
@@ -18616,7 +18382,6 @@
 1,tendiéndole
 1,agrada
 1,atletismo
-1,374
 1,patéticas
 1,pretérito
 1,pluscuamperfecto
@@ -18627,7 +18392,6 @@
 1,carezco
 1,adolezco
 1,inexperta
-1,375
 1,rechazar
 1,cajeros
 1,automáticos
@@ -18639,7 +18403,6 @@
 1,correctos
 1,observadora
 1,encerramos
-1,376
 1,aumentaran
 1,cavilé
 1,pegué
@@ -18649,7 +18412,6 @@
 1,disimulamos
 1,importado
 1,estrellara
-1,377
 1,padeciera
 1,migraña
 1,acompañarme
@@ -18657,7 +18419,6 @@
 1,feminismo
 1,envejecemos
 1,envejecen
-1,378
 1,histeria
 1,sorprenda
 1,entienda
@@ -18667,14 +18428,12 @@
 1,equitativo
 1,dañan
 1,predecesor
-1,379
 1,reposado
 1,lamentaron
 1,pulitzer
 1,iowa
 1,biblia
 1,campestre
-1,380
 1,follábamos
 1,jugábamos
 1,emborrachábamos
@@ -18688,7 +18447,6 @@
 1,collarín
 1,acercando
 1,micrófonos
-1,381
 1,tibularias
 1,hipnóticos
 1,brasas
@@ -18696,7 +18454,6 @@
 1,apaciguamiento
 1,indicador
 1,desacelerador
-1,382
 1,subiría
 1,reservar
 1,rayado
@@ -18706,7 +18463,6 @@
 1,habrán
 1,cirro
 1,skirrhós
-1,383
 1,fernándezpickett
 1,topó
 1,bidones
@@ -18719,7 +18475,6 @@
 1,humeaba
 1,mazorcas
 1,espolvoreó
-1,384
 1,dentemente
 1,interrumpirlo
 1,efusivo
@@ -18730,22 +18485,18 @@
 1,constituido
 1,retenerlo
 1,atinaba
-1,385
 1,mordida
 1,tatuado
 1,posado
-1,386
 1,pugilísticos
 1,combatía
 1,ajustado
 1,flojas
 1,vestuarios
 1,saludas
-1,387
 1,entrenado
 1,gajes
 1,tocarle
-1,388
 1,proyectando
 1,amagó
 1,violetas
@@ -18755,7 +18506,6 @@
 1,trípode
 1,mascaba
 1,panta
-1,389
 1,lón
 1,bucal
 1,arrodillarse
@@ -18770,23 +18520,19 @@
 1,entonaban
 1,corretear
 1,canturreando
-1,390
 1,escurridiza
 1,destruirlo
 1,zarpazo
 1,pensaran
 1,quitaran
-1,391
 1,denzel
 1,partícipe
 1,ocurrirme
 1,guardo
 1,excitante
-1,392
 1,brindemos
 1,entrechocaron
 1,insensatez
-1,393
 1,intereso
 1,afectan
 1,afroamericana
@@ -18798,7 +18544,6 @@
 1,andas
 1,neón
 1,delanteras
-1,394
 1,fusta
 1,decorado
 1,embaldosado
@@ -18817,7 +18562,6 @@
 1,entrevistos
 1,infernal
 1,confío
-1,395
 1,bocina
 1,cansara
 1,desistiera
@@ -18826,7 +18570,6 @@
 1,convencionalismo
 1,dignamente
 1,ahuyentarlo
-1,396
 1,rece
 1,alegraran
 1,abundaba
@@ -18844,7 +18587,6 @@
 1,comodísimas
 1,caben
 1,abis
-1,397
 1,latín
 1,aterrorizados
 1,brother
@@ -18858,7 +18600,6 @@
 1,ignorar
 1,silabeó
 1,calam
-1,398
 1,llamémoslo
 1,notoriamente
 1,calambres
@@ -18872,8 +18613,6 @@
 1,acelerara
 1,acelerarse
 1,traspusiera
-1,399
-1,400
 1,happy
 1,birthday
 1,abofeteaba
@@ -18890,11 +18629,9 @@
 1,enajenación
 1,transitoria
 1,pentecostalistas
-1,402
 1,sólida
 1,consultaba
 1,besaran
-1,403
 1,riquísimo
 1,petrolíferas
 1,sembrados
@@ -18906,7 +18643,6 @@
 1,hurgar
 1,ubicar
 1,faltarían
-1,404
 1,mirándolos
 1,pintarrajeado
 1,oponía
@@ -18922,7 +18658,6 @@
 1,adquirieron
 1,desprenderse
 1,mondo
-1,405
 1,lirondo
 1,barrida
 1,empaparse
@@ -18938,7 +18673,6 @@
 1,mamándole
 1,rebobinaba
 1,necesite
-1,406
 1,muellemente
 1,surgido
 1,estrechez
@@ -18950,7 +18684,6 @@
 1,inodoro
 1,irrealidad
 1,atrofiadas
-1,407
 1,bocabajo
 1,volteó
 1,procurar
@@ -18960,12 +18693,10 @@
 1,sordidez
 1,estrecharla
 1,repatriar
-1,408
 1,exhalar
 1,artilugio
 1,sex
 1,shop
-1,409
 1,resuelta
 1,guisara
 1,corredor
@@ -18973,29 +18704,24 @@
 1,pavimentar
 1,advirtieran
 1,limpió
-1,410
 1,quedarte
 1,llevaré
 1,entornadas
 1,halaga
 1,limpiaste
 1,deshacerte
-1,411
 1,suspense
 1,fuertemente
 1,desempaquetar
 1,tar
-1,412
 1,aduciendo
 1,oneroso
 1,enfadó
 1,sufragar
 1,bolero
 1,tácitamente
-1,413
 1,lépera
 1,encanta
-1,414
 1,respiramos
 1,simón
 1,galantear
@@ -19005,7 +18731,6 @@
 1,señalándole
 1,probase
 1,compraría
-1,415
 1,ofrendas
 1,concitando
 1,alabanza
@@ -19015,7 +18740,6 @@
 1,desenterradas
 1,jacuzzi
 1,magnificarla
-1,416
 1,poseerla
 1,tierno
 1,gustaron
@@ -19023,7 +18747,6 @@
 1,aplastaban
 1,esclava
 1,ruteros
-1,417
 1,nía
 1,tostada
 1,exprimidor
@@ -19040,7 +18763,6 @@
 1,papelillo
 1,escanciaba
 1,bucólicos
-1,418
 1,ayudándose
 1,esnifaba
 1,raya
@@ -19052,7 +18774,6 @@
 1,hexágonos
 1,hexágono
 1,atrapando
-1,419
 1,espina
 1,aducir
 1,respaldara
@@ -19067,37 +18788,31 @@
 1,talladas
 1,legibles
 1,espetar
-1,420
 1,plateau
 1,zoótropo
 1,acuerda
 1,cartulina
 1,mágicos
-1,421
 1,calmadamente
 1,desocupada
 1,aproximativo
 1,integral
 1,venillas
 1,reside
-1,422
 1,apercibirnos
 1,hagamos
 1,parezca
 1,espaciosa
 1,provenientes
 1,desconcertada
-1,423
 1,congestionada
 1,besado
 1,proferida
 1,apretados
 1,calmarle
-1,424
 1,vibrar
 1,arqueó
 1,articulada
-1,425
 1,devolverle
 1,conocimos
 1,ibas
@@ -19107,11 +18822,9 @@
 1,aconsejaba
 1,noviazgo
 1,aguanto
-1,426
 1,reventara
 1,irte
 1,bostezaron
-1,427
 1,neoyorquino
 1,cibercafés
 1,impresas
@@ -19122,7 +18835,6 @@
 1,twin
 1,peaks
 1,recepcio
-1,428
 1,gravilla
 1,proyectada
 1,bigotudo
@@ -19132,20 +18844,17 @@
 1,tibias
 1,escrutando
 1,fachada
-1,429
 1,enfrascados
 1,descolgar
 1,preguntándome
 1,desempacado
 1,peinando
 1,vendrán
-1,430
 1,preludiaba
 1,saltaron
 1,rebajar
 1,confluido
 1,perio
-1,431
 1,dista
 1,jarrito
 1,azucarero
@@ -19153,7 +18862,6 @@
 1,aclaraciones
 1,comprobaran
 1,alcanzará
-1,432
 1,enronquecido
 1,saque
 1,olvídese
@@ -19161,7 +18869,6 @@
 1,despidiendo
 1,encaminarse
 1,necesitada
-1,433
 1,peinar
 1,proyectaron
 1,sacudida
@@ -19171,7 +18878,6 @@
 1,revestidos
 1,onírico
 1,impertérrito
-1,434
 1,retumbar
 1,durmiéndose
 1,preocupan
@@ -19179,7 +18885,6 @@
 1,nemo
 1,ondeando
 1,aduana
-1,435
 1,teamericano
 1,tunda
 1,irrigara
@@ -19190,7 +18895,6 @@
 1,dormiría
 1,mugidos
 1,dormiré
-1,436
 1,amanezca
 1,floreado
 1,vitrina
@@ -19201,7 +18905,6 @@
 1,reposaba
 1,omóplatos
 1,aca
-1,437
 1,lambrada
 1,revocar
 1,larguémonos
@@ -19209,7 +18912,6 @@
 1,bigotito
 1,desoír
 1,llamémosla
-1,438
 1,desocupados
 1,albino
 1,aproximaban
@@ -19221,18 +18923,15 @@
 1,rescatarme
 1,políglota
 1,jaleos
-1,439
 1,inclinando
 1,topetazo
 1,travesura
 1,esposara
 1,palmadita
 1,tóxico
-1,440
 1,chacón
 1,arrodilladas
 1,interrumpirlas
-1,443
 1,encabeza
 1,siembra
 1,examinarla
@@ -19242,14 +18941,12 @@
 1,escoriaciones
 1,sangrado
 1,foren
-1,444
 1,congelador
 1,íntimas
 1,arranque
 1,incriminar
 1,llevada
 1,autoimplicó
-1,445
 1,contusiones
 1,pintalabios
 1,polvos
@@ -19262,7 +18959,6 @@
 1,pizza
 1,santamaría
 1,viandante
-1,446
 1,apoyar
 1,aireado
 1,apropiarse
@@ -19276,7 +18972,6 @@
 1,amasijo
 1,morada
 1,torito
-1,447
 1,responsabiliza
 1,responsabilizar
 1,responsabilizarse
@@ -19295,7 +18990,6 @@
 1,achacó
 1,descontentos
 1,nicanor
-1,448
 1,polígono
 1,ensamblaje
 1,portones
@@ -19307,7 +19001,6 @@
 1,fabricaba
 1,recogieran
 1,lla
-1,449
 1,maba
 1,taparon
 1,destapó
@@ -19318,7 +19011,6 @@
 1,refrigerado
 1,ilegalmente
 1,residente
-1,450
 1,peligrosa
 1,apta
 1,fundados
@@ -19330,7 +19022,6 @@
 1,inequívocos
 1,apreciable
 1,hematoma
-1,451
 1,consumirse
 1,abocado
 1,caracoleaban
@@ -19341,7 +19032,6 @@
 1,arrastrarse
 1,agachados
 1,tiesa
-1,452
 1,vejez
 1,patriotas
 1,bancas
@@ -19356,7 +19046,6 @@
 1,atiendo
 1,raídas
 1,amarillenta
-1,453
 1,mojándose
 1,confirmando
 1,preocupante
@@ -19372,20 +19061,17 @@
 1,reproducción
 1,picasso
 1,pecas
-1,455
 1,quejando
 1,muralla
 1,sopla
 1,anochezca
 1,papeleo
 1,retengan
-1,456
 1,ofenderla
 1,procure
 1,promete
 1,interrogaba
 1,desocupó
-1,457
 1,meando
 1,guadalupana
 1,soltarlo
@@ -19393,7 +19079,6 @@
 1,séptica
 1,simulacro
 1,recortaba
-1,458
 1,precedentes
 1,citaron
 1,usumacinta
@@ -19401,7 +19086,6 @@
 1,regulares
 1,afilados
 1,carnívoro
-1,459
 1,gustar
 1,comprarme
 1,defecó
@@ -19414,7 +19098,6 @@
 1,parroquial
 1,monaguillos
 1,ayudaban
-1,460
 1,comprados
 1,talar
 1,menudeo
@@ -19432,7 +19115,6 @@
 1,encargaban
 1,entregársela
 1,moti
-1,461
 1,cristera
 1,confesionarios
 1,contrariamente
@@ -19443,7 +19125,6 @@
 1,arrugó
 1,vacilar
 1,batear
-1,462
 1,pasito
 1,emprendida
 1,castañeteaban
@@ -19463,7 +19144,6 @@
 1,viejísima
 1,colisionando
 1,latitudes
-1,463
 1,trapeado
 1,galón
 1,amoníaco
@@ -19475,7 +19155,6 @@
 1,hueles
 1,andando
 1,pierdas
-1,464
 1,cía
 1,oliendo
 1,telefonéeme
@@ -19484,7 +19163,6 @@
 1,pondré
 1,trabajaran
 1,policia
-1,465
 1,estruendosamente
 1,yucatecos
 1,quemada
@@ -19505,7 +19183,6 @@
 1,hábitos
 1,alimenticios
 1,inexpresable
-1,466
 1,despellejarlo
 1,personaron
 1,proseguían
@@ -19514,15 +19191,12 @@
 1,bloques
 1,soleadas
 1,inaugurada
-1,467
 1,desenterraran
 1,arrollada
 1,espantó
 1,mechones
 1,empalada
-1,468
 1,oscilar
-1,k&t
 1,acudido
 1,cumplidora
 1,fecharse
@@ -19532,7 +19206,6 @@
 1,pavimentación
 1,forman
 1,blanquea
-1,469
 1,estacionaba
 1,cruzarla
 1,torció
@@ -19541,7 +19214,6 @@
 1,agachándose
 1,lanceoladas
 1,desaho
-1,470
 1,gada
 1,divorcio
 1,presionar
@@ -19556,7 +19228,6 @@
 1,redacciones
 1,conversó
 1,profanadas
-1,471
 1,facilitaron
 1,conseguirlo
 1,rangos
@@ -19567,7 +19238,6 @@
 1,llevárselas
 1,deformado
 1,estroboscópica
-1,472
 1,inadecuado
 1,chamarras
 1,apostaran
@@ -19583,7 +19253,6 @@
 1,pronunciaran
 1,saltarines
 1,oyeran
-1,473
 1,profanaba
 1,premeditada
 1,accidentales
@@ -19597,7 +19266,6 @@
 1,drogarse
 1,extenuados
 1,camel
-1,474
 1,aspiraba
 1,florecían
 1,teología
@@ -19607,7 +19275,6 @@
 1,crucifijos
 1,reiría
 1,destripó
-1,475
 1,inexperiencia
 1,tuteamos
 1,delgadas
@@ -19618,7 +19285,6 @@
 1,zapatear
 1,despeinó
 1,carcajeaba
-1,476
 1,tomarlos
 1,liberaba
 1,fumo
@@ -19629,7 +19295,6 @@
 1,desencajada
 1,fascinante
 1,padecemos
-1,477
 1,claustrofobia
 1,agorafobia
 1,necrofobia
@@ -19650,7 +19315,6 @@
 1,antofobia
 1,dendrofobia
 1,alarmista
-1,478
 1,relacionado
 1,trastornos
 1,alucinaciones
@@ -19676,7 +19340,6 @@
 1,elijo
 1,activan
 1,rizo
-1,479
 1,limitaría
 1,concertaban
 1,aprovechaba
@@ -19688,7 +19351,6 @@
 1,sombrilla
 1,plegada
 1,pisci
-1,480
 1,entoldados
 1,glorietas
 1,conseguirle
@@ -19696,14 +19358,12 @@
 1,desplazamiento
 1,chapado
 1,colgajos
-1,481
 1,descamisado
 1,retumbo
 1,arrollado
 1,desentumecer
 1,cargué
 1,tablero
-1,482
 1,mírale
 1,lustroso
 1,atropellar
@@ -19715,7 +19375,6 @@
 1,altillo
 1,vacilada
 1,captas
-1,483
 1,levantaría
 1,venenosos
 1,inscripciones
@@ -19729,7 +19388,6 @@
 1,puntiagudas
 1,pasajero
 1,aceleraba
-1,484
 1,saltara
 1,alucinógeno
 1,suspensión
@@ -19740,10 +19398,8 @@
 1,protegidas
 1,bungalow
 1,literas
-1,485
 1,formales
 1,usarla
-1,486
 1,mino
 1,supervivientes
 1,freáticas
@@ -19752,20 +19408,17 @@
 1,concertadas
 1,reclinada
 1,pulseras
-1,487
 1,dras
 1,acreditara
 1,mantenida
 1,menguado
 1,mejora
 1,tamaulipeco
-1,488
 1,franquearle
 1,leotardos
 1,sintético
 1,cajeras
 1,vendedoras
-1,489
 1,aludía
 1,enviándose
 1,petitorio
@@ -19776,7 +19429,6 @@
 1,inequívocas
 1,tumefacciones
 1,lacerados
-1,490
 1,homicidio
 1,deshidratado
 1,registró
@@ -19786,13 +19438,11 @@
 1,ansiolíticos
 1,macabro
 1,incrustarle
-1,491
 1,solicitaba
 1,imputarle
 1,resueltos
 1,trastorno
 1,institucional
-1,492
 1,chicotizas
 1,descontón
 1,luctuoso
@@ -19805,7 +19455,6 @@
 1,arrojo
 1,astrónomos
 1,guardaes
-1,493
 1,paldas
 1,hablarse
 1,azulada
@@ -19816,7 +19465,6 @@
 1,cesaran
 1,interpelarse
 1,asombrarse
-1,494
 1,saquen
 1,apartaron
 1,metralleta
@@ -19832,7 +19480,6 @@
 1,desacostumbrados
 1,ovillaron
 1,decidir
-1,495
 1,incrustó
 1,afectando
 1,sanguíneos
@@ -19841,7 +19488,6 @@
 1,rematarlo
 1,pidieran
 1,guterson
-1,496
 1,bulancia
 1,salpicó
 1,desgració
@@ -19853,7 +19499,6 @@
 1,quebró
 1,pelaron
 1,dispararles
-1,497
 1,tumbarlo
 1,interrupción
 1,sureste
@@ -19864,14 +19509,12 @@
 1,recordarte
 1,reconozco
 1,subsanaré
-1,498
 1,amueles
 1,palideció
 1,verdinegra
 1,abrevar
 1,key
 1,martí
-1,499
 1,nez
 1,manufactura
 1,deslumbró
@@ -19880,7 +19523,6 @@
 1,lacitos
 1,politraumatismo
 1,orientativo
-1,500
 1,prostituta
 1,pool
 1,aprendía
@@ -19889,7 +19531,6 @@
 1,antirrobos
 1,apiñado
 1,habitáculo
-1,501
 1,asfixiados
 1,aplastados
 1,quíhuboles
@@ -19906,16 +19547,13 @@
 1,paquita
 1,avendaño
 1,declararlas
-1,502
 1,recadero
 1,mandados
-1,1985
 1,partió
 1,esquivar
 1,entregaran
 1,gastó
 1,aullido
-1,503
 1,ruégale
 1,virgencita
 1,echaré
@@ -19923,11 +19561,9 @@
 1,empalmando
 1,partiera
 1,lentísimos
-1,504
 1,vivaz
 1,acortaron
 1,avisos
-1,505
 1,agotadoras
 1,significaban
 1,presentando
@@ -19936,7 +19572,6 @@
 1,tejadillos
 1,delgadísimas
 1,pilastras
-1,506
 1,refrescarse
 1,comunal
 1,clavado
@@ -19944,7 +19579,6 @@
 1,uve
 1,carpetazo
 1,priorizar
-1,507
 1,inacabable
 1,tombstone
 1,apache
@@ -19955,7 +19589,6 @@
 1,tachado
 1,acosador
 1,porticados
-1,508
 1,grandiosa
 1,regar
 1,empedrado
@@ -19976,7 +19609,6 @@
 1,frenazo
 1,derrapada
 1,posibili
-1,510
 1,dades
 1,registrada
 1,exclamación
@@ -19985,12 +19617,9 @@
 1,condimentados
 1,lagrimear
 1,interesándose
-1,511
 1,insistencia
 1,iré
-1,512
 1,identifiques
-1,513
 1,comprometido
 1,capturar
 1,rebañaba
@@ -20000,7 +19629,6 @@
 1,huidas
 1,huelleros
 1,abrochan
-1,514
 1,meseras
 1,avecindada
 1,durán
@@ -20008,14 +19636,11 @@
 1,rústico
 1,exportaban
 1,cableado
-1,515
 1,patológico
 1,forzada
 1,haciéndole
 1,xalapa
-1,holmes&west
 1,pasándole
-1,516
 1,devolvían
 1,acurrucada
 1,hundiéndose
@@ -20024,7 +19649,6 @@
 1,previas
 1,certificar
 1,sayuca
-1,517
 1,inusual
 1,magón
 1,sudaderas
@@ -20038,7 +19662,6 @@
 1,magana
 1,macgana
 1,veintipocos
-1,518
 1,morados
 1,sinfín
 1,cardenales
@@ -20050,7 +19673,6 @@
 1,billar
 1,sobrina
 1,retechica
-1,519
 1,cananeasanta
 1,reurbanización
 1,muchachita
@@ -20058,7 +19680,6 @@
 1,señale
 1,podrá
 1,faltaría
-1,520
 1,desbordaba
 1,zumos
 1,rivalizaban
@@ -20076,7 +19697,6 @@
 1,silbó
 1,gritas
 1,incorporarse
-1,521
 1,rizado
 1,efectuado
 1,surtido
@@ -20088,14 +19708,12 @@
 1,apaleada
 1,angelito
 1,gol
-1,522
 1,peando
 1,isabelita
 1,atestiguó
 1,guitarras
 1,mayoritaria
 1,rudimentaria
-1,523
 1,renato
 1,detonante
 1,risotadas
@@ -20111,7 +19729,6 @@
 1,contestan
 1,empiece
 1,pregun
-1,524
 1,titas
 1,macha
 1,sacábamos
@@ -20123,7 +19740,6 @@
 1,cajones
 1,talonario
 1,hojeó
-1,525
 1,ladeadas
 1,pasmosa
 1,garitos
@@ -20136,7 +19752,6 @@
 1,embridar
 1,potro
 1,ocasio
-1,526
 1,nes
 1,esfuma
 1,esfumarse
@@ -20145,7 +19760,6 @@
 1,acostándose
 1,mutua
 1,sopor
-1,527
 1,cansar
 1,adaptarse
 1,fulanas
@@ -20154,7 +19768,6 @@
 1,atente
 1,sobrado
 1,ilegible
-1,528
 1,chilangos
 1,chido
 1,embotellamientos
@@ -20163,7 +19776,6 @@
 1,esperaría
 1,darlo
 1,corazonada
-1,529
 1,dejárselo
 1,patólogo
 1,cuarentaidós
@@ -20177,7 +19789,6 @@
 1,rozándola
 1,efectiva
 1,sorbía
-1,530
 1,semipenumbra
 1,contrariarla
 1,refrenaba
@@ -20188,7 +19799,6 @@
 1,jurado
 1,cuauhtémoc
 1,cotejaron
-1,531
 1,privados
 1,patrullaban
 1,tirarla
@@ -20197,7 +19807,6 @@
 1,volverían
 1,despedidas
 1,esterilizadas
-1,532
 1,cabello
 1,chamuscado
 1,desfilaron
@@ -20205,7 +19814,6 @@
 1,certeras
 1,chapucero
 1,pasmón
-1,533
 1,bebedor
 1,ocio
 1,dotarlo
@@ -20217,7 +19825,6 @@
 1,raquítico
 1,parentela
 1,malgastado
-1,534
 1,retechula
 1,salvajada
 1,apodaban
@@ -20230,7 +19837,6 @@
 1,energético
 1,estabilice
 1,consumir
-1,535
 1,sube
 1,abominable
 1,chicharrones
@@ -20265,7 +19871,6 @@
 1,farmacología
 1,alucinógenas
 1,alcaloides
-1,536
 1,holgazanes
 1,viciosos
 1,meteorológica
@@ -20289,7 +19894,6 @@
 1,bichos
 1,cueste
 1,diverti
-1,537
 1,respetuosa
 1,compraventa
 1,porcino
@@ -20307,7 +19911,6 @@
 1,desvanecían
 1,vana
 1,pes
-1,538
 1,queira
 1,pimas
 1,bigotes
@@ -20325,7 +19928,6 @@
 1,instruida
 1,repone
 1,invidentes
-1,539
 1,pretendientes
 1,antojó
 1,manejable
@@ -20343,7 +19945,6 @@
 1,pastura
 1,confidenciado
 1,transmitir
-1,540
 1,desfilar
 1,desvanecidas
 1,circulara
@@ -20365,7 +19966,6 @@
 1,estanques
 1,apresura
 1,olvida
-1,541
 1,reposas
 1,descansas
 1,sosegado
@@ -20383,7 +19983,6 @@
 1,relaja
 1,alegra
 1,insistirle
-1,542
 1,penitentes
 1,capuchas
 1,moradas
@@ -20418,7 +20017,6 @@
 1,zafarinfas
 1,sensatos
 1,adelgazan
-1,543
 1,insistía
 1,zafada
 1,improvisó
@@ -20429,7 +20027,6 @@
 1,estrangularme
 1,picardía
 1,rebelaba
-1,544
 1,rebelión
 1,extendida
 1,ebullición
@@ -20447,7 +20044,7 @@
 1,neuropatías
 1,inquieto
 1,trances
-1,545
+1,mé
 1,dium
 1,arrastrándose
 1,pararlo
@@ -20467,7 +20064,6 @@
 1,pobrecitas
 1,censuro
 1,señoras
-1,546
 1,varonil
 1,sobón
 1,dejará
@@ -20477,7 +20073,6 @@
 1,rugió
 1,toquen
 1,preocupen
-1,547
 1,técnicas
 1,policíaco
 1,klotter
@@ -20485,7 +20080,6 @@
 1,malachi
 1,harney
 1,databa
-1,1965
 1,reimpresión
 1,modificación
 1,valiosa
@@ -20494,12 +20088,10 @@
 1,maravillado
 1,violara
 1,rie
-1,548
 1,convertirte
 1,huatabampo
 1,médanos
 1,salarlos
-1,549
 1,chiquero
 1,podridas
 1,culebra
@@ -20510,10 +20102,8 @@
 1,esperas
 1,merezco
 1,mereces
-1,550
 1,ayude
 1,inclemente
-1,551
 1,regadas
 1,vasijas
 1,richardson
@@ -20525,7 +20115,6 @@
 1,resbalarle
 1,cirujanos
 1,debemos
-1,552
 1,rajadura
 1,corteza
 1,terrestre
@@ -20536,7 +20125,6 @@
 1,hacerlas
 1,acaloradas
 1,ciclópeas
-1,553
 1,culturista
 1,largaron
 1,peinarse
@@ -20547,7 +20135,6 @@
 1,nácar
 1,gimió
 1,miente
-1,554
 1,abalanzaron
 1,abrazarlo
 1,desear
@@ -20560,14 +20147,12 @@
 1,carriles
 1,frotó
 1,maletín
-1,555
 1,anunciador
 1,suba
 1,recubiertas
 1,almohadillada
 1,tapizado
 1,tatuada
-1,556
 1,soltamos
 1,iselita
 1,encaladas
@@ -20575,20 +20160,17 @@
 1,ofrecían
 1,cántaros
 1,desprendían
-1,557
 1,acumularse
 1,caducidad
 1,fisura
 1,agrandó
 1,encabezamiento
-1,558
 1,afanaban
 1,alcanzara
 1,telefonee
 1,telefoneando
 1,chilló
 1,enviaré
-1,559
 1,epígrafe
 1,pregrabada
 1,deformada
@@ -20597,17 +20179,14 @@
 1,baratijas
 1,legajo
 1,fotocopiados
-1,560
 1,empuñó
 1,resoplido
 1,fatalidad
-1,561
 1,cuate
 1,acrecentó
 1,desenterraron
 1,variado
 1,arriesgar
-1,562
 1,rehuir
 1,recogida
 1,saric
@@ -20615,7 +20194,6 @@
 1,marquesas
 1,echada
 1,admitieron
-1,563
 1,poseedor
 1,parricidio
 1,melón
@@ -20625,7 +20203,6 @@
 1,cenaría
 1,opuesta
 1,hallándola
-1,564
 1,ensañamiento
 1,presentándose
 1,palatino
@@ -20635,7 +20212,6 @@
 1,apresar
 1,devolver
 1,laborioso
-1,565
 1,juraron
 1,añagaza
 1,limpiaban
@@ -20646,7 +20222,6 @@
 1,sofía
 1,serrano
 1,cer
-1,566
 1,domiciliada
 1,gentes
 1,egresado
@@ -20658,7 +20233,6 @@
 1,obsesionado
 1,ratificaron
 1,acam
-1,567
 1,pada
 1,representando
 1,reputadas
@@ -20668,7 +20242,6 @@
 1,travesti
 1,afiliadas
 1,desguace
-1,568
 1,tecnosa
 1,queretanas
 1,investigaba
@@ -20683,7 +20256,6 @@
 1,ramona
 1,indian
 1,reservation
-1,569
 1,agreste
 1,ratones
 1,remington
@@ -20695,7 +20267,6 @@
 1,hablador
 1,imposición
 1,afectarle
-1,570
 1,incompetencia
 1,cicerones
 1,presentados
@@ -20709,7 +20280,6 @@
 1,puntita
 1,tesoros
 1,acomodaban
-1,571
 1,terrosas
 1,cabelleras
 1,recogidas
@@ -20746,7 +20316,6 @@
 1,diarrea
 1,mesura
 1,seamos
-1,572
 1,frijol
 1,saltarín
 1,máxima
@@ -20770,7 +20339,6 @@
 1,remate
 1,adivinatoria
 1,sideromancia
-1,573
 1,fragua
 1,ponzoñosa
 1,disculpen
@@ -20791,7 +20359,6 @@
 1,santísima
 1,perdonará
 1,cansaré
-1,574
 1,cortarían
 1,explotara
 1,bárbaramente
@@ -20799,8 +20366,7 @@
 1,azotada
 1,rogelio
 1,reinosa
-1,rem&co
-1,575
+1,rem
 1,profusión
 1,dictamina
 1,newmarkets
@@ -20808,7 +20374,6 @@
 1,velasco
 1,aligerar
 1,quejaron
-1,576
 1,blara
 1,mencionados
 1,incisión
@@ -20824,8 +20389,8 @@
 1,centraron
 1,hipólito
 1,overworld
-1,country&seatech
-1,577
+1,country
+1,seatech
 1,tormento
 1,hijastra
 1,olvidos
@@ -20833,17 +20398,14 @@
 1,descubriera
 1,decúbito
 1,ventral
-1,578
 1,jacqueline
 1,llegaste
 1,fronte
-1,579
 1,estudiarla
 1,calienta
 1,conservé
 1,identificaría
 1,efectuó
-1,580
 1,retales
 1,decretó
 1,jurídica
@@ -20857,7 +20419,6 @@
 1,misteriosamente
 1,pulturales
 1,natos
-1,581
 1,presidido
 1,afrodita
 1,gozado
@@ -20875,7 +20436,6 @@
 1,orbitara
 1,enviándole
 1,noti
-1,582
 1,cias
 1,tendidos
 1,comunicados
@@ -20888,14 +20448,11 @@
 1,luxación
 1,congénita
 1,malformación
-1,583
 1,desnucada
 1,amputación
 1,jokko
 1,tendente
-1,584
 1,chula
-1,585
 1,ennoviarse
 1,ganamos
 1,divertirte
@@ -20904,7 +20461,6 @@
 1,ubicó
 1,seguras
 1,esperándote
-1,586
 1,tiestos
 1,calibrar
 1,jueves
@@ -20915,14 +20471,13 @@
 1,festivos
 1,amiguita
 1,acompa
-1,587
+1,ñó
 1,entusiasmada
 1,encorajinada
 1,olvidamos
 1,lépero
 1,moverle
 1,cucarachero
-1,588
 1,mordiscos
 1,despacharse
 1,teta
@@ -20932,7 +20487,6 @@
 1,cogerle
 1,estrangulando
 1,atrapaban
-1,589
 1,personalizando
 1,brújula
 1,encuéntrenlo
@@ -20944,7 +20498,7 @@
 1,cincuentaiún
 1,cuide
 1,serás
-1,590
+1,jo
 1,acostarte
 1,considerarla
 1,cuido
@@ -20956,26 +20510,22 @@
 1,infracciones
 1,desvelado
 1,epifano
-1,591
 1,amoles
 1,chingo
 1,interrumpieron
 1,empeñados
 1,pudridero
-1,592
 1,preocupo
 1,canario
 1,tiñera
 1,computadores
 1,prestaciones
-1,593
 1,herradura
 1,tocarla
 1,arrugando
 1,montándolo
 1,estrechársela
 1,mintiera
-1,594
 1,arreció
 1,marte
 1,boxeaban
@@ -20984,7 +20534,6 @@
 1,castañón
 1,pongas
 1,criaturita
-1,595
 1,walkman
 1,existencias
 1,regularidad
@@ -20994,7 +20543,6 @@
 1,injustificadas
 1,abofetear
 1,anotados
-1,596
 1,arboladas
 1,placa
 1,amueblada
@@ -21006,16 +20554,13 @@
 1,asentimiento
 1,gano
 1,andemos
-1,597
 1,intermedio
 1,exhibicionismo
 1,referían
 1,manoseos
 1,multado
 1,bielefeld
-1,1955
 1,escobillón
-1,598
 1,ilustrar
 1,asimétrico
 1,bulliciosas
@@ -21030,7 +20575,6 @@
 1,álgida
 1,esposaron
 1,asimilar
-1,599
 1,tony
 1,especiales
 1,cerna
@@ -21044,7 +20588,6 @@
 1,sangra
 1,reemplazado
 1,setentai
-1,600
 1,navajas
 1,proporcionaran
 1,avino
@@ -21054,7 +20597,6 @@
 1,juraban
 1,aliviánate
 1,sácate
-1,601
 1,salirse
 1,alamillo
 1,tapes
@@ -21063,7 +20605,6 @@
 1,bañaban
 1,aceitoso
 1,obligar
-1,603
 1,enfrentó
 1,dotados
 1,trasladaran
@@ -21072,7 +20613,6 @@
 1,retornaban
 1,marcaban
 1,horario
-1,604
 1,lidez
 1,remendados
 1,pornográficas
@@ -21081,7 +20621,6 @@
 1,pavimentado
 1,crin
 1,púas
-1,605
 1,obligaran
 1,hocico
 1,sujetaron
@@ -21089,7 +20628,6 @@
 1,plánchalo
 1,arrebató
 1,cagar
-1,606
 1,ondulado
 1,peinado
 1,pido
@@ -21103,7 +20641,6 @@
 1,autoesfuerzo
 1,autoayuda
 1,mafia
-1,607
 1,avísame
 1,molestes
 1,procuro
@@ -21117,7 +20654,6 @@
 1,infundio
 1,manejando
 1,cobró
-1,608
 1,porcina
 1,panzudo
 1,despareja
@@ -21135,7 +20671,6 @@
 1,apuñalarlo
 1,reducirlo
 1,violarlo
-1,609
 1,mez
 1,compensación
 1,enculara
@@ -21155,7 +20690,6 @@
 1,reclamo
 1,atraídas
 1,inmundicia
-1,610
 1,ensombrecido
 1,aconsejar
 1,encías
@@ -21171,7 +20705,6 @@
 1,logística
 1,tiraré
 1,acordarse
-1,611
 1,ratificó
 1,administradas
 1,doblegar
@@ -21185,7 +20718,6 @@
 1,destinaba
 1,fojas
 1,riquísima
-1,612
 1,abalanzarían
 1,vengar
 1,linchamiento
@@ -21198,13 +20730,11 @@
 1,muchachitas
 1,cogerlas
 1,pretende
-1,613
 1,sueñan
 1,paradójico
 1,hablarían
 1,confidenció
 1,inclinar
-1,614
 1,molestados
 1,treintaiséis
 1,transportar
@@ -21216,7 +20746,6 @@
 1,lonja
 1,encargarse
 1,repartió
-1,615
 1,blas
 1,camargo
 1,carrizo
@@ -21227,7 +20756,6 @@
 1,desarmados
 1,transporta
 1,yonquis
-1,616
 1,naloa
 1,tirantes
 1,ricardos
@@ -21237,7 +20765,6 @@
 1,cigarro
 1,beneficia
 1,protegerlo
-1,617
 1,adriana
 1,filo
 1,quitaron
@@ -21246,7 +20773,6 @@
 1,denunció
 1,inmueble
 1,her
-1,618
 1,descripciones
 1,memorables
 1,traspapelado
@@ -21256,13 +20782,11 @@
 1,fuensanta
 1,acostumbraban
 1,adi
-1,619
 1,vina
 1,dobles
 1,ataba
 1,particularidades
 1,pisando
-1,620
 1,calculo
 1,vienes
 1,empalado
@@ -21271,7 +20795,6 @@
 1,estaca
 1,levantan
 1,provocadora
-1,621
 1,bicis
 1,desvencijadas
 1,encendían
@@ -21286,7 +20809,6 @@
 1,incluyendo
 1,mateo
 1,exce
-1,622
 1,sivamente
 1,veteranas
 1,repartiendo
@@ -21295,21 +20817,18 @@
 1,descubrieran
 1,perorar
 1,sumió
-1,623
 1,dudaron
 1,penetrar
 1,personarse
 1,conviviente
 1,amasio
 1,mamar
-1,624
 1,tonces
 1,oponer
 1,azoté
 1,humilles
 1,pelan
 1,filial
-1,625
 1,vejatorios
 1,desconsiderados
 1,sufrían
@@ -21322,7 +20841,6 @@
 1,dagas
 1,pima
 1,seri
-1,626
 1,determinadas
 1,geográficamente
 1,mengele
@@ -21332,12 +20850,10 @@
 1,atarla
 1,cuerpito
 1,reclamarla
-1,627
 1,detuviera
 1,desaprensivos
 1,moridero
 1,estilizada
-1,628
 1,cranes
 1,viajaran
 1,valija
@@ -21346,7 +20862,6 @@
 1,aras
 1,ingresaron
 1,inculpar
-1,629
 1,aravesado
 1,deshacían
 1,mutilada
@@ -21359,13 +20874,11 @@
 1,atendida
 1,redactada
 1,trámite
-1,630
 1,similitudes
 1,sesentaidós
 1,desgarrón
 1,quemadura
 1,reclamar
-1,631
 1,emplazar
 1,insostenible
 1,suspenderlo
@@ -21376,7 +20889,6 @@
 1,destazaba
 1,reeves
 1,atrapa
-1,632
 1,explicarás
 1,palmeras
 1,aspirantes
@@ -21388,7 +20900,6 @@
 1,piensen
 1,sangronas
 1,incontrovertible
-1,633
 1,acercan
 1,ferroviarios
 1,acreditaba
@@ -21396,14 +20907,12 @@
 1,entregada
 1,admonición
 1,chaparra
-1,634
 1,identificaran
 1,facilitó
 1,saldó
 1,preventivo
 1,bursátiles
 1,envol
-1,635
 1,semidesnuda
 1,descerrajó
 1,hallándolo
@@ -21416,24 +20925,20 @@
 1,aclararan
 1,nómades
 1,consignaban
-1,636
 1,punzocortante
 1,practicársele
 1,sumando
 1,corroboraron
 1,exhumación
 1,destinó
-1,637
 1,incriminara
 1,apostar
 1,largar
-1,638
 1,treintena
 1,escuches
 1,maltratarla
 1,oponerse
 1,olivá
-1,639
 1,rez
 1,asestarle
 1,cavaron
@@ -21442,7 +20947,6 @@
 1,retaron
 1,mencionara
 1,solidario
-1,640
 1,reivindicativo
 1,adversas
 1,descalificaron
@@ -21454,7 +20958,6 @@
 1,dichos
 1,realizados
 1,archivadas
-1,641
 1,ann
 1,estupefacientes
 1,estupas
@@ -21468,7 +20971,6 @@
 1,wolf
 1,tom
 1,cruise
-1,642
 1,sarabia
 1,testificar
 1,aplicarle
@@ -21479,14 +20981,12 @@
 1,trasladados
 1,antidroga
 1,insignias
-1,643
 1,docenas
 1,eventual
 1,disneyland
 1,arenas
 1,recriminó
 1,golpearla
-1,644
 1,litros
 1,disolverse
 1,implantes
@@ -21498,7 +20998,6 @@
 1,mistula
 1,apelativo
 1,jessica
-1,645
 1,culiacán
 1,impartía
 1,jaguar
@@ -21507,7 +21006,6 @@
 1,tesón
 1,destinatario
 1,sentida
-1,646
 1,crispaba
 1,aseada
 1,olvidaban
@@ -21518,7 +21016,6 @@
 1,rectificaron
 1,patólogos
 1,redactado
-1,647
 1,psicótico
 1,hipersensible
 1,ceballos
@@ -21533,7 +21030,6 @@
 1,herirlos
 1,traspasar
 1,herirlo
-1,648
 1,guiñapo
 1,hacérselo
 1,mea
@@ -21541,7 +21037,6 @@
 1,millón
 1,trasnochadas
 1,católicos
-1,649
 1,motociclistas
 1,sirvieran
 1,identificarlas
@@ -21552,7 +21047,6 @@
 1,proveedores
 1,dormidas
 1,dilaciones
-1,650
 1,ingresó
 1,reclusa
 1,alegrar
@@ -21567,7 +21061,6 @@
 1,comandos
 1,tóxica
 1,escuincles
-1,651
 1,atraparon
 1,despreciarlos
 1,carnales
@@ -21581,7 +21074,6 @@
 1,border
 1,patrol
 1,zamparse
-1,652
 1,hambriento
 1,castrar
 1,explotarle
@@ -21594,7 +21086,6 @@
 1,pedirles
 1,remataba
 1,matrícula
-1,653
 1,relajados
 1,confidentes
 1,salidores
@@ -21604,7 +21095,6 @@
 1,skorpion
 1,checa
 1,masacrados
-1,654
 1,guardan
 1,sanitarias
 1,penitenciaria
@@ -21615,7 +21105,6 @@
 1,verdugo
 1,pon
 1,mitote
-1,655
 1,blablablá
 1,fracturas
 1,encefálica
@@ -21627,7 +21116,7 @@
 1,cumbres
 1,empinada
 1,podes
-1,656
+1,tá
 1,delimitaban
 1,enredadas
 1,midiera
@@ -21638,7 +21127,6 @@
 1,rasgada
 1,reconcentrado
 1,moviera
-1,657
 1,oxidadas
 1,reventadas
 1,archivado
@@ -21650,7 +21138,6 @@
 1,soltándolo
 1,llevándoselo
 1,turbias
-1,658
 1,rivas
 1,dejarlas
 1,paralizadas
@@ -21658,7 +21145,6 @@
 1,prohibidas
 1,prescindible
 1,agotaron
-1,659
 1,purgatorio
 1,espesándolo
 1,trastocando
@@ -21671,7 +21157,6 @@
 1,atolondradamente
 1,proporcionaron
 1,allegados
-1,660
 1,coln
 1,coordinados
 1,desacuerdo
@@ -21690,7 +21175,6 @@
 1,figuraban
 1,inculpado
 1,colaboraba
-1,661
 1,delictivas
 1,besándose
 1,torpón
@@ -21701,7 +21185,6 @@
 1,violáceo
 1,capturaba
 1,regresaban
-1,662
 1,disuelto
 1,juniors
 1,descapotable
@@ -21709,7 +21192,6 @@
 1,sordera
 1,aguardar
 1,duches
-1,663
 1,oliéndolo
 1,decorosos
 1,sauza
@@ -21720,12 +21202,10 @@
 1,viga
 1,gafa
 1,buscaran
-1,664
 1,achaparrados
 1,torturadas
 1,desocúpame
 1,aseguraban
-1,665
 1,resumidas
 1,investigarlo
 1,reafirmó
@@ -21739,7 +21219,6 @@
 1,averiguó
 1,hinojosa
 1,hortensia
-1,666
 1,cenciado
 1,registrados
 1,benemérito
@@ -21753,7 +21232,6 @@
 1,frecuentado
 1,escasamente
 1,progra
-1,667
 1,cardinales
 1,captaba
 1,inválidos
@@ -21772,8 +21250,8 @@
 1,egipcia
 1,parisinos
 1,imaginando
-1,668
 1,montparnasse
+1,je
 1,sais
 1,quoi
 1,lluviosa
@@ -21791,7 +21269,6 @@
 1,agasajó
 1,chilosos
 1,buche
-1,669
 1,agruras
 1,mediada
 1,dilatada
@@ -21804,7 +21281,6 @@
 1,contexto
 1,virulento
 1,respues
-1,670
 1,comparábamos
 1,comparada
 1,sexenio
@@ -21822,7 +21298,6 @@
 1,criando
 1,malvas
 1,bue
-1,671
 1,integrantes
 1,posterioridad
 1,gardea
@@ -21833,8 +21308,8 @@
 1,bujarrones
 1,sodomizaron
 1,romperle
-1,672
 1,contraron
+1,cz
 1,heckler
 1,koch
 1,protagonizados
@@ -21846,7 +21321,6 @@
 1,maridaba
 1,suceda
 1,psicópatas
-1,673
 1,george
 1,steiner
 1,excitada
@@ -21862,7 +21336,6 @@
 1,lloraría
 1,aplazan
 1,temen
-1,674
 1,pachucos
 1,vinculados
 1,criador
@@ -21876,7 +21349,6 @@
 1,corrida
 1,rosana
 1,gor
-1,675
 1,dito
 1,pinga
 1,ruidosamente
@@ -21893,9 +21365,7 @@
 1,porteños
 1,amigote
 1,hardy
-1,1972
 1,psicoanalistas
-1,676
 1,tanas
 1,arrear
 1,vislumbrada
@@ -21923,7 +21393,6 @@
 1,arpillera
 1,carneada
 1,vísceras
-1,678
 1,argentinas
 1,filmando
 1,desconfiaran
@@ -21936,7 +21405,6 @@
 1,vine
 1,asquerosa
 1,desplazara
-1,679
 1,topo
 1,sugerencias
 1,deliquios
@@ -21949,7 +21417,6 @@
 1,rumoreó
 1,troupe
 1,fil
-1,680
 1,anuencia
 1,staff
 1,inmersos
@@ -21968,7 +21435,6 @@
 1,montoneros
 1,amas
 1,urbanísticos
-1,681
 1,lía
 1,producidos
 1,fallecimiento
@@ -21988,7 +21454,6 @@
 1,momificación
 1,dorantes
 1,hipovolémico
-1,682
 1,preventivos
 1,nylon
 1,pantis
@@ -21998,7 +21463,6 @@
 1,originarios
 1,reclamaron
 1,firmaron
-1,683
 1,aciago
 1,dorados
 1,latón
@@ -22012,7 +21476,6 @@
 1,repitieron
 1,trazaron
 1,res
-1,684
 1,primate
 1,tonito
 1,amanecida
@@ -22026,9 +21489,7 @@
 1,encuerado
 1,desnudaron
 1,abrasaduras
-1,685
 1,samuel
-1,cal&son
 1,practicaron
 1,odontológicas
 1,fugada
@@ -22051,7 +21512,6 @@
 1,apreciado
 1,invitaciones
 1,beneficiaba
-1,687
 1,representó
 1,medellín
 1,condiscípulo
@@ -22064,7 +21524,6 @@
 1,vaharadas
 1,subtropical
 1,donut
-1,688
 1,chuleta
 1,sangrante
 1,articulaciones
@@ -22075,7 +21534,6 @@
 1,estrellados
 1,manejarla
 1,robe
-1,689
 1,nieva
 1,esquiado
 1,contador
@@ -22090,7 +21548,6 @@
 1,captan
 1,enchufar
 1,alargue
-1,690
 1,cociente
 1,flotar
 1,limpiando
@@ -22113,7 +21570,6 @@
 1,mantearan
 1,distantes
 1,refi
-1,691
 1,naban
 1,aislados
 1,ateridos
@@ -22124,7 +21580,6 @@
 1,mordelones
 1,partirse
 1,petacas
-1,692
 1,genealogía
 1,enuméreme
 1,encorajinaba
@@ -22142,17 +21597,13 @@
 1,puerperales
 1,allegada
 1,concebida
-1,1881
 1,forastero
+1,/
 1,dinosaurio
-1,1882
 1,conocedora
 1,ungüentos
-1,1898
-1,693
 1,curandería
 1,desahogadas
-1,1914
 1,artesa
 1,lavaderos
 1,sabino
@@ -22161,9 +21612,7 @@
 1,casaría
 1,arrastrados
 1,suel
-1,694
 1,fiables
-1,1917
 1,forasteros
 1,opaca
 1,adoptado
@@ -22173,7 +21622,6 @@
 1,charros
 1,fonda
 1,sorprendieron
-1,695
 1,aclimatarse
 1,yucateca
 1,apiadó
@@ -22187,9 +21635,7 @@
 1,revólveres
 1,clarear
 1,estirpe
-1,696
 1,buhonero
-1,1953
 1,añadidas
 1,estufa
 1,fogón
@@ -22201,7 +21647,6 @@
 1,bautizar
 1,encomiendan
 1,xii
-1,697
 1,tarragona
 1,inscribió
 1,parroquia
@@ -22211,7 +21656,6 @@
 1,encantadas
 1,propiciaron
 1,fiscal
-1,698
 1,enviara
 1,cabelludo
 1,cobijas
@@ -22221,7 +21665,6 @@
 1,laceraciones
 1,minero
 1,tractor
-1,699
 1,destapara
 1,beetle
 1,severo
@@ -22234,7 +21677,6 @@
 1,enfundó
 1,hormonas
 1,alcanzando
-1,701
 1,chele
 1,habilitados
 1,llámeme
@@ -22248,7 +21690,6 @@
 1,pastan
 1,sedante
 1,oca
-1,702
 1,siones
 1,iniciaba
 1,caes
@@ -22258,7 +21699,6 @@
 1,gubernamental
 1,formalidad
 1,tiem
-1,703
 1,vislumbre
 1,mamador
 1,especializó
@@ -22270,7 +21710,6 @@
 1,sácatelas
 1,muero
 1,tex
-1,704
 1,sesentaisiete
 1,contusos
 1,tempoparietal
@@ -22280,7 +21719,6 @@
 1,popeye
 1,mesillas
 1,enanas
-1,705
 1,age
 1,taburetes
 1,espectáculos
@@ -22296,7 +21734,6 @@
 1,iniciase
 1,apadrinado
 1,escuchase
-1,706
 1,pecador
 1,desproporcionada
 1,solíamos
@@ -22312,7 +21749,6 @@
 1,dignó
 1,tenerme
 1,asomé
-1,707
 1,reflexioné
 1,extremas
 1,firmamento
@@ -22330,7 +21766,6 @@
 1,marcada
 1,inscribir
 1,récords
-1,708
 1,intentándolo
 1,clavados
 1,nalga
@@ -22341,7 +21776,6 @@
 1,seboso
 1,diamante
 1,intocable
-1,709
 1,amaestrador
 1,gatos
 1,esperamos
@@ -22358,7 +21792,6 @@
 1,puritos
 1,sangrón
 1,masculino
-1,710
 1,compare
 1,asesinaron
 1,barrientos
@@ -22368,7 +21801,6 @@
 1,interfirieran
 1,derrumbaría
 1,amargamente
-1,711
 1,merodeando
 1,deportista
 1,timbres
@@ -22380,7 +21812,6 @@
 1,anales
 1,conducto
 1,produje
-1,712
 1,descongestionantes
 1,bacterianas
 1,antibióticos
@@ -22393,7 +21824,6 @@
 1,chaquetita
 1,imaginaciones
 1,figurarse
-1,713
 1,instada
 1,hendido
 1,aquietarse
@@ -22403,7 +21833,6 @@
 1,hinche
 1,consideran
 1,enrevesado
-1,714
 1,muletilla
 1,disimulado
 1,enviaría
@@ -22415,7 +21844,6 @@
 1,imss
 1,gerardo
 1,regueira
-1,715
 1,ingresada
 1,urgencias
 1,falleció
@@ -22432,7 +21860,6 @@
 1,medel
 1,reportada
 1,ibáñez
-1,716
 1,desempleado
 1,reducción
 1,causada
@@ -22444,7 +21871,6 @@
 1,quincenal
 1,sobrevivía
 1,suscripciones
-1,717
 1,carmen
 1,sahuarita
 1,xavier
@@ -22452,7 +21878,6 @@
 1,preguntándoles
 1,usa
 1,tracy
-1,718
 1,capacitación
 1,selecto
 1,escogidos
@@ -22464,7 +21889,6 @@
 1,injustamente
 1,consultan
 1,confirmados
-1,719
 1,caicedo
 1,chaparral
 1,notificada
@@ -22478,7 +21902,6 @@
 1,soplos
 1,favores
 1,lágri
-1,720
 1,reptiles
 1,erosión
 1,susurra
@@ -22486,7 +21909,6 @@
 1,rumbos
 1,desempleada
 1,botaron
-1,721
 1,encargar
 1,sindicalista
 1,tlapalería
@@ -22496,7 +21918,6 @@
 1,oxímoron
 1,desplazado
 1,deslumbramos
-1,722
 1,alabanzas
 1,monos
 1,criminólogo
@@ -22513,7 +21934,6 @@
 1,corruptos
 1,divertidas
 1,dispu
-1,723
 1,siera
 1,cantor
 1,elevarlo
@@ -22530,7 +21950,6 @@
 1,facilitaría
 1,infundado
 1,denunciadas
-1,724
 1,alabama
 1,kentucky
 1,oregon
@@ -22540,7 +21959,6 @@
 1,business
 1,tallahassee
 1,bedford
-1,725
 1,gelado
 1,crujiente
 1,oteaba
@@ -22551,7 +21969,6 @@
 1,ocuparía
 1,estropearlo
 1,jardine
-1,726
 1,promocionando
 1,asesorando
 1,policiacos
@@ -22563,7 +21980,6 @@
 1,anclaje
 1,porosidad
 1,desdibujara
-1,727
 1,limpios
 1,whitney
 1,huston
@@ -22572,7 +21988,6 @@
 1,enterraba
 1,escombros
 1,cabido
-1,728
 1,temeroso
 1,recia
 1,mandona
@@ -22592,7 +22007,6 @@
 1,stevie
 1,wonder
 1,oculares
-1,729
 1,voló
 1,iniciarían
 1,aterrizaran
@@ -22610,7 +22024,6 @@
 1,set
 1,rodando
 1,hubie
-1,730
 1,presidencial
 1,matrimonial
 1,grandeza
@@ -22619,7 +22032,6 @@
 1,postor
 1,aplicaba
 1,aportar
-1,731
 1,protegidos
 1,bautizo
 1,gastan
@@ -22631,7 +22043,6 @@
 1,topara
 1,tlalpan
 1,empedrada
-1,732
 1,deshabitadas
 1,carruajes
 1,abrevaderos
@@ -22643,7 +22054,6 @@
 1,remedaba
 1,enterar
 1,trasluz
-1,733
 1,dre
 1,yale
 1,enseñorearse
@@ -22657,7 +22067,6 @@
 1,pensada
 1,embarazos
 1,abortaba
-1,734
 1,conociendo
 1,simpatizando
 1,convertimos
@@ -22666,7 +22075,6 @@
 1,escupiera
 1,dobló
 1,adobo
-1,735
 1,divisaba
 1,tenderetes
 1,hortalizas
@@ -22675,7 +22083,6 @@
 1,garantiza
 1,desanudada
 1,recogen
-1,736
 1,bifurcarse
 1,pavimentados
 1,postes
@@ -22686,7 +22093,6 @@
 1,taxita
 1,danzando
 1,abusemos
-1,737
 1,afirmativos
 1,sustituto
 1,falaz
@@ -22704,7 +22110,6 @@
 1,previsiblemente
 1,externas
 1,excoriaciones
-1,738
 1,posteriomente
 1,pasábamos
 1,recreos
@@ -22727,7 +22132,6 @@
 1,rencorosos
 1,resentidos
 1,venidos
-1,739
 1,vividores
 1,escrúpulos
 1,encarnaba
@@ -22748,13 +22152,12 @@
 1,soberano
 1,deberle
 1,enredábamos
-1,740
 1,patología
+1,mr
 1,aleccionadas
 1,cónyuges
 1,equivocadas
 1,tradujeron
-1,741
 1,tosió
 1,responda
 1,rebajó
@@ -22766,7 +22169,6 @@
 1,anduviera
 1,remilgos
 1,empuja
-1,742
 1,dávila
 1,élmer
 1,donoso
@@ -22777,7 +22179,6 @@
 1,carcomido
 1,arrojarían
 1,ocurrencia
-1,743
 1,rido
 1,llamándonos
 1,amenacé
@@ -22793,7 +22194,6 @@
 1,parecemos
 1,mostramos
 1,poquita
-1,744
 1,retorcemos
 1,duchado
 1,ojeaba
@@ -22803,7 +22203,6 @@
 1,hervidas
 1,rellenas
 1,picaban
-1,745
 1,dossiers
 1,garabatos
 1,refilón
@@ -22815,7 +22214,6 @@
 1,morirán
 1,arrugarse
 1,mandil
-1,746
 1,licías
 1,fiar
 1,destilaba
@@ -22825,7 +22223,6 @@
 1,devolvieron
 1,patrullando
 1,dijiste
-1,747
 1,verificarlo
 1,consigan
 1,asignado
@@ -22835,7 +22232,6 @@
 1,rencilla
 1,orificio
 1,secuencia
-1,748
 1,pasional
 1,venadeado
 1,cazado
@@ -22843,7 +22239,6 @@
 1,atemorizar
 1,arrogantes
 1,senti
-1,749
 1,equivaliera
 1,emborracha
 1,ocurrentes
@@ -22860,7 +22255,6 @@
 1,liderazgo
 1,convertí
 1,bea
-1,750
 1,terías
 1,chingaqueditismo
 1,menguar
@@ -22879,7 +22273,6 @@
 1,lindaban
 1,atronadores
 1,aventuraba
-1,751
 1,vergonzosa
 1,dejadas
 1,fragmentaba
@@ -22902,14 +22295,12 @@
 1,enloquecido
 1,caminen
 1,miren
-1,752
 1,percibimos
 1,adhieren
 1,traspasan
 1,identifico
 1,postergaban
 1,perdería
-1,753
 1,marquina
 1,despiertas
 1,contándonos
@@ -22922,7 +22313,6 @@
 1,sectores
 1,marginar
 1,paré
-1,754
 1,marginaron
 1,chistoso
 1,cursilada
@@ -22932,21 +22322,18 @@
 1,jaqueca
 1,desvanecen
 1,enseñárselo
-1,755
 1,levantones
 1,afianzadas
 1,disimulo
 1,exceptuamos
 1,víbora
 1,eventualmente
-1,756
 1,somera
 1,arrepintieran
 1,entradito
 1,hamburguesas
 1,saludarme
 1,vasitos
-1,757
 1,lloran
 1,mestizas
 1,cursado
@@ -22968,7 +22355,6 @@
 1,convocantes
 1,provocándole
 1,discutido
-1,758
 1,tito
 1,olieran
 1,pepenando
@@ -22979,7 +22365,6 @@
 1,reconfortó
 1,emprenden
 1,caimán
-1,759
 1,pasarelas
 1,gestora
 1,sacarme
@@ -22996,12 +22381,12 @@
 1,correspondí
 1,pensándolo
 1,cualidad
-1,760
 1,ricones
 1,discutiré
 1,xxi
 1,tardé
 1,mejorarlas
+1,í
 1,comete
 1,cabezazos
 1,contingencias
@@ -23009,7 +22394,6 @@
 1,agazaparse
 1,riegues
 1,exabruptos
-1,761
 1,exceptuaban
 1,dadas
 1,electo
@@ -23024,7 +22408,6 @@
 1,resolvieron
 1,inculpando
 1,confrontaron
-1,762
 1,lir
 1,confrontó
 1,arriesgándose
@@ -23037,7 +22420,6 @@
 1,tigres
 1,patear
 1,comportaran
-1,763
 1,terse
 1,perdigonazo
 1,extremando
@@ -23051,7 +22433,6 @@
 1,lesión
 1,agujetas
 1,aposentada
-1,764
 1,planificaciones
 1,desmentidos
 1,cogérmelos
@@ -23062,7 +22443,6 @@
 1,tratábamos
 1,firmarle
 1,reíamos
-1,765
 1,mandarme
 1,dinámico
 1,despreocupadas
@@ -23074,7 +22454,6 @@
 1,inusitados
 1,capitales
 1,impresione
-1,766
 1,superviso
 1,decoración
 1,disponga
@@ -23092,13 +22471,11 @@
 1,supervisándolo
 1,tampico
 1,aparezco
-1,767
 1,debes
 1,whiskys
 1,soda
 1,intempestiva
 1,engañas
-1,768
 1,decepcionante
 1,interesarles
 1,gestionaban
@@ -23116,7 +22493,6 @@
 1,cervicales
 1,interroga
 1,detiene
-1,769
 1,excluir
 1,desconoce
 1,extramaritales
@@ -23124,7 +22500,6 @@
 1,maquillaje
 1,preocupé
 1,hos
-1,770
 1,pitales
 1,contratado
 1,desarrollando
@@ -23135,7 +22510,6 @@
 1,esfuman
 1,esconden
 1,despedimos
-1,771
 1,atesorado
 1,décadas
 1,arrepentimiento
@@ -23150,7 +22524,6 @@
 1,utilizábamos
 1,lejanísimas
 1,nego
-1,772
 1,cios
 1,dominó
 1,sirvientas
@@ -23162,13 +22535,11 @@
 1,erectos
 1,grávido
 1,apuntaba
-1,773
 1,acabé
 1,lake
 1,babeando
 1,ganzúa
 1,refrendó
-1,774
 1,apeadero
 1,obtenida
 1,inservible
@@ -23182,7 +22553,6 @@
 1,coprero
 1,incurrieron
 1,incongruencias
-1,775
 1,relacionó
 1,anuncié
 1,cejar
@@ -23194,7 +22564,6 @@
 1,ensayando
 1,inquieta
 1,cambié
-1,776
 1,distrito
 1,recomendara
 1,incompatibles
@@ -23203,7 +22572,6 @@
 1,aftershave
 1,espliego
 1,lavanda
-1,777
 1,reció
 1,vivirlos
 1,transcurran
@@ -23220,7 +22588,6 @@
 1,encubierta
 1,madam
 1,léalo
-1,778
 1,señalados
 1,rúbrica
 1,expuesto
@@ -23229,7 +22596,6 @@
 1,compostura
 1,silabeando
 1,mexica
-1,779
 1,páramo
 1,respaldar
 1,sobrestima
@@ -23244,7 +22610,6 @@
 1,inexactos
 1,dilatorios
 1,marysue
-1,780
 1,impuso
 1,imperativo
 1,identificarse
@@ -23253,7 +22618,6 @@
 1,perea
 1,peña
 1,manipularla
-1,5906
 1,distensión
 1,cordialidad
 1,conminaron
@@ -23261,7 +22625,6 @@
 1,manipulaba
 1,recámara
 1,hirió
-1,781
 1,contrado
 1,nato
 1,comentaría
@@ -23275,7 +22638,6 @@
 1,votantes
 1,episódica
 1,vengador
-1,782
 1,chupados
 1,completando
 1,compran
@@ -23285,7 +22647,6 @@
 1,tiradores
 1,instale
 1,olvidando
-1,783
 1,entere
 1,desaparezca
 1,simurg
@@ -23309,7 +22670,6 @@
 1,ponográficas
 1,grabó
 1,corri
-1,784
 1,pudendas
 1,calzoncillito
 1,leopardo
@@ -23322,7 +22682,6 @@
 1,considerados
 1,lugartenientes
 1,rutas
-1,785
 1,millonario
 1,próceres
 1,periodita
@@ -23334,7 +22693,6 @@
 1,inexactitudes
 1,temerarias
 1,conjura
-1,786
 1,arrinconando
 1,bazofia
 1,gritado
@@ -23342,13 +22700,11 @@
 1,queriendo
 1,aseveración
 1,sumaban
-1,787
 1,firmados
 1,foguear
 1,arrasado
 1,escriba
 1,siga
-1,788
 1,golpea
 1,golpee
 1,impune
@@ -23368,7 +22724,6 @@
 1,censuraron
 1,demandaron
 1,leen
-1,789
 1,exista
 1,consulting
 1,asesoría
@@ -23386,13 +22741,10 @@
 1,avispero
 1,vea
 1,bifurca
-1,790
 1,desganadas
-1,791
 1,pozos
 1,moho
 1,introducírselo
-1,795
 1,sopló
 1,soplando
 1,distribuía
@@ -23400,14 +22752,12 @@
 1,carpintero
 1,robando
 1,desastrado
-1,796
 1,afeitara
 1,erizadas
 1,jabonosas
 1,navegaban
 1,rada
 1,abra
-1,797
 1,sonda
 1,lanzadas
 1,seguirlas
@@ -23417,15 +22767,12 @@
 1,primerizo
 1,bisabuelo
 1,federico
-1,798
 1,huertos
 1,casacas
 1,enfrentado
 1,mortandad
 1,enzarzados
 1,irrestrictas
-1,1926
-1,799
 1,robusto
 1,tiras
 1,llore
@@ -23476,7 +22823,6 @@
 1,bohemio
 1,lamen
 1,devoran
-1,801
 1,hables
 1,bávaro
 1,procura
@@ -23492,7 +22838,6 @@
 1,finlandia
 1,groenlandia
 1,pus
-1,802
 1,mirándote
 1,temo
 1,volverás
@@ -23504,7 +22849,6 @@
 1,meada
 1,temibles
 1,implacables
-1,803
 1,alejando
 1,tendieran
 1,chiquerizas
@@ -23518,7 +22862,6 @@
 1,interpretadas
 1,guapos
 1,resurgir
-1,804
 1,brazadas
 1,optimismo
 1,obedecieran
@@ -23534,7 +22877,6 @@
 1,provecta
 1,asqueaba
 1,explicarla
-1,805
 1,contumacia
 1,apuntar
 1,revivió
@@ -23545,7 +22887,6 @@
 1,tornillo
 1,concierne
 1,endemoniadamente
-1,806
 1,destav
 1,dereta
 1,sinbre
@@ -23555,7 +22896,6 @@
 1,delgadez
 1,estudiarme
 1,bajura
-1,807
 1,buscan
 1,descargaran
 1,acumular
@@ -23570,7 +22910,6 @@
 1,preocuparon
 1,instruidos
 1,bucearon
-1,808
 1,desenraizada
 1,albísimo
 1,vomitara
@@ -23588,7 +22927,7 @@
 1,sirenita
 1,flaca
 1,fidedignamente
-1,809
+1,em
 1,pezado
 1,justificables
 1,accidentadamente
@@ -23605,7 +22944,6 @@
 1,diemilaño
 1,chotiempo
 1,capacitado
-1,810
 1,labriegos
 1,explicando
 1,distendido
@@ -23619,7 +22957,6 @@
 1,nacionalsocialistas
 1,susodicho
 1,pagarse
-1,811
 1,blandidas
 1,integraban
 1,guiara
@@ -23630,7 +22967,6 @@
 1,privilegiado
 1,torcieron
 1,torcían
-1,812
 1,profecías
 1,extravagante
 1,desmontaba
@@ -23647,7 +22983,6 @@
 1,eficientes
 1,belgas
 1,hinterland
-1,813
 1,modernización
 1,porrazo
 1,válido
@@ -23662,14 +22997,12 @@
 1,recogedor
 1,ferretería
 1,stettin
-1,814
 1,gobelinos
 1,adueñaba
 1,preservado
 1,inculcado
 1,importunar
 1,despreocupa
-1,815
 1,voraces
 1,percherón
 1,comentaba
@@ -23679,7 +23012,6 @@
 1,veinteañero
 1,combinadas
 1,plumero
-1,816
 1,resoplando
 1,roncando
 1,matarlo
@@ -23691,7 +23023,6 @@
 1,hayas
 1,sigilosos
 1,acierta
-1,817
 1,gruñido
 1,averiarse
 1,opciones
@@ -23711,14 +23042,12 @@
 1,acreedora
 1,importunaba
 1,soportaban
-1,818
 1,tentaciones
 1,romperse
 1,deparaba
 1,inventaría
 1,disparatada
 1,caminamos
-1,819
 1,recalcó
 1,ditivo
 1,liario
@@ -23730,7 +23059,6 @@
 1,eichendorff
 1,afilar
 1,atardecía
-1,820
 1,menea
 1,leería
 1,devolviera
@@ -23757,7 +23085,6 @@
 1,napoleónicas
 1,acusarlo
 1,enterró
-1,821
 1,rompe
 1,arquetipo
 1,cortesano
@@ -23781,7 +23108,6 @@
 1,vasallaje
 1,condes
 1,visibilidad
-1,822
 1,situarlo
 1,retorcerse
 1,rapiñas
@@ -23792,12 +23118,10 @@
 1,cohibido
 1,sellado
 1,entendería
-1,823
 1,frugales
 1,concursos
 1,organizados
 1,espontáneamente
-1,824
 1,reconvertido
 1,rehúye
 1,maleable
@@ -23806,7 +23130,6 @@
 1,mastican
 1,gomas
 1,vol
-1,825
 1,vió
 1,entregarle
 1,camisetas
@@ -23818,7 +23141,6 @@
 1,japón
 1,noburo
 1,nisamata
-1,826
 1,chucrut
 1,asumía
 1,silbidos
@@ -23832,7 +23154,6 @@
 1,ajustaba
 1,patentaría
 1,histérico
-1,827
 1,zapatazos
 1,explicarles
 1,produciría
@@ -23856,7 +23177,6 @@
 1,neerlandés
 1,despacito
 1,petrificarse
-1,828
 1,decidieran
 1,romántica
 1,tardía
@@ -23878,7 +23198,6 @@
 1,atreviera
 1,picarle
 1,adjudica
-1,829
 1,tridimensional
 1,comparados
 1,remonta
@@ -23888,7 +23207,6 @@
 1,conocerlos
 1,espontánea
 1,inimaginable
-1,830
 1,ecuanimidad
 1,losas
 1,oprimieran
@@ -23903,7 +23221,6 @@
 1,carroñero
 1,formulando
 1,arrugadas
-1,831
 1,cunas
 1,relojería
 1,burda
@@ -23913,7 +23230,6 @@
 1,masajeaban
 1,sumergida
 1,espuma
-1,832
 1,amplios
 1,corredores
 1,ahogándolos
@@ -23927,7 +23243,6 @@
 1,bohle
 1,filatelistas
 1,encuadrado
-1,833
 1,cluta
 1,esteta
 1,paul
@@ -23947,7 +23262,6 @@
 1,contentar
 1,rogaron
 1,elegida
-1,834
 1,avaricia
 1,repelieron
 1,explayarse
@@ -23958,7 +23272,6 @@
 1,santuario
 1,saquearlos
 1,sonriéndoles
-1,835
 1,esplendores
 1,regimental
 1,ametralladoras
@@ -23969,7 +23282,6 @@
 1,intimaron
 1,entablaron
 1,lindero
-1,836
 1,sos
 1,bayoneta
 1,incapacitado
@@ -23977,7 +23289,6 @@
 1,escuadrilla
 1,señalaban
 1,ensimismamiento
-1,837
 1,farmacéutica
 1,depositan
 1,probados
@@ -23985,7 +23296,6 @@
 1,impidiéndole
 1,brasa
 1,húsar
-1,838
 1,elegantemente
 1,atacó
 1,hienas
@@ -23994,7 +23304,6 @@
 1,defensores
 1,profiriendo
 1,implacable
-1,839
 1,desobedeciera
 1,alcanzarlo
 1,enfrentamiento
@@ -24003,7 +23312,6 @@
 1,plácida
 1,dinamarca
 1,embustero
-1,840
 1,temperaturas
 1,afectarlo
 1,proseguido
@@ -24015,7 +23323,6 @@
 1,bombeo
 1,radiales
 1,muniqués
-1,841
 1,increpan
 1,reclamando
 1,pilotos
@@ -24030,7 +23337,6 @@
 1,aprisionado
 1,sobreaviso
 1,escondidos
-1,842
 1,cedió
 1,claudine
 1,émile
@@ -24043,7 +23349,6 @@
 1,cortaplumas
 1,usos
 1,yema
-1,843
 1,rección
 1,elevó
 1,ciruelas
@@ -24061,7 +23366,6 @@
 1,portbail
 1,ollonde
 1,carteret
-1,844
 1,elegía
 1,tocarlas
 1,óseos
@@ -24081,7 +23385,6 @@
 1,cursara
 1,oftalmólogo
 1,larguiru
-1,845
 1,cho
 1,morfinómanos
 1,heroinómanos
@@ -24095,7 +23398,6 @@
 1,reintegraría
 1,deserción
 1,hatillos
-1,846
 1,ban
 1,cabritos
 1,vislumbraron
@@ -24108,7 +23410,6 @@
 1,mendrugo
 1,juzgó
 1,adecentamiento
-1,847
 1,herman
 1,eugenio
 1,galanterías
@@ -24116,7 +23417,6 @@
 1,dispondría
 1,auténticamente
 1,firmes
-1,848
 1,sirvo
 1,exclamado
 1,hidra
@@ -24127,7 +23427,6 @@
 1,alegando
 1,roído
 1,asemejaban
-1,849
 1,sobresaltado
 1,emergían
 1,trascendental
@@ -24138,7 +23437,6 @@
 1,reguladora
 1,lleven
 1,dinámica
-1,850
 1,equiparaba
 1,engorro
 1,equívoca
@@ -24157,14 +23455,12 @@
 1,batirse
 1,postdam
 1,mendi
-1,851
 1,gos
 1,recordará
 1,anatomía
 1,curara
 1,lívido
 1,consolarlo
-1,852
 1,fugó
 1,semidesnudo
 1,embadurnado
@@ -24176,7 +23472,6 @@
 1,eslabones
 1,supersticiosas
 1,charlatanería
-1,853
 1,descodificador
 1,coincidencia
 1,alcanza
@@ -24192,7 +23487,6 @@
 1,lóbrego
 1,cándido
 1,mundano
-1,854
 1,definían
 1,ambiguo
 1,superhombre
@@ -24206,7 +23500,6 @@
 1,encabezaron
 1,alabaron
 1,mediar
-1,855
 1,tado
 1,deslealtad
 1,transilvania
@@ -24229,7 +23522,6 @@
 1,transformara
 1,accediera
 1,anodino
-1,856
 1,magnético
 1,hechizar
 1,rufianes
@@ -24246,7 +23538,6 @@
 1,convirtieron
 1,gentil
 1,conducen
-1,857
 1,portuarias
 1,olorosos
 1,mariscos
@@ -24264,7 +23555,6 @@
 1,titubear
 1,trastornó
 1,recordarlos
-1,858
 1,recaídas
 1,arquitectónicos
 1,constató
@@ -24278,7 +23568,6 @@
 1,enloquecer
 1,bondadosamente
 1,alargaron
-1,859
 1,evolucionó
 1,favorablemente
 1,somníferos
@@ -24287,7 +23576,6 @@
 1,tártaro
 1,interna
 1,galope
-1,860
 1,aísla
 1,sobrepuesto
 1,alienada
@@ -24296,7 +23584,6 @@
 1,enjuto
 1,ceremonioso
 1,descol
-1,861
 1,topado
 1,meditaron
 1,perspicacia
@@ -24306,7 +23593,6 @@
 1,estrechísimo
 1,troneras
 1,espiadas
-1,862
 1,palmearon
 1,horadada
 1,suspiros
@@ -24327,7 +23613,6 @@
 1,albísima
 1,embistiendo
 1,baro
-1,863
 1,nesa
 1,apareamiento
 1,secreción
@@ -24345,7 +23630,6 @@
 1,acomodándolo
 1,mordía
 1,sudorosas
-1,864
 1,sosteniendo
 1,musicalidad
 1,recomenzaron
@@ -24360,7 +23644,6 @@
 1,refregando
 1,untando
 1,resonaba
-1,865
 1,desanduvieron
 1,pasadizos
 1,colocaron
@@ -24371,7 +23654,6 @@
 1,empequeñecida
 1,frustrantes
 1,hom
-1,866
 1,encogimientos
 1,sumergirlo
 1,fatales
@@ -24381,7 +23663,6 @@
 1,estampándole
 1,desvaído
 1,besarlo
-1,867
 1,besarse
 1,humedecerla
 1,obtuso
@@ -24393,12 +23674,10 @@
 1,júramelo
 1,juramentos
 1,quieras
-1,868
 1,consiguen
 1,estrelladas
 1,diáfanos
 1,besarme
-1,869
 1,dor
 1,esuviera
 1,tentativamente
@@ -24414,7 +23693,6 @@
 1,ocultan
 1,sacrificada
 1,interese
-1,871
 1,visten
 1,cuidadosos
 1,vestidor
@@ -24439,7 +23717,6 @@
 1,sorprenderá
 1,pulidas
 1,elegidas
-1,872
 1,templaban
 1,habrás
 1,adivinado
@@ -24452,7 +23729,6 @@
 1,consisten
 1,escoge
 1,piénsatelo
-1,873
 1,marcará
 1,atoraban
 1,juraría
@@ -24460,7 +23736,6 @@
 1,vanguardias
 1,animosos
 1,unidades
-1,874
 1,factor
 1,favorecido
 1,mandos
@@ -24479,7 +23754,6 @@
 1,incendia
 1,bombardeado
 1,anaranjada
-1,875
 1,zapadores
 1,resistiendo
 1,apartando
@@ -24495,7 +23769,6 @@
 1,empalme
 1,chernishove
 1,andanada
-1,876
 1,fusilería
 1,empinarse
 1,rozó
@@ -24511,7 +23784,6 @@
 1,evpatoria
 1,frunze
 1,inkerman
-1,877
 1,alambradas
 1,corregía
 1,machacaba
@@ -24528,14 +23800,12 @@
 1,clínicas
 1,empequeñecidas
 1,agolpaban
-1,878
 1,ennegrecidas
 1,cirílico
 1,aterrorizada
 1,milicianos
 1,rape
 1,reformatorio
-1,879
 1,manas
 1,defensa
 1,inmediaciones
@@ -24550,7 +23820,6 @@
 1,mitológico
 1,agachara
 1,rascó
-1,880
 1,novoselivske
 1,mykolaivka
 1,revestía
@@ -24567,7 +23836,6 @@
 1,afluente
 1,inusuales
 1,intransitable
-1,881
 1,enrolado
 1,agrónoma
 1,convivencia
@@ -24579,7 +23847,6 @@
 1,consecuencia
 1,mullida
 1,arcón
-1,882
 1,danzaban
 1,helando
 1,quitándose
@@ -24592,7 +23859,6 @@
 1,cicatrizaba
 1,acartonado
 1,reemplazar
-1,883
 1,ingenioso
 1,agachada
 1,anchura
@@ -24612,9 +23878,7 @@
 1,convertirá
 1,acalambraban
 1,helaba
-1,1909
 1,solda
-1,884
 1,dnepropetrovsk
 1,revendía
 1,aprovechado
@@ -24630,7 +23894,6 @@
 1,vivamente
 1,exceptúan
 1,alistar
-1,885
 1,cosacos
 1,koltschak
 1,yudenitsch
@@ -24645,7 +23908,6 @@
 1,inundadas
 1,labranza
 1,inciertas
-1,886
 1,suboficial
 1,norilsk
 1,cuenca
@@ -24673,7 +23935,6 @@
 1,bagaje
 1,vividas
 1,acumuladas
-1,887
 1,resquicios
 1,clasificar
 1,nihilista
@@ -24686,14 +23947,10 @@
 1,plagiarlos
 1,reflexión
 1,astutamente
-1,1803
-1,1792
 1,extrapoló
 1,ató
-1,1910
 1,parón
 1,hundimiento
-1,888
 1,extremis
 1,hoffmaniano
 1,fan
@@ -24712,7 +23969,6 @@
 1,delegaciones
 1,aplicarlos
 1,avances
-1,889
 1,esperanzador
 1,infunde
 1,petrogrado
@@ -24726,7 +23982,6 @@
 1,apocalipsis
 1,fijándose
 1,biología
-1,890
 1,dicina
 1,astronomía
 1,usurero
@@ -24746,7 +24001,6 @@
 1,larva
 1,siberianas
 1,incursiones
-1,891
 1,rigen
 1,burguesa
 1,repulsivos
@@ -24773,7 +24027,6 @@
 1,granjearse
 1,alzaran
 1,som
-1,892
 1,brero
 1,admitamos
 1,descubrirse
@@ -24789,13 +24042,11 @@
 1,necesitarás
 1,burles
 1,estropajosa
-1,893
 1,viceversa
 1,sarcástica
 1,suplanta
 1,burló
 1,meaba
-1,894
 1,quisimos
 1,avíos
 1,orinando
@@ -24807,7 +24058,7 @@
 1,leningrado
 1,smolensk
 1,khlebnikov
-1,895
+1,ge
 1,nerales
 1,blucher
 1,grigori
@@ -24819,11 +24070,8 @@
 1,titulados
 1,bosch
 1,gotlibovna
-1,1879
 1,broue
 1,afilia
-1,1903
-1,1913
 1,deportada
 1,evadida
 1,milita
@@ -24837,7 +24085,6 @@
 1,barbarismos
 1,ivan
 1,rajia
-1,18871920
 1,conflicto
 1,futuristas
 1,centrífuga
@@ -24850,7 +24097,7 @@
 1,describe
 1,reencarnado
 1,reaparecerá
-1,896
+1,és
 1,campea
 1,fértiles
 1,humorística
@@ -24871,7 +24118,6 @@
 1,gratitud
 1,discernible
 1,anquilosada
-1,897
 1,madura
 1,intuiciones
 1,revolucionarias
@@ -24896,7 +24142,6 @@
 1,desgraciadas
 1,parlantes
 1,pensantes
-1,898
 1,objeta
 1,criados
 1,coman
@@ -24911,7 +24156,6 @@
 1,hipnotice
 1,acepte
 1,huya
-1,899
 1,saludan
 1,karl
 1,medido
@@ -24934,7 +24178,6 @@
 1,aguantan
 1,escapan
 1,aguardan
-1,900
 1,enseña
 1,atraviesan
 1,penetran
@@ -24952,7 +24195,6 @@
 1,adorado
 1,expresándole
 1,memoriosa
-1,901
 1,stanislaw
 1,strumilin
 1,alexéi
@@ -24976,7 +24218,6 @@
 1,miserias
 1,agallas
 1,ivá
-1,902
 1,nov
 1,deciden
 1,integrante
@@ -24993,7 +24234,6 @@
 1,realizada
 1,logra
 1,masas
-1,903
 1,cincuentainueve
 1,fantástica
 1,guillotina
@@ -25013,8 +24253,6 @@
 1,informativa
 1,flaquear
 1,derrotada
-1,904
-1,1932
 1,interplanetarios
 1,dislocado
 1,avanzadas
@@ -25031,7 +24269,6 @@
 1,arrójate
 1,decís
 1,sollozó
-1,905
 1,haced
 1,valerse
 1,posponiendo
@@ -25039,7 +24276,6 @@
 1,borús
 1,trenzaban
 1,dialogaban
-1,906
 1,salvaré
 1,desgarrador
 1,hiriera
@@ -25059,7 +24295,6 @@
 1,bordadas
 1,frentes
 1,recaer
-1,907
 1,odia
 1,entiéndeme
 1,dependiese
@@ -25073,7 +24308,6 @@
 1,melindroso
 1,rimas
 1,latinoameri
-1,908
 1,canos
 1,otredad
 1,acortando
@@ -25093,7 +24327,6 @@
 1,tibieza
 1,dibujaban
 1,escuálida
-1,909
 1,golpearle
 1,inconexo
 1,viables
@@ -25113,7 +24346,6 @@
 1,kamchatka
 1,yuri
 1,men
-1,910
 1,ciona
 1,mencionarlos
 1,olvidarlos
@@ -25129,15 +24361,12 @@
 1,josephus
 1,arcimboldi
 1,arcimboldus
-1,1527
-1,1593
 1,disipando
 1,emanaciones
 1,ribera
 1,cañaverales
 1,paradigma
 1,artis
-1,911
 1,maniquea
 1,dignidades
 1,refusés
@@ -25157,19 +24386,16 @@
 1,sensatas
 1,aplastar
 1,saltitos
-1,1848
 1,brillaron
 1,sainte
 1,pélagie
 1,dedica
 1,incitado
 1,derruir
-1,912
 1,iii
 1,capacitaba
 1,monumental
 1,embarga
-1,1877
 1,divaga
 1,sugiere
 1,bucólica
@@ -25192,7 +24418,6 @@
 1,juzgué
 1,poseo
 1,delatarme
-1,913
 1,torturadores
 1,delatara
 1,dramaturgos
@@ -25207,7 +24432,6 @@
 1,déficit
 1,proteínico
 1,plantaban
-1,914
 1,cortaban
 1,cortezas
 1,utilizarlas
@@ -25228,7 +24452,6 @@
 1,zurdos
 1,batiente
 1,enseñarles
-1,915
 1,partenaire
 1,aprietan
 1,cimbran
@@ -25245,7 +24468,6 @@
 1,pedagogo
 1,revolvieron
 1,apre
-1,916
 1,suradamente
 1,causando
 1,escaramuzas
@@ -25271,7 +24493,6 @@
 1,asadas
 1,lechoncillo
 1,enfríe
-1,917
 1,temeraria
 1,faltan
 1,mercenario
@@ -25279,7 +24500,6 @@
 1,desmiente
 1,leonardo
 1,vinci
-1,1516
 1,lega
 1,revivo
 1,deshacen
@@ -25289,7 +24509,6 @@
 1,construye
 1,huyen
 1,leprosos
-1,918
 1,asienten
 1,poetisas
 1,rehúyen
@@ -25312,7 +24531,6 @@
 1,makarenko
 1,jorobados
 1,resfriados
-1,919
 1,arroyos
 1,escuetas
 1,funeral
@@ -25324,14 +24542,12 @@
 1,unirse
 1,guerrilleros
 1,constructor
-1,920
 1,construyera
 1,confería
 1,aureola
 1,demente
 1,husmeado
 1,desganados
-1,921
 1,inundaban
 1,helársele
 1,ascuas
@@ -25339,8 +24555,6 @@
 1,inclinarse
 1,temido
 1,accidentalmente
-1,922
-1,1942
 1,kuban
 1,krasnodar
 1,cáucaso
@@ -25360,7 +24574,6 @@
 1,retrocedían
 1,parcela
 1,finca
-1,923
 1,turban
 1,suicidan
 1,salírsele
@@ -25371,7 +24584,6 @@
 1,huidos
 1,juntando
 1,disgregando
-1,924
 1,escuadrones
 1,desataba
 1,ataúdes
@@ -25385,7 +24597,6 @@
 1,esperarte
 1,asomaron
 1,desnutridos
-1,925
 1,evacuado
 1,cómodo
 1,limítrofe
@@ -25399,7 +24610,6 @@
 1,vagabundeo
 1,inmadurez
 1,inmadura
-1,926
 1,ruinoso
 1,salamandras
 1,contraventanas
@@ -25418,7 +24628,6 @@
 1,prerrenacentista
 1,maestría
 1,sorpresiva
-1,927
 1,memorizando
 1,sui
 1,géneris
@@ -25428,7 +24637,6 @@
 1,cardúmenes
 1,topaba
 1,mondos
-1,928
 1,gelatinoso
 1,transcurrían
 1,ajetreo
@@ -25444,13 +24652,11 @@
 1,pervomaysk
 1,jassy
 1,cantos
-1,929
 1,prismáticos
 1,poseídos
 1,observatorio
 1,barnizada
 1,tardarán
-1,930
 1,habéis
 1,mataremos
 1,impida
@@ -25467,7 +24673,6 @@
 1,rifles
 1,apuntaban
 1,desfilando
-1,931
 1,gachas
 1,alucinados
 1,costra
@@ -25479,7 +24684,6 @@
 1,desertó
 1,poblaciones
 1,asumir
-1,932
 1,cirios
 1,álbum
 1,propinándoles
@@ -25489,7 +24693,6 @@
 1,costaría
 1,emborracharnos
 1,ornitorrinco
-1,933
 1,revisaban
 1,alfabético
 1,respondiendo
@@ -25504,7 +24707,6 @@
 1,salvaría
 1,combatiente
 1,afectar
-1,934
 1,küstrin
 1,perdonarse
 1,pausado
@@ -25513,8 +24715,8 @@
 1,nietecitos
 1,agonizó
 1,suplicios
-1,935
 1,perturbada
+1,q
 1,rebuscaron
 1,desnudar
 1,enseñárselas
@@ -25524,7 +24726,6 @@
 1,cerrara
 1,fumaré
 1,proporcionando
-1,936
 1,entraste
 1,separando
 1,furgones
@@ -25542,7 +24743,6 @@
 1,desarrollara
 1,diametralmente
 1,opuestas
-1,937
 1,obligación
 1,alfabéticos
 1,hirviente
@@ -25556,7 +24756,6 @@
 1,subdirector
 1,insanidad
 1,constan
-1,938
 1,ocuparme
 1,provinciano
 1,germanizar
@@ -25571,7 +24770,6 @@
 1,reuniría
 1,colaboradores
 1,interesarme
-1,939
 1,acogerlos
 1,esperarlos
 1,firmé
@@ -25585,7 +24783,6 @@
 1,desocupar
 1,escolta
 1,emplea
-1,940
 1,procedimos
 1,exhalaron
 1,fruncir
@@ -25599,7 +24796,6 @@
 1,solicitándome
 1,hágase
 1,gestiono
-1,941
 1,barrían
 1,vigilados
 1,bota
@@ -25615,14 +24811,12 @@
 1,levante
 1,postrada
 1,pensa
-1,942
 1,embolia
 1,paralizado
 1,supuse
 1,desorientado
 1,arrapiezos
 1,dispáreles
-1,943
 1,supervisar
 1,alelado
 1,exactos
@@ -25637,7 +24831,6 @@
 1,exageremos
 1,pregúntele
 1,estuvi
-1,944
 1,finas
 1,hilillo
 1,suénese
@@ -25649,7 +24842,6 @@
 1,protestaran
 1,chispas
 1,castañeteo
-1,945
 1,mandaran
 1,declinaban
 1,logramos
@@ -25661,7 +24853,6 @@
 1,pertenecíamos
 1,gau
 1,concentré
-1,946
 1,peinados
 1,afeitados
 1,mansa
@@ -25673,7 +24864,6 @@
 1,solidarios
 1,compartirá
 1,lucían
-1,947
 1,auschwitz
 1,mantuve
 1,robadas
@@ -25686,7 +24876,6 @@
 1,disponemos
 1,pertenecen
 1,deshaga
-1,948
 1,escuché
 1,truchas
 1,arrogancia
@@ -25694,7 +24883,6 @@
 1,yegua
 1,debíamos
 1,ponernos
-1,949
 1,partí
 1,unté
 1,tenidas
@@ -25707,7 +24895,6 @@
 1,cultivado
 1,apoderando
 1,cenaba
-1,950
 1,comprenderlos
 1,procaces
 1,inactividad
@@ -25720,7 +24907,6 @@
 1,mostrarme
 1,reñida
 1,carnosas
-1,951
 1,concentraron
 1,añadieron
 1,actuaran
@@ -25735,7 +24921,6 @@
 1,tuvimos
 1,cuasiaccidente
 1,duermes
-1,952
 1,aseguré
 1,interné
 1,inspección
@@ -25747,7 +24932,6 @@
 1,activa
 1,afeitaba
 1,culpé
-1,953
 1,comprendiera
 1,erosionaba
 1,encomendada
@@ -25765,7 +24949,6 @@
 1,reaccionaron
 1,interpreté
 1,encasquillaba
-1,954
 1,obligué
 1,denunciar
 1,estafas
@@ -25784,7 +24967,6 @@
 1,remediar
 1,granjero
 1,taparlo
-1,955
 1,tápelo
 1,cavaran
 1,ocupé
@@ -25798,7 +24980,6 @@
 1,dejarnos
 1,pusiéramos
 1,conjurarla
-1,956
 1,ahumado
 1,cesta
 1,esperé
@@ -25814,7 +24995,6 @@
 1,detallaba
 1,encargamos
 1,soporta
-1,957
 1,revuelve
 1,suspendí
 1,reintegraron
@@ -25827,7 +25007,6 @@
 1,actuábamos
 1,correría
 1,evacuados
-1,958
 1,partimos
 1,holgazanas
 1,descriteriadas
@@ -25837,11 +25016,9 @@
 1,vuelvan
 1,interroguen
 1,detendrán
-1,959
 1,blindada
 1,asegure
 1,agradezco
-1,960
 1,faenas
 1,desescombro
 1,trabajillos
@@ -25850,14 +25027,12 @@
 1,testosterona
 1,feromonas
 1,despertadas
-1,961
 1,saludarte
 1,fueras
 1,procurarías
 1,dismularlo
 1,selectiva
 1,pollita
-1,962
 1,torciendo
 1,excusa
 1,acercársele
@@ -25865,7 +25040,6 @@
 1,peluche
 1,apilaban
 1,descalzado
-1,963
 1,cifrara
 1,destruida
 1,tíos
@@ -25876,7 +25050,6 @@
 1,devastador
 1,esporádicos
 1,recaderas
-1,964
 1,soportó
 1,semiderruido
 1,tramos
@@ -25890,7 +25063,6 @@
 1,cercioraba
 1,tornaran
 1,tomarlas
-1,965
 1,apasionadas
 1,mascar
 1,impersonalmente
@@ -25908,7 +25080,6 @@
 1,extracto
 1,método
 1,encogida
-1,966
 1,anemia
 1,deducción
 1,empírica
@@ -25921,7 +25092,6 @@
 1,listillo
 1,afiebrada
 1,sonrojaban
-1,967
 1,blandenguería
 1,recargado
 1,artificioso
@@ -25934,7 +25104,6 @@
 1,ennegrecidos
 1,enérgica
 1,diagnosticaron
-1,968
 1,estirada
 1,teorizaban
 1,languidecía
@@ -25946,14 +25115,12 @@
 1,prominente
 1,fantasiosa
 1,desvarío
-1,969
 1,congelarse
 1,conocías
 1,jugadoras
 1,asiduos
 1,hipódromos
 1,coges
-1,970
 1,figurara
 1,interrogarme
 1,ayudaran
@@ -25962,15 +25129,14 @@
 1,trasvase
 1,colé
 1,coblenza
-1,971
 1,trifulca
+1,pm
 1,reginastrasse
 1,hebbel
 1,matarte
 1,refieres
 1,infectó
 1,suizas
-1,972
 1,aprecian
 1,reírme
 1,rompas
@@ -25979,7 +25145,6 @@
 1,ropavejero
 1,montones
 1,victoriosa
-1,973
 1,saltado
 1,sublevación
 1,cosaco
@@ -25993,7 +25158,6 @@
 1,espejismos
 1,reprimir
 1,desertores
-1,974
 1,empeoró
 1,apreciando
 1,peletero
@@ -26007,7 +25171,6 @@
 1,provenir
 1,irrepetibles
 1,detonaciones
-1,975
 1,sirenas
 1,sobrevino
 1,purista
@@ -26020,7 +25183,6 @@
 1,mitigar
 1,adquirida
 1,lloroso
-1,976
 1,peculiar
 1,recalaban
 1,alcahuete
@@ -26036,7 +25198,6 @@
 1,atlética
 1,lanzadora
 1,jabalina
-1,977
 1,pregúntaselo
 1,clítoris
 1,masturbarla
@@ -26046,7 +25207,6 @@
 1,enculaba
 1,prever
 1,alzaron
-1,978
 1,acostaran
 1,previsiones
 1,creíble
@@ -26057,12 +25217,10 @@
 1,repitiéndose
 1,amarla
 1,amarnos
-1,979
 1,fatídica
 1,anunciada
 1,emprendedora
 1,pesimista
-1,1950
 1,patrones
 1,raab
 1,ingente
@@ -26071,7 +25229,6 @@
 1,mota
 1,impronta
 1,préstamos
-1,980
 1,mariconeo
 1,entiéndalo
 1,lloramos
@@ -26100,7 +25257,6 @@
 1,grutas
 1,yerbazales
 1,parásitas
-1,982
 1,desmerece
 1,atestiguar
 1,retorciéndose
@@ -26120,7 +25276,6 @@
 1,mágica
 1,disculpe
 1,excito
-1,983
 1,esforzada
 1,sacrificable
 1,esquema
@@ -26133,7 +25288,6 @@
 1,agradece
 1,recordada
 1,venideras
-1,984
 1,ecos
 1,atorrantes
 1,estatales
@@ -26151,7 +25305,6 @@
 1,prevalece
 1,indispensable
 1,confórmese
-1,985
 1,enérgicas
 1,pavo
 1,eslavos
@@ -26171,7 +25324,6 @@
 1,antojaban
 1,muelle
 1,caí
-1,986
 1,disecciones
 1,monstruosidades
 1,refrigeradas
@@ -26187,7 +25339,6 @@
 1,cedía
 1,templar
 1,camaradería
-1,987
 1,entrañable
 1,explicativa
 1,comprometía
@@ -26203,7 +25354,6 @@
 1,sobrecogimiento
 1,ídolo
 1,despejados
-1,988
 1,acarrear
 1,engranaje
 1,ayudé
@@ -26213,7 +25363,6 @@
 1,travesías
 1,bonachón
 1,achaques
-1,989
 1,pelearse
 1,escribíamos
 1,despedidos
@@ -26228,7 +25377,6 @@
 1,derechas
 1,expiar
 1,escuchándolo
-1,990
 1,castigada
 1,sopesar
 1,escrutinio
@@ -26239,7 +25387,6 @@
 1,distinguidos
 1,empero
 1,rechazaban
-1,991
 1,innegables
 1,rechazaron
 1,manuales
@@ -26247,7 +25394,6 @@
 1,instruían
 1,adecuadamente
 1,reutilización
-1,992
 1,batallas
 1,ratoncito
 1,superlativo
@@ -26262,7 +25408,6 @@
 1,combatirlo
 1,fortificada
 1,cazabombarderos
-1,993
 1,ronco
 1,bronco
 1,presagia
@@ -26288,7 +25433,6 @@
 1,batidos
 1,volatilizado
 1,refu
-1,994
 1,gio
 1,arde
 1,bombarderos
@@ -26303,13 +25447,11 @@
 1,circunvoluciones
 1,podremos
 1,daremos
-1,995
 1,student
 1,turbaba
 1,irrefrenables
 1,memorizaba
 1,amberes
-1,996
 1,mulo
 1,combatido
 1,creta
@@ -26329,7 +25471,6 @@
 1,retroalimentarse
 1,bebiera
 1,olvidada
-1,997
 1,libró
 1,malolientes
 1,suciedad
@@ -26345,7 +25486,7 @@
 1,repite
 1,prohibición
 1,entendederas
-1,998
+1,pk
 1,camioncito
 1,descerrajar
 1,termo
@@ -26355,7 +25496,6 @@
 1,voluntades
 1,calumnias
 1,espantado
-1,999
 1,brados
 1,dimes
 1,diretes
@@ -26371,7 +25511,6 @@
 1,disuadió
 1,agresiva
 1,págale
-1,1000
 1,saboreando
 1,baches
 1,deseara
@@ -26380,7 +25519,6 @@
 1,velocidades
 1,inertes
 1,centellaban
-1,1001
 1,editar
 1,novedosa
 1,apostaría
@@ -26392,7 +25530,6 @@
 1,visitarle
 1,adjuntaba
 1,boletín
-1,1002
 1,trapos
 1,olviden
 1,mintiendo
@@ -26403,7 +25540,6 @@
 1,primarios
 1,perseguirlo
 1,fon
-1,1003
 1,corren
 1,fío
 1,proverbial
@@ -26414,7 +25550,6 @@
 1,renegando
 1,bombardeaban
 1,fogonazo
-1,1004
 1,insultándome
 1,mequetrefe
 1,pueriles
@@ -26434,7 +25569,6 @@
 1,raids
 1,achacoso
 1,desconfiado
-1,1005
 1,afirmarse
 1,reformas
 1,freática
@@ -26443,7 +25577,6 @@
 1,burlar
 1,achacado
 1,recobró
-1,1006
 1,terminase
 1,destruido
 1,reverdecía
@@ -26462,7 +25595,6 @@
 1,conductas
 1,errática
 1,enfo
-1,1007
 1,palmeaban
 1,compungidas
 1,encierra
@@ -26473,7 +25605,6 @@
 1,abominaba
 1,patrias
 1,alema
-1,1008
 1,nia
 1,quejándose
 1,gimoteando
@@ -26489,7 +25620,6 @@
 1,flamenca
 1,aburriera
 1,venderlos
-1,1009
 1,raíz
 1,portentosa
 1,arrolladoras
@@ -26501,10 +25631,10 @@
 1,chanzas
 1,aria
 1,bromita
+1,is
 1,vetusto
 1,oficiada
 1,zalamería
-1,1010
 1,lealtad
 1,encomiable
 1,vislumbrar
@@ -26518,7 +25648,6 @@
 1,atareado
 1,recibiría
 1,portentoso
-1,1011
 1,aparecidas
 1,boston
 1,míticos
@@ -26527,7 +25656,6 @@
 1,babá
 1,mussolini
 1,conque
-1,1012
 1,aniano
 1,benedictinos
 1,nursia
@@ -26542,13 +25670,11 @@
 1,marcho
 1,entregue
 1,aplaudiera
-1,1013
 1,tirabuzones
 1,dedicarle
 1,encendedor
 1,transcurridos
 1,barone
-1,1014
 1,mansión
 1,ficticia
 1,indemne
@@ -26564,7 +25690,6 @@
 1,embajadas
 1,arrepentirse
 1,intelectualmente
-1,1015
 1,hedonista
 1,evocarlos
 1,estremecía
@@ -26576,12 +25701,10 @@
 1,arréglate
 1,cenamos
 1,desnudara
-1,1016
 1,arruinado
 1,iluminadora
 1,apalearon
 1,crucificaron
-1,1017
 1,maño
 1,tramposo
 1,fláccido
@@ -26603,7 +25726,6 @@
 1,execrable
 1,separar
 1,indi
-1,1018
 1,viduo
 1,inasible
 1,confesara
@@ -26621,7 +25743,6 @@
 1,enmendarle
 1,hanseático
 1,filóloga
-1,1019
 1,almacenero
 1,expresionista
 1,simbolista
@@ -26631,7 +25752,6 @@
 1,contable
 1,distribuidores
 1,abandonaría
-1,1020
 1,picles
 1,exiliado
 1,apetitoso
@@ -26646,7 +25766,6 @@
 1,desfavorables
 1,atrevido
 1,confiarle
-1,1021
 1,suscitaron
 1,mitigaron
 1,despistadas
@@ -26662,7 +25781,6 @@
 1,llamaremos
 1,rimbombante
 1,compartimientos
-1,1022
 1,portentosos
 1,epigonales
 1,engordar
@@ -26675,7 +25793,6 @@
 1,olivetti
 1,maquina
 1,edito
-1,1023
 1,rial
 1,cantores
 1,encalados
@@ -26687,7 +25804,6 @@
 1,aldaba
 1,maciza
 1,aguardada
-1,1024
 1,ahumada
 1,usanza
 1,heidelberg
@@ -26706,7 +25822,6 @@
 1,comensal
 1,aquiescencia
 1,enervaba
-1,1025
 1,barriada
 1,guardándose
 1,resurgían
@@ -26721,7 +25836,6 @@
 1,alborotar
 1,hermanaban
 1,cabalmente
-1,1026
 1,sencia
 1,adoptaban
 1,parafernalia
@@ -26753,7 +25867,6 @@
 1,entregarse
 1,connivencia
 1,fecundara
-1,1027
 1,preñada
 1,nacería
 1,odiseo
@@ -26780,7 +25893,6 @@
 1,encadenó
 1,hazaña
 1,encadenado
-1,1028
 1,sobrante
 1,plusvalía
 1,tic
@@ -26790,12 +25902,10 @@
 1,secuela
 1,perennes
 1,faulkner
-1,1029
 1,indochino
 1,arrebolado
 1,desproporción
 1,conservando
-1,1030
 1,nombrados
 1,incorrecta
 1,elemental
@@ -26812,14 +25922,12 @@
 1,localidad
 1,contribuiría
 1,expe
-1,1031
 1,rimentó
 1,mecanógrafa
 1,veterana
 1,berlinesas
 1,recorrida
 1,presidiendo
-1,1032
 1,complacer
 1,sorprenderla
 1,trotando
@@ -26828,7 +25936,6 @@
 1,adecuados
 1,moño
 1,bello
-1,1033
 1,liturgia
 1,sacramentos
 1,latían
@@ -26844,14 +25951,12 @@
 1,zigzagueaba
 1,tecleo
 1,tecleos
-1,1034
 1,estuario
 1,desmigajarse
 1,cuantía
 1,aburra
 1,ocupará
 1,carreta
-1,1035
 1,contagio
 1,quesos
 1,hogazas
@@ -26865,12 +25970,10 @@
 1,malvivía
 1,reponerse
 1,tazones
-1,1036
 1,habladurías
 1,oveja
 1,kreuze
 1,arrojándola
-1,1037
 1,deshielo
 1,despeñados
 1,mirándole
@@ -26880,28 +25983,24 @@
 1,gorro
 1,duplicaban
 1,esperan
-1,1038
 1,remecer
 1,separaran
 1,helaron
 1,ventisca
 1,estropeó
 1,solidez
-1,1039
 1,ascendiendo
 1,eliminada
 1,tocados
 1,despejada
 1,soltarle
 1,abrazarla
-1,1040
 1,existíamos
 1,conjeturas
 1,sanguinarios
 1,asta
 1,mampara
 1,darnos
-1,1041
 1,leñera
 1,guardas
 1,fronterizos
@@ -26910,7 +26009,6 @@
 1,guardafrontera
 1,midiendo
 1,barrió
-1,1042
 1,causante
 1,estropicio
 1,intercesión
@@ -26919,7 +26017,6 @@
 1,botines
 1,rústicos
 1,administraban
-1,1043
 1,irresistible
 1,guardándola
 1,velador
@@ -26937,7 +26034,6 @@
 1,paquetito
 1,tieso
 1,azoro
-1,1044
 1,busqué
 1,hato
 1,enterré
@@ -26946,7 +26042,6 @@
 1,inscribieron
 1,contaré
 1,tramitó
-1,1045
 1,párroco
 1,brescia
 1,padua
@@ -26964,7 +26059,6 @@
 1,duna
 1,afrika
 1,korps
-1,1046
 1,milaneses
 1,románica
 1,izquierdista
@@ -26974,7 +26068,6 @@
 1,bardolino
 1,desenzano
 1,trasnochado
-1,1047
 1,carceos
 1,sentidas
 1,atenerse
@@ -26992,7 +26085,6 @@
 1,olivos
 1,soportables
 1,vendiéndose
-1,1048
 1,marginal
 1,tachaduras
 1,prolijas
@@ -27006,14 +26098,12 @@
 1,inyectar
 1,aterida
 1,narradores
-1,1049
 1,inextricables
 1,apasionado
 1,túmulos
 1,funerarios
 1,moraviano
 1,despeinada
-1,1050
 1,ferrocarriles
 1,orto
 1,tintoretto
@@ -27039,7 +26129,6 @@
 1,doncellas
 1,doncellitas
 1,supervivencia
-1,1051
 1,vecchio
 1,monologaba
 1,barones
@@ -27061,7 +26150,6 @@
 1,rio
 1,sensa
 1,malva
-1,1052
 1,transmutaba
 1,sojuzgadas
 1,carnalmente
@@ -27084,7 +26172,6 @@
 1,palacios
 1,conjuraba
 1,envolviéndose
-1,1053
 1,malaventurado
 1,pedantería
 1,nevaba
@@ -27093,7 +26180,6 @@
 1,conducían
 1,gráfico
 1,aumentado
-1,1054
 1,sonoras
 1,trapacerías
 1,plagiarios
@@ -27112,7 +26198,6 @@
 1,marítimos
 1,gaston
 1,leroux
-1,1055
 1,lucirá
 1,sinkiewicz
 1,enjugarse
@@ -27123,12 +26208,12 @@
 1,argibachev
 1,mongomer
 1,ponson
+1,du
 1,terrail
 1,destacaban
 1,mortífera
 1,andaban
 1,retrasó
-1,1056
 1,trasfondo
 1,acotó
 1,alusión
@@ -27140,13 +26225,11 @@
 1,cumbre
 1,colgarse
 1,aparatito
-1,1057
 1,remonte
 1,porquería
 1,deduces
 1,preocupación
-1,1821
-1,1890
+1,lô
 1,realista
 1,prefigura
 1,feuilleton
@@ -27154,7 +26237,6 @@
 1,folletín
 1,delfín
 1,desentonaría
-1,1058
 1,metas
 1,cortan
 1,actúan
@@ -27165,7 +26247,6 @@
 1,ánimos
 1,apócrifa
 1,bió
-1,1059
 1,grafo
 1,biografiado
 1,régimen
@@ -27182,7 +26263,6 @@
 1,castigarla
 1,fianza
 1,valedera
-1,1060
 1,finalidad
 1,inventara
 1,argucias
@@ -27196,7 +26276,6 @@
 1,lisiado
 1,rememora
 1,terminan
-1,1948
 1,amargos
 1,santorín
 1,sifnos
@@ -27206,7 +26285,6 @@
 1,superego
 1,curado
 1,esparcirse
-1,1061
 1,reblandecer
 1,bidón
 1,dedillo
@@ -27215,14 +26293,12 @@
 1,artísticamente
 1,esparcido
 1,alster
-1,1062
 1,plazuela
 1,convendría
 1,generados
 1,sardinas
 1,rodajas
 1,sémola
-1,1063
 1,nevada
 1,benigno
 1,conjurar
@@ -27233,7 +26309,7 @@
 1,referida
 1,hermes
 1,batía
-1,1064
+1,ru
 1,frecuentó
 1,exiliados
 1,visceralmente
@@ -27250,8 +26326,8 @@
 1,refulgiera
 1,cataratas
 1,odiosidades
+1,°
 1,folclórica
-1,1065
 1,quina
 1,escaparon
 1,retozar
@@ -27283,7 +26359,6 @@
 1,dirigirnos
 1,estupefactos
 1,asombrados
-1,1067
 1,lamentándose
 1,presagiaba
 1,superaron
@@ -27301,7 +26376,6 @@
 1,vaciada
 1,resucitar
 1,afearles
-1,1068
 1,infausto
 1,masticaba
 1,doliera
@@ -27309,7 +26383,6 @@
 1,desahóguese
 1,sobresaltara
 1,gluck
-1,1069
 1,entrecerrando
 1,inquiete
 1,moleste
@@ -27321,7 +26394,6 @@
 1,caváramos
 1,rebosaban
 1,compases
-1,1070
 1,acercaran
 1,desprendió
 1,afanaron
@@ -27333,7 +26405,7 @@
 1,aseguraos
 1,preocupéis
 1,centroamericana
-1,1071
+1,pi
 1,dió
 1,bizarro
 1,contrastes
@@ -27354,7 +26426,6 @@
 1,entusiasmó
 1,ministros
 1,duraron
-1,1072
 1,divorciaron
 1,alojaban
 1,prestigioso
@@ -27362,7 +26433,6 @@
 1,refugiaban
 1,destartalado
 1,molestarle
-1,1073
 1,batas
 1,cano
 1,tejían
@@ -27374,17 +26444,14 @@
 1,dormitaban
 1,ascética
 1,man
-1,1074
 1,diferenciara
 1,apago
 1,asesinar
 1,masajes
-1,1075
 1,deshora
 1,canchas
 1,fuste
 1,rogar
-1,1076
 1,hannover
 1,peluquera
 1,rodez
@@ -27399,12 +26466,10 @@
 1,aminoró
 1,normalizara
 1,ráfaga
-1,1077
 1,alborotaba
 1,cobrarle
 1,resolvían
 1,realizaban
-1,1078
 1,practicó
 1,patéticos
 1,deleznables
@@ -27430,7 +26495,6 @@
 1,cristianismo
 1,distinciones
 1,candidaturas
-1,1079
 1,reponía
 1,agónicas
 1,jamaica
@@ -27441,7 +26505,6 @@
 1,criar
 1,recordando
 1,fantaseó
-1,1080
 1,acentuado
 1,restringió
 1,publicándolo
@@ -27453,7 +26516,6 @@
 1,legar
 1,benéficas
 1,pinto
-1,1081
 1,rescos
 1,vaticano
 1,tadzio
@@ -27466,12 +26528,10 @@
 1,ortigas
 1,esforzarse
 1,acribillado
-1,1082
 1,sueñes
 1,gatita
 1,parduzca
 1,sientan
-1,1083
 1,uniformes
 1,cascos
 1,espantajos
@@ -27487,7 +26547,6 @@
 1,grote
 1,kunze
 1,noack
-1,1084
 1,chillaba
 1,lübeck
 1,contínuum
@@ -27496,13 +26555,11 @@
 1,retrasado
 1,suspiraron
 1,clamaban
-1,1085
 1,enterraran
 1,atenciones
 1,exquisitas
 1,nazismo
 1,ingenio
-1,1086
 1,planchando
 1,planchar
 1,reparando
@@ -27513,7 +26570,6 @@
 1,simpatizar
 1,maleante
 1,timo
-1,1087
 1,huelo
 1,contrabandistas
 1,recambio
@@ -27525,13 +26581,11 @@
 1,tranquilizarla
 1,vegetariana
 1,fumaran
-1,1088
 1,casaran
 1,habérselo
 1,duisburg
 1,dañar
 1,indirectamente
-1,1089
 1,invitarla
 1,disminuyeron
 1,tartamudeando
@@ -27542,7 +26596,6 @@
 1,arreglando
 1,tractores
 1,cosechadoras
-1,1090
 1,exigieron
 1,paletos
 1,disminuyó
@@ -27556,13 +26609,11 @@
 1,discutieron
 1,lánguida
 1,acarreaba
-1,1091
 1,enfurruñada
 1,pararon
 1,pesó
 1,abortó
 1,burlado
-1,1092
 1,suministraban
 1,morfina
 1,fielmente
@@ -27572,7 +26623,6 @@
 1,distraería
 1,ganarse
 1,ocurrirles
-1,1093
 1,continuó
 1,ganaron
 1,funcionando
@@ -27585,7 +26635,6 @@
 1,llevarlas
 1,aficionó
 1,cervecerías
-1,1094
 1,embarcó
 1,astutos
 1,hundiría
@@ -27596,7 +26645,6 @@
 1,tramitando
 1,estadounidense
 1,remite
-1,1095
 1,volado
 1,bronceados
 1,talle
@@ -27604,7 +26652,6 @@
 1,desagradaba
 1,adrede
 1,recurrente
-1,1096
 1,pidiéndoles
 1,extrañaría
 1,alaska
@@ -27616,7 +26663,6 @@
 1,pagaron
 1,enviarles
 1,desglosaba
-1,1097
 1,casero
 1,agradeciéndole
 1,cardíaca
@@ -27634,20 +26680,17 @@
 1,jarrita
 1,sangría
 1,ale
-1,1098
 1,manes
 1,ratito
 1,evaporaba
 1,adjuntó
 1,telefonistas
 1,sílaba
-1,1099
 1,informarse
 1,daños
 1,repasaba
 1,acusan
 1,moverte
-1,1100
 1,reconfortante
 1,juiciosa
 1,gastar
@@ -27658,7 +26701,6 @@
 1,intérprete
 1,malhumor
 1,acepto
-1,1101
 1,enlazaron
 1,envejecido
 1,avergonzó
@@ -27667,14 +26709,12 @@
 1,enumeró
 1,imputaban
 1,com
-1,1102
 1,distraerse
 1,gesticulando
 1,distinguirlos
 1,adquiridos
 1,espectaculares
 1,hacha
-1,1103
 1,tenías
 1,fabricadas
 1,tailandia
@@ -27685,21 +26725,17 @@
 1,traerían
 1,planteaba
 1,reglamento
-1,1104
 1,abigarrada
 1,aparatos
 1,electrónicos
 1,apresuraba
 1,cálida
 1,innata
-1,1105
 1,aplazó
 1,encerradas
-1,1106
 1,deletreó
 1,debatirse
 1,hablará
-1,1107
 1,lindo
 1,rastra
 1,abuelas
@@ -27712,7 +26748,6 @@
 1,irregularidades
 1,declararían
 1,recurrir
-1,1108
 1,bocajarro
 1,elige
 1,acuesta
@@ -27724,22 +26759,18 @@
 1,sobrepoblación
 1,recibo
 1,inflada
-1,1109
 1,postergó
 1,alquilarle
 1,steve
 1,atravesaban
 1,esperarla
 1,resfriaba
-1,2000
 1,referentes
 1,apareciendo
 1,fisioterapeuta
 1,acupuntura
 1,ensaladas
 1,sustituyó
-1,1110
-1,2001
 1,jubilan
 1,presentadores
 1,televisivos
@@ -27747,7 +26778,6 @@
 1,caldero
 1,saltándose
 1,posi
-1,1111
 1,bilidad
 1,escribiéndolo
 1,abducida
@@ -27757,25 +26787,20 @@
 1,monchita
 1,calvario
 1,sentenció
-1,1112
 1,interesarle
 1,subrayado
 1,dejaré
-1,1113
 1,telefonea
 1,esclusa
 1,enredaba
-1,1114
 1,bruñir
 1,desploma
 1,rescatar
 1,repisa
-1,1115
 1,enfermarme
 1,acuerdas
 1,rústica
 1,crujieron
-1,1116
 1,traerán
 1,caminitos
 1,adoquinados
@@ -27786,7 +26811,6 @@
 1,alexander
 1,botánica
 1,opúsculos
-1,1117
 1,ingeniosas
 1,convulsa
 1,ubicado
@@ -27797,10 +26821,8 @@
 1,ecuestre
 1,infolios
 1,saboreado
-1,1118
 1,empalagosos
 1,descendiente
-1,1119
 1,tranquilizadora
 1,trazó
 1,sobrepasado
@@ -27856,8 +26878,6 @@
 1,extensas
 1,ambiciosas
 1,atrevidas
-1,1122
-1,289290
 1,actúa
 1,ordenan
 1,coja
@@ -27876,13 +26896,11 @@
 1,resuena
 1,lacouture
 1,prefigurado
-1,1123
 1,bucareli
 1,arremolinado
 1,cuneiforme
 1,exhalaciones
 1,deprisa
-1,1968
 1,[fecha
 1,dicta
 1,lacouture]
@@ -27899,13 +26917,7 @@
 1,pulía
 1,deliberación
 1,enmiendas
-1,1124
 1,evidentes
 1,debilidades
 1,aislado
 1,despide
-1,1125
-1,209
-1,293
-1,441
-1,793
