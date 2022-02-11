@@ -1,8 +1,4 @@
-Paste a text into input.txt to analyze vocabulary, save and close the file. 
-
-If the text contains more than 50 000 words - the process may take some minutes to finish, 
-
-in that case split the text manually to smaller parts. Save the file in UTF-8.
+Paste a text into input.txt to analyze vocabulary, save and close the file.
 
 The text vocabulary will be placed into output-new.txt, so the file's content will be replaced. 
 
@@ -17,8 +13,14 @@ In case you want to merge two bases - save one base.txt file as ouput-new.txt in
 
 place the other base.txt into the program directory. Try not to edit base.txt or problems may come.
 
+You can make your own list of unknown words. To do so place a list of the words you know to known_words.txt
 
-Output data comes in the next format: number,word and you can copy it to Excel for further usage.
+each word on a new line.
+
+All .txt files used in this program should be encoded with UTF8.
+
+
+Output data comes in the next format: [number,word] and you can copy it to Excel for further usage.
 
 Excel makes able to copy only words, place them into Google translate that returns the translated list.
 

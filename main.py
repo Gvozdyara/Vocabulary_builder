@@ -61,44 +61,12 @@ def group_same_words(list):
     for i in listword:
         total_words += i[0]
     #debug
-    print(total_words,  "in grouped")
+    # print(total_words,  "in grouped")
     return listword
 
 
-# starts the process of the text analysis
-def run_analyze():
-    lbl_warning.configure(text='Wait till completed')
-    lbl_warning.update()
-
-    btn_analyze['state'] = DISABLED
-    btn_merge['state'] = DISABLED
-    btn_help['state'] = DISABLED
-
-    with open('input.txt', 'r', encoding='utf8') as f:
-        input_text = f.read()
-    all_words_list = split_text(input_text)
-    input_text_length = len(input_text)
-    lbl_warning.configure(text=f"The text length is {input_text_length}")
-    lbl_warning.update()
-    time.sleep(0.5)
-
-    window_output = '1 of 4 is completed'
-    lbl_run_status.config(text=window_output)
-    lbl_run_status.update()
-    time.sleep(0.5)
-
-    count_word_list_of_tuple = group_same_words(all_words_list)
-    lbl_run_status.config(text='2 of 4 is completed')
-    lbl_run_status.update()
-    time.sleep(0.5)
-
-    with open('output-new.txt', 'w', encoding='utf8') as f:
-        for key in count_word_list_of_tuple:
-            f.write('{},{}\n'.format(key[0],key[1]))
-
-        # debug
-        print("last item in output_new is ",count_word_list_of_tuple[-1])
-
+# merge output_new and base from files to one file
+def merge():
     with open("base.txt", 'r', encoding="utf8") as file:
         base_list = [item for item in file.read().split("\n")]
     count_old = []
@@ -108,10 +76,11 @@ def run_analyze():
             count_old.append(item.split(",")[0])
             word_old.append(item.split(",")[1])
         except:
-            print("wrong line")
+            # print("wrong line")
             continue
     # debug
-    print(len(base_list))
+    # print(len(base_list), " <= len of base list")
+    # print(len(count_old), " count", len(word_old), " words")
 
     with open("output-new.txt", 'r', encoding="utf8") as file:
         output_new_list = [item for item in file.read().split("\n")]
@@ -122,36 +91,175 @@ def run_analyze():
             count_new.append(item.split(",")[0])
             word_new.append(item.split(",")[1])
         except:
-            print("wrong line")
+            # print("empty line")
             continue
-    print(len(output_new_list), " output_new len, ", len(count_new), "cont new len")
+    # debug
+    # print(len(output_new_list), " <= len of output_new_list")
+    # print(len(count_new), " count new len", len(word_new), " words new len")
 
+    base_dict = dict()
+    for word in word_old:
+        try:
+            base_dict[word] = count_old[word_old.index(word)]
+        except:
+            # print("base_dict throws an exception")
+            continue
+    # debug
+    # print(base_dict)
 
+    new_dict = dict()
+    for word in word_new:
+        try:
+            new_dict[word] = count_new[word_new.index(word)]
+        except:
+            # print("new_dict throws an exception")
+            continue
 
+    #debug
+    # print(new_dict)
 
+    for key in new_dict:
+        try:
+            total_key_count = int(base_dict.get(key)) + int(new_dict.get(key))
+            base_dict[key]=total_key_count
+        except:
+            base_dict[key] = new_dict.get(key)
+            continue
+
+    # debug
+    # print(len(base_dict), " len base_dict to write")
+
+    base_to_write = []
     with open("base.txt", "w", encoding="utf8") as file:
-        base_old_list = [item for item in file.read().split("\n")]
-        count_base = []
-        word_base = []
-        for item in output_new_list:
-            try:
-                count_base.append(item.split(",")[0])
-                word_base.append(item.split(",")[1])
-            except:
-                print("wrong line")
-                continue
-        print(len(base_new_list), " base new len, ", len(count_base), "cont base len")
+        for key in base_dict:
+            file.writelines(f"{base_dict.get(key)},{key}\n")
 
+
+# run merge by clicking merge button
+def merge_click():
+    btn_analyze['state'] = DISABLED
+    btn_merge['state'] = DISABLED
+    btn_help['state'] = DISABLED
+    btn_get_unknown_words['state'] = DISABLED
+
+    lbl_warning.configure(text='Wait till completed')
+    lbl_warning.update()
+
+    merge()
+
+    window_output = 'Completed'
+    lbl_run_status.config(text=window_output)
+    lbl_run_status.update()
+    time.sleep(0.5)
+
+    btn_analyze['state'] = NORMAL
+    btn_merge['state'] = NORMAL
+    btn_help['state'] = NORMAL
+    btn_get_unknown_words['state'] = NORMAL
+
+
+# takes list of known words and returns list of unknown words
+def make_list_unknown_words():
+    with open("base.txt", 'r', encoding="utf8") as file:
+        base_list = [item for item in file.read().split("\n")]
+    count_old = []
+    word_old = []
+    for item in base_list:
+        try:
+            count_old.append(item.split(",")[0])
+            word_old.append(item.split(",")[1])
+        except:
+            # print("wrong line")
+            continue
+    # debug
+    # print(len(base_list), " <= len of base list")
+    # print(len(count_old), " count", len(word_old), " words")
+
+    with open("known_words.txt", "r") as file:
+        known_words = [item for item in file.read().split("\n")]
+
+    base_dict = dict()
+    for word in word_old:
+        try:
+            base_dict[word] = count_old[word_old.index(word)]
+        except:
+            # print("base_dict throws an exception")
+            continue
+    # debug
+    #print(base_dict)
+    unknown_words = list()
+    for key in base_dict:
+        if key not in known_words:
+            unknown_words.append(key)
+
+    with open("unknown_words.txt", "w", encoding="utf8") as file:
+        for i in unknown_words:
+            file.writelines(f"{i}\n")
+
+
+def make_list_unknown_words_clicked():
+    btn_analyze['state'] = DISABLED
+    btn_merge['state'] = DISABLED
+    btn_help['state'] = DISABLED
+    btn_get_unknown_words['state'] = DISABLED
+
+    lbl_warning.configure(text='Wait till completed')
+    lbl_warning.update()
+
+    make_list_unknown_words()
+
+    window_output = 'Completed'
+    lbl_run_status.config(text=window_output)
+    lbl_run_status.update()
+    time.sleep(0.5)
+
+    btn_analyze['state'] = NORMAL
+    btn_merge['state'] = NORMAL
+    btn_help['state'] = NORMAL
+    btn_get_unknown_words['state'] = NORMAL
+
+
+# starts the process of the text analysis
+def run_analyze():
+    lbl_warning.configure(text='Wait till completed')
+    lbl_warning.update()
+
+    btn_analyze['state'] = DISABLED
+    btn_merge['state'] = DISABLED
+    btn_help['state'] = DISABLED
+    btn_get_unknown_words['state'] = DISABLED
+
+    with open('input.txt', 'r', encoding='utf8') as f:
+        input_text = f.read()
+    all_words_list = split_text(input_text)
+    input_text_length = len(input_text)
+    lbl_warning.configure(text=f"The text length is {input_text_length} characters")
+    lbl_warning.update()
+    time.sleep(0.5)
+
+    window_output = '1 of 3 is completed'
+    lbl_run_status.config(text=window_output)
+    lbl_run_status.update()
+    time.sleep(0.5)
+
+    count_word_list_of_tuples = group_same_words(all_words_list)
+    lbl_run_status.config(text='2 of 3 is completed')
+    lbl_run_status.update()
+    time.sleep(0.5)
+
+    with open('output-new.txt', 'w', encoding='utf8') as f:
+        for key in count_word_list_of_tuples:
+            f.write('{},{}\n'.format(key[0],key[1]))
+
+        # debug
+        # print("last item in output_new is ",count_word_list_of_tuples[-1])
+
+    merge()
 
     window_output = 'Writing into the file'
     lbl_run_status.config(text=window_output)
-    list = conjure_new_and_old_lists(counts_old, word_old, count_new, word_new)
     lbl_run_status.update()
 
-    f = open('base.txt', 'w', encoding='utf8')
-    for t in list:
-        f.write(','.join(str(s) for s in t) + '\n')
-    f.close()
     window_output = 'Completed. Check base.txt'
     lbl_run_status.config(text=window_output)
     lbl_status.config(text='')
@@ -159,18 +267,7 @@ def run_analyze():
     btn_analyze['state'] = NORMAL
     btn_merge['state'] = NORMAL
     btn_help['state'] = NORMAL
-
-
-
-
-
-
-
-
-
-
-
-
+    btn_get_unknown_words['state'] = NORMAL
 
 
 if __name__ == "__main__":
@@ -181,7 +278,7 @@ if __name__ == "__main__":
     root.iconbitmap('logo.ico')
 
     text1 = 'Build your own vocabulary list \nto make language learning easier'
-    lbl_warning = Label(root, width=40, height=2, bg="#ACFDF8", fg='#228987', text=text1, font=12, )
+    lbl_warning = Label(root, width=40, height=4, bg="#ACFDF8", fg='#228987', text=text1, font=12, )
     lbl_warning.grid(column=1, row=0)
     lbl_status = Label(root, width=40, height=3, bg="#ACFDF8", fg='#228987', font=12)
     lbl_status.grid(column=1, row=1)
@@ -197,8 +294,12 @@ if __name__ == "__main__":
                          command=lambda: run_analyze(), relief=FLAT, borderwidth=1, width=18, height=2)
     btn_analyze.grid(column=0, row=1)
     btn_merge = Button(frame_btn, width=18, height=2, bg="#66CDAA", fg='#ffffff', font=14, activebackground='#ACFDF8',
-                       text="MERGE", relief=FLAT, borderwidth=1, command=lambda: merge_first_step())
+                       text="MERGE", relief=FLAT, borderwidth=1, command=lambda: merge_click())
     btn_merge.grid(column=0, row=2)
+    btn_get_unknown_words = Button(frame_btn, width=18, height=2, bg="#66CDAA", fg='#ffffff', font=14, activebackground='#ACFDF8',
+                       text="NEW WORDS", relief=FLAT, borderwidth=1, command=lambda: make_list_unknown_words_clicked())
+    btn_get_unknown_words.grid(column=0, row=3)
+
     root.resizable(False, False)
     root.mainloop()
 
